@@ -7,28 +7,28 @@ It combines **historical Billboard Hot 100 data** (1958 → today) with **Spotif
 ---
 
 ## 🧱 Project Structure
-
+```plaintext
 rock-evolution/
 │
 ├── data/
-│ ├── raw/ ← raw CSVs (Billboard, Spotify, World Bank)
-│ ├── cleaned/ ← SQL-cleaned data
-│ ├── enriched/ ← merged + genre-labeled data
-│ └── final/ ← BI-ready datasets
+│   ├── raw/         ← raw CSVs (Billboard, Spotify, World Bank)
+│   ├── cleaned/     ← SQL-cleaned data
+│   ├── enriched/    ← merged + genre-labeled data
+│   └── final/       ← BI-ready datasets
 │
-├── src/ ← Python source scripts
-│ ├── fetch_billboard_all_weeks.py # pulls Billboard Hot 100 weekly charts
-│ ├── fetch_billboard_week.py # single-week fetcher (for testing)
-│ ├── spotify_auth.py # Spotify API authentication
-│ ├── enrich_spotify_genres.py # adds artist-genre metadata
-│ ├── musicbrainz_utils.py # (optional) historical genre enrichment
-│ └── hypothesis_testing.py # Billboard vs Spotify correlation tests
+├── src/             ← Python source scripts
+│   ├── fetch_billboard_all_weeks.py      # pulls Billboard Hot 100 weekly charts
+│   ├── fetch_billboard_week.py           # single-week fetcher (for testing)
+│   ├── spotify_auth.py                   # Spotify API authentication
+│   ├── enrich_spotify_genres.py          # adds artist-genre metadata
+│   ├── musicbrainz_utils.py              # (optional) historical genre enrichment
+│   └── hypothesis_testing.py             # Billboard vs Spotify correlation tests
 │
-├── sql/ ← SQL cleaning and normalization scripts
-├── notebooks/ ← Jupyter notebooks for analysis & visualization
-├── reports/ ← figures, dashboards, Medium drafts
+├── sql/             ← SQL cleaning and normalization scripts
+├── notebooks/       ← Jupyter notebooks for analysis & visualization
+├── reports/         ← figures, dashboards, Medium drafts
 └── README.md
-
+```
 
 ---
 
@@ -92,12 +92,12 @@ rock-evolution/
 - How do economic and demographic factors relate to rock popularity?  
 
 ---
-💡 Example Insight Preview
+## 💡 Example Insight Preview
 
 Between 1985 and 1995, rock dominated ≈ 60% of Billboard Hot 100 entries.
 By 2023, its share in Spotify’s global top 200 was under 15%, with Latin America showing a renewed growth in indie and punk subgenres.
 
-📈 Future Work
+## 📈 Future Work
 
 Predict 2030 rock share using time-series forecasting (Prophet).
 
@@ -107,8 +107,9 @@ Integrate YouTube Music and Apple Music metrics for cross-validation.
 
 Deploy dashboard on Streamlit or Tableau Public.
 
-👤 Author
+## 👤 Author
 
 Jinwoo Roh
 🎓 UCLA Anderson MSBA Class of 2026
 💼 Marketing & Data Analytics Professional
+
