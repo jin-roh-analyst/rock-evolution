@@ -1,40 +1,54 @@
-# src/fetch_genres_raw.py
+# src/fetch_genres_raw_debug.py
 import os, base64, requests, pandas as pd
 from pathlib import Path
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 
 # ---------- Config ----------
-INPUT_CSV  = Path("data/cleaned/unique_artists_levels.csv")   # artist,l1,l2,l3,last_chart_year (lowercase)
-OUTPUT_CSV = Path("data/enriched/artist_genres_raw.csv")      # artist,l1,l2,l3,matched_name,spotify_artist_id,genres_raw,source,last_chart_year,matched_from
+INPUT_CSV  = Path("data/cleaned/split_4.csv")   # artist,l1,l2,l3,last_chart_year (lowercase)
+OUTPUT_CSV = Path("data/enriched/artist_genres_raw4.csv")      # artist,l1,l2,l3,matched_name,spotify_artist_id,genres_raw,source,last_chart_year,matched_from
 SAVE_EVERY = 20
 
-load_dotenv()
+load_dotenv(find_dotenv())
 CID = os.getenv("SPOTIFY_CLIENT_ID"); CS = os.getenv("SPOTIFY_CLIENT_SECRET")
+print("[Init] CID loaded?", bool(CID), "CS loaded?", bool(CS))
 
 class RateLimit429(Exception):
     pass
 
 # ---------- Spotify ----------
 def get_token():
+    print("[Auth] Requesting Spotify token...")
     basic = base64.b64encode(f"{CID}:{CS}".encode()).decode()
     r = requests.post(
         "https://accounts.spotify.com/api/token",
         headers={"Authorization": f"Basic {basic}", "Content-Type": "application/x-www-form-urlencoded"},
         data={"grant_type": "client_credentials"}, timeout=20
     )
-    if r.status_code == 429: raise RateLimit429()
+    print(f"[Auth] Response code: {r.status_code}")
+    if r.status_code == 429:
+        print("[Auth] Hit rate limit during token request.")
+        raise RateLimit429()
+    if r.status_code != 200:
+        print("[Auth] Token request failed:", r.text)
     r.raise_for_status()
-    return r.json()["access_token"]
+    token = r.json()["access_token"]
+    print("[Auth] Token retrieved successfully.")
+    return token
 
 def search_exact_lower_spotify(token, name_lower: str, limit: int = 50):
-    if not name_lower: return None
+    if not name_lower:
+        return None
     r = requests.get(
         "https://api.spotify.com/v1/search",
         headers={"Authorization": f"Bearer {token}"},
         params={"q": f'artist:"{name_lower}"', "type": "artist", "limit": limit},
         timeout=20
     )
-    if r.status_code == 429: raise RateLimit429()
+    if r.status_code == 429:
+        print(f"[Search] Rate limit hit while searching '{name_lower}'")
+        raise RateLimit429()
+    if r.status_code != 200:
+        print(f"[Search] Error {r.status_code} for '{name_lower}':", r.text[:200])
     r.raise_for_status()
     items = r.json().get("artists", {}).get("items", []) or []
     target = (name_lower or "").strip().lower()
@@ -45,20 +59,28 @@ def search_exact_lower_spotify(token, name_lower: str, limit: int = 50):
 
 def get_artists_batch(token, ids):
     if not ids: return []
+    print(f"[Batch] Fetching {len(ids)} artists...")
     r = requests.get(
         "https://api.spotify.com/v1/artists",
         headers={"Authorization": f"Bearer {token}"},
         params={"ids": ",".join(ids)}, timeout=20
     )
-    if r.status_code == 429: raise RateLimit429()
+    if r.status_code == 429:
+        print("[Batch] Rate limit hit while fetching artist batch.")
+        raise RateLimit429()
+    if r.status_code != 200:
+        print("[Batch] Error fetching batch:", r.text[:200])
     r.raise_for_status()
     return r.json().get("artists", []) or []
 
 # ---------- Main ----------
 def main():
+    print("[Main] Starting script...")
     INPUT_CSV.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_CSV.parent.mkdir(parents=True, exist_ok=True)
+    print(f"[Main] Loading input CSV: {INPUT_CSV}")
     df = pd.read_csv(INPUT_CSV)
+    print(f"[Main] Loaded {len(df)} rows.")
 
     out = []  # rows ready to flush
 
@@ -66,30 +88,44 @@ def main():
         token = get_token()
 
         # Phase 1: search each unique name once (minimize calls)
+        print("[Phase 1] Collecting unique artist names...")
         cols = ["artist", "l1", "l2", "l3"]
         unique_names = set()
         for c in cols:
             unique_names |= set(str(x).strip().lower() for x in df[c].dropna().astype(str))
+        print(f"[Phase 1] Found {len(unique_names)} unique names.")
+
         name_to_hit = {}
-        for nm in sorted(unique_names):
+        for i, nm in enumerate(sorted(unique_names), start=1):
+            if i % 50 == 0:
+                print(f"[Phase 1] Processing artist {i}/{len(unique_names)}...")
             hit = search_exact_lower_spotify(token, nm)
-            if hit: name_to_hit[nm] = hit
+            if hit:
+                name_to_hit[nm] = hit
+        print(f"[Phase 1] Completed. Matched {len(name_to_hit)} artists.")
 
         # Phase 2: batch-fetch genres (50 per call)
+        print("[Phase 2] Fetching genres in batches...")
         unique_ids = sorted(set(hit["id"] for hit in name_to_hit.values() if hit.get("id")))
         id_to_genres, id_to_name = {}, {}
         for i in range(0, len(unique_ids), 50):
+            print(f"[Phase 2] Fetching batch {i}-{i+50} of {len(unique_ids)}...")
             for a in get_artists_batch(token, unique_ids[i:i+50]):
                 aid = a.get("id")
                 if aid:
                     id_to_genres[aid] = (a.get("genres") or [])
                     id_to_name[aid]   = a.get("name")
+        print(f"[Phase 2] Completed. Retrieved {len(id_to_genres)} genre lists.")
 
         # Phase 3: assemble rows (no API calls here)
+        print("[Phase 3] Assembling final output rows...")
         n = 0
         last_q_used = None
         last_payload = None
-        for _, row in df.iterrows():
+        for idx, (_, row) in enumerate(df.iterrows(), start=1):
+            if idx % 100 == 0:
+                print(f"[Phase 3] Processed {idx}/{len(df)} rows...")
+
             artist = str(row.get("artist") or "").strip().lower()
             qvals  = [
                 artist,
@@ -100,7 +136,7 @@ def main():
             last_chart_year = row.get("last_chart_year", "")
 
             if last_q_used and last_payload and (last_q_used in qvals):
-                idx = qvals.index(last_q_used)
+                idx2 = qvals.index(last_q_used)
                 out.append({
                     "artist": artist,
                     "l1": qvals[1], "l2": qvals[2], "l3": qvals[3],
@@ -108,7 +144,7 @@ def main():
                     "spotify_artist_id": last_payload["spotify_id"],
                     "genres_raw": ";".join(last_payload["genres_raw"]),
                     "source": last_payload["source"],
-                    "matched_from": ["artist","l1","l2","l3"][idx],
+                    "matched_from": ["artist","l1","l2","l3"][idx2],
                     "last_chart_year": last_chart_year
                 })
             else:
@@ -119,14 +155,14 @@ def main():
                 matched_from = None
                 q_used       = None
 
-                for idx, q in enumerate(qvals):
+                for idx2, q in enumerate(qvals):
                     hit = name_to_hit.get(q)
                     if not hit: continue
                     aid = hit.get("id")
                     g   = id_to_genres.get(aid, [])
                     matched_name = hit.get("name")
                     spotify_id   = aid
-                    matched_from = ["artist","l1","l2","l3"][idx]
+                    matched_from = ["artist","l1","l2","l3"][idx2]
                     q_used       = q
                     if g:
                         genres_raw = g[:5]
@@ -158,18 +194,17 @@ def main():
                     OUTPUT_CSV, mode=("a" if OUTPUT_CSV.exists() else "w"),
                     index=False, header=not OUTPUT_CSV.exists()
                 )
+                print(f"[Save] Flushed {n} rows to disk.")
                 out.clear()
-                print(f"Saved {n} rows…")
 
         if out:
             pd.DataFrame(out).to_csv(
                 OUTPUT_CSV, mode=("a" if OUTPUT_CSV.exists() else "w"),
                 index=False, header=not OUTPUT_CSV.exists()
             )
-        print(f"Done. Wrote {OUTPUT_CSV}")
+        print(f"[Done] Wrote all results to {OUTPUT_CSV}")
 
     except RateLimit429:
-        # flush whatever is currently in 'out' and exit immediately
         if out:
             pd.DataFrame(out).to_csv(
                 OUTPUT_CSV, mode=("a" if OUTPUT_CSV.exists() else "w"),
