@@ -1,115 +1,214 @@
-# 🎸 The Evolution of Rock Music Popularity (1958 – Present)
+# 🎸 Rock & Roll Through the Decades: A Data & BI Exploration (1958–Present)
 
-## 📖 Overview
-This project explores how **rock music popularity** has evolved globally — from its early dominance on Billboard charts to its position in the modern streaming era.  
-It combines **historical Billboard Hot 100 data** (1958 → today) with **Spotify streaming and genre data** to uncover long-term trends, regional differences, and subgenre shifts.
+## 📌 Project Overview
+
+This project is a **full‑stack analytics + business intelligence case study** analyzing the long‑term evolution of **rock music popularity** using over 65 years of Billboard Hot 100 data.
+
+Built as a **BI portfolio project for recruiters and hiring managers**, it demonstrates:
+
+* End‑to‑end data engineering (raw → enriched → BI‑ready)
+* SQL + Python analytics workflows
+* Advanced Tableau dashboard design (parameters, actions, highlighting)
+* Insight‑driven storytelling for non‑technical stakeholders
+
+The final deliverable is an **interactive Tableau dashboard** that allows users to explore how rock music rose, fragmented, and declined relative to other genres—while highlighting key inflection years, artists, and sub‑genres.
+
+---
+
+## 🎯 Audience & Use Case
+
+**Target audience:**
+
+* BI / Analytics hiring managers
+* Data analysts & analytics engineers
+* Product & strategy teams
+
+**What this project demonstrates:**
+
+* Translating raw cultural data into executive‑level insights
+* Designing dashboards that separate **filtering vs highlighting** logic
+* Communicating trends, not just charts
 
 ---
 
 ## 🧱 Project Structure
-```plaintext
+
+```text
 rock-evolution/
 │
 ├── data/
-│   ├── raw/         ← raw CSVs (Billboard, Spotify, World Bank)
-│   ├── cleaned/     ← SQL-cleaned data
-│   ├── enriched/    ← merged + genre-labeled data
-│   └── final/       ← BI-ready datasets
+│   ├── raw/        # Original Billboard Hot 100 dataset (1958 → present)
+│   ├── cleaned/    # SQL-cleaned & normalized datasets
+│   ├── enriched/   # Artist + genre enrichment (Spotify / MusicBrainz)
+│   └── final/      # BI-ready fact tables used in Tableau
 │
-├── src/             ← Python source scripts
-│   ├── fetch_billboard_all_weeks.py      # pulls Billboard Hot 100 weekly charts
-│   ├── fetch_billboard_week.py           # single-week fetcher (for testing)
-│   ├── spotify_auth.py                   # Spotify API authentication
-│   ├── enrich_spotify_genres.py          # adds artist-genre metadata
-│   ├── musicbrainz_utils.py              # (optional) historical genre enrichment
-│   └── hypothesis_testing.py             # Billboard vs Spotify correlation tests
+├── src/            # Python ETL & enrichment scripts
+│   ├── fetch_billboard_week.py
+│   ├── split_csv.py
+│   ├── merge_csv.py
+│   ├── enrich_spotify_genres.py
+│   ├── enrich_musicbrainz_genres.py
+│   ├── classify_genres.py
+│   └── clean_artists_by_level.py
 │
-├── sql/             ← SQL cleaning and normalization scripts
-├── notebooks/       ← Jupyter notebooks for analysis & visualization
-├── reports/         ← figures, dashboards, Medium drafts
-└── README.md
+├── sql/            # SQL transformations & aggregations
+│   ├── 01_unique_artists_year.sql
+│   └── 02_clean_unique_artists_by_level.sql
+│
+├── final/          # Final aggregated outputs
+│   └── Result_12.csv
+│
+├── README.md
+└── tableau/        # Tableau workbook (local)
 ```
 
 ---
 
-## 🚀 Data Sources
-| Source | Years | Content | Access |
-|--------|-------|----------|--------|
-| **Billboard Hot 100** | 1958 – present | Weekly chart ranks | `billboard.py` (unofficial API) |
-| **Spotify Charts** | 2013 – present | Weekly top 200 streams by country | [spotifycharts.com](https://spotifycharts.com) |
-| **Spotify Web API** | 2013 – present | Track & artist metadata, genre tags | Official API |
-| **MusicBrainz / Discogs API** | 1950s – present | Historical genre classification | Public APIs |
-| **World Bank Open Data** | 1960 – present | Population, GDP, Internet penetration | [data.worldbank.org](https://data.worldbank.org) |
+## 🗂️ Data Sources
+
+| Source                | Years         | Purpose                     |
+| --------------------- | ------------- | --------------------------- |
+| **Billboard Hot 100** | 1958–2025     | Weekly chart rankings       |
+| **Spotify Web API**   | 2013–present  | Artist genre metadata       |
+| **MusicBrainz API**   | 1950s–present | Historical genre validation |
+
+Primary raw file:
+
+* `billboard_hot-100_1958-08-09_to_latest.csv`
 
 ---
 
-## 🧮 Tech Stack
-- **Python 3.10+** → ETL & API access  
-  - `billboard.py`, `requests`, `pandas`, `python-dotenv`, `duckdb`
-- **SQL / DuckDB** → data cleaning & joins  
-- **Jupyter Notebook** → exploratory analysis & visualization  
-- **Tableau / Power BI / Plotly** → interactive dashboards  
-- **Medium + GitHub + LinkedIn** → storytelling & portfolio sharing  
+## 🧮 Technical Stack
+
+### Data Engineering & Analytics
+
+* **Python 3** (`pandas`, `requests`, `dotenv`)
+* **SQL** (aggregation, deduplication, normalization)
+* Modular ETL pipeline with reproducible steps
+
+### Business Intelligence
+
+* **Tableau Desktop / Tableau Public**
+* Advanced features used:
+
+  * Parameters (single year slider)
+  * Parameter‑driven reference lines
+  * Highlight actions (non‑filtering)
+  * Context vs normal filters
+  * Dual‑axis synchronization
 
 ---
 
-## 📊 Project Phases
-1. **Data Collection**  
-   - Scrape all Billboard Hot 100 weeks (1958 → today).  
-   - Gather Spotify Charts (2013 → present).  
-   - Pull artist genres from Spotify API.  
-   - Merge with World Bank population data.
+## 📊 Tableau Dashboard (Final Deliverable)
 
-2. **Data Cleaning / Normalization (SQL)**  
-   - Standardize columns, handle duplicates, convert dates.  
-   - Compute normalized popularity scores & streams per capita.
+### 📊 Interactive Dashboard
 
-3. **Analytics (Python)**  
-   - Trend analysis: rock share vs pop & hip-hop.  
-   - Subgenre growth (alt rock, indie rock, punk rock, hard rock).  
-   - Statistical tests:  
-     - Spearman rank correlation (Billboard vs Spotify consistency)  
-     - Kolmogorov–Smirnov distribution test (popularity distributions)
+🔗 **View the full interactive Tableau dashboard:**  
+👉 [https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/app/profile/jinwoo.roh/viz/Evolution_of_Music_Genre/Overview)
 
-4. **Visualization / BI Dashboard**  
-   - 🌍 **Map**: Rock streams per capita by country  
-   - 📈 **Line chart**: Rock share 1980 – 2025  
-   - 🎵 **Stacked area**: Subgenre evolution  
-   - 🔍 **Scatter**: Billboard vs Spotify rank correlation  
+#### Rock Evolution Dashboard
+[![Rock Dashboard](assets/rock.png)](https://public.tableau.com/app/profile/jinwoo.roh/viz/Evolution_of_Music_Genre/Overview)
 
-5. **Storytelling & Delivery**  
-   - Medium article: *“Is Rock Still Alive? A Global Data Journey.”*  
-   - LinkedIn teaser post + dashboard preview.  
-   - GitHub repository with clean code and datasets.
+The Tableau dashboard is the **centerpiece of this project**.
+
+### Key Design Goals
+
+* One **global year slider**
+* Filters Top‑10 artists **only**
+* Highlights trends across all other charts
+* Clear separation between:
+
+  * *Filtering* (who appears)
+  * *Highlighting* (where that year sits in history)
+
+### Dashboard Sections
+
+**1. Rock vs Non‑Rock by Year**
+
+* Shows rock’s long‑term decline relative to other genres
+* Year selector highlights historical context without reshaping the line
+
+**2. Genre Composition of Billboard 100**
+
+* Multi‑line chart showing genre dominance shifts
+* Reveals the rise of hip‑hop and pop fragmentation
+
+**3. Unique Artists per Year**
+
+* Measures market saturation and artist churn
+* Highlights increasing artist turnover post‑2000
+
+**4. Genre Longevity & Recency Distribution**
+
+* Boxplots showing when genres peaked and faded
+* Rock shows earlier median years vs newer genres
+
+**5. Top 10 Artists (Selected Year / All Time)**
+
+* Parameter‑driven logic:
+
+  * Specific year → top artists in that year
+  * “ALL” → most frequent artists historically
+
+**6. Rock Sub‑Genre Treemap**
+
+* Clickable interaction to filter all views
+* Shows fragmentation of rock into sub‑genres
 
 ---
 
-## 🧠 Key Questions
-- How has rock’s share of music popularity changed since the 1960s?  
-- Do Billboard ranks correlate with Spotify streams in the modern era?  
-- Which countries still lead in rock listenership today?  
-- Which subgenres (alt, indie, punk, hard rock) are growing or fading?  
-- How do economic and demographic factors relate to rock popularity?  
+## 🔍 Insight Preview (Key Findings)
+
+### 📉 Structural Decline of Rock
+
+* Rock peaked between **1975–1990**, dominating Billboard entries
+* After 2000, rock steadily declined as hip‑hop and pop diversified
+
+### 🔄 Artist Turnover Increased
+
+* Unique artists per year increased significantly after the 1990s
+* Indicates shorter chart lifespans and faster trend cycles
+
+### 🎸 Fragmentation Over Extinction
+
+* Rock did not disappear—it **fragmented**
+* Growth observed in:
+
+  * Alternative Rock
+  * Indie Rock
+  * Folk‑Rock hybrids
+
+### 🏆 Artist Longevity
+
+* Legacy artists dominate “ALL‑time” rankings
+* Modern charts show faster churn, fewer repeat appearances
 
 ---
-## 💡 Example Insight Preview
 
-Between 1985 and 1995, rock dominated ≈ 60% of Billboard Hot 100 entries.
-By 2023, its share in Spotify’s global top 200 was under 15%, with Latin America showing a renewed growth in indie and punk subgenres.
+## 💡 Why This Project Matters
 
-## 📈 Future Work
+This project mirrors **real BI work**:
 
-Predict 2030 rock share using time-series forecasting (Prophet).
+* Messy data
+* Ambiguous definitions (genre classification)
+* Trade‑offs between interactivity and interpretability
 
-Add concert/festival data for temporal correlation spikes.
+It demonstrates not just technical skill—but **analytical judgment and storytelling**.
 
-Integrate YouTube Music and Apple Music metrics for cross-validation.
+---
 
-Deploy dashboard on Streamlit or Tableau Public.
+## 🚀 Future Extensions
+
+* Time‑series forecasting (Prophet / ARIMA)
+* Streaming vs chart correlation analysis
+* Regional genre dominance analysis
+* Public deployment with Tableau Public embed
+
+---
 
 ## 👤 Author
 
-Jinwoo Roh
-🎓 UCLA Anderson MSBA Class of 2026
-💼 Marketing & Data Analytics Professional
+**Jinwoo Roh**
+Marketing & Data Analytics Professional
+BI / Analytics Portfolio Project
 
