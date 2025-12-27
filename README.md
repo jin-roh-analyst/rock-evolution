@@ -101,6 +101,14 @@ Primary raw file:
 
 ## 📊 Tableau Dashboard (Final Deliverable)
 
+### 📊 Interactive Dashboard
+
+🔗 **View the full interactive Tableau dashboard:**  
+👉 [https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/app/profile/jinwoo.roh/viz/Evolution_of_Music_Genre/Overview)
+
+#### Rock Evolution Dashboard
+[![Rock Dashboard](assets/rock.png)](https://public.tableau.com/app/profile/jinwoo.roh/viz/Evolution_of_Music_Genre/Overview)
+
 The Tableau dashboard is the **centerpiece of this project**.
 
 ### Key Design Goals
@@ -203,3 +211,4 @@ It demonstrates not just technical skill—but **analytical judgment and storyte
 **Jinwoo Roh**
 Marketing & Data Analytics Professional
 BI / Analytics Portfolio Project
+
