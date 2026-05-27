@@ -5,7 +5,8 @@
   "scripts": {
     "data": "python3 scripts/build-dashboard-data.py",
     "dev": "next dev",
-    "build": "npm run data && next build",
+    "build": "next build",
+    "build:with-data": "npm run data && next build",
     "start": "next start",
     "lint": "tsc --noEmit"
   },
