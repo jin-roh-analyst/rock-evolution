@@ -1,0 +1,1090 @@
+[
+  {
+    "year": 1958,
+    "scope": "All Genres",
+    "artists": 107,
+    "newArtists": 107,
+    "retainedArtists": 0,
+    "newArtistRate": 100.0
+  },
+  {
+    "year": 1959,
+    "scope": "All Genres",
+    "artists": 177,
+    "newArtists": 106,
+    "retainedArtists": 71,
+    "newArtistRate": 59.89
+  },
+  {
+    "year": 1960,
+    "scope": "All Genres",
+    "artists": 166,
+    "newArtists": 86,
+    "retainedArtists": 80,
+    "newArtistRate": 51.81
+  },
+  {
+    "year": 1961,
+    "scope": "All Genres",
+    "artists": 201,
+    "newArtists": 118,
+    "retainedArtists": 83,
+    "newArtistRate": 58.71
+  },
+  {
+    "year": 1962,
+    "scope": "All Genres",
+    "artists": 202,
+    "newArtists": 114,
+    "retainedArtists": 88,
+    "newArtistRate": 56.44
+  },
+  {
+    "year": 1963,
+    "scope": "All Genres",
+    "artists": 204,
+    "newArtists": 92,
+    "retainedArtists": 112,
+    "newArtistRate": 45.1
+  },
+  {
+    "year": 1964,
+    "scope": "All Genres",
+    "artists": 220,
+    "newArtists": 122,
+    "retainedArtists": 98,
+    "newArtistRate": 55.45
+  },
+  {
+    "year": 1965,
+    "scope": "All Genres",
+    "artists": 256,
+    "newArtists": 133,
+    "retainedArtists": 123,
+    "newArtistRate": 51.95
+  },
+  {
+    "year": 1966,
+    "scope": "All Genres",
+    "artists": 286,
+    "newArtists": 142,
+    "retainedArtists": 144,
+    "newArtistRate": 49.65
+  },
+  {
+    "year": 1967,
+    "scope": "All Genres",
+    "artists": 302,
+    "newArtists": 149,
+    "retainedArtists": 153,
+    "newArtistRate": 49.34
+  },
+  {
+    "year": 1968,
+    "scope": "All Genres",
+    "artists": 288,
+    "newArtists": 134,
+    "retainedArtists": 154,
+    "newArtistRate": 46.53
+  },
+  {
+    "year": 1969,
+    "scope": "All Genres",
+    "artists": 305,
+    "newArtists": 152,
+    "retainedArtists": 153,
+    "newArtistRate": 49.84
+  },
+  {
+    "year": 1970,
+    "scope": "All Genres",
+    "artists": 314,
+    "newArtists": 158,
+    "retainedArtists": 156,
+    "newArtistRate": 50.32
+  },
+  {
+    "year": 1971,
+    "scope": "All Genres",
+    "artists": 309,
+    "newArtists": 145,
+    "retainedArtists": 164,
+    "newArtistRate": 46.93
+  },
+  {
+    "year": 1972,
+    "scope": "All Genres",
+    "artists": 312,
+    "newArtists": 140,
+    "retainedArtists": 172,
+    "newArtistRate": 44.87
+  },
+  {
+    "year": 1973,
+    "scope": "All Genres",
+    "artists": 276,
+    "newArtists": 115,
+    "retainedArtists": 161,
+    "newArtistRate": 41.67
+  },
+  {
+    "year": 1974,
+    "scope": "All Genres",
+    "artists": 266,
+    "newArtists": 116,
+    "retainedArtists": 150,
+    "newArtistRate": 43.61
+  },
+  {
+    "year": 1975,
+    "scope": "All Genres",
+    "artists": 301,
+    "newArtists": 148,
+    "retainedArtists": 153,
+    "newArtistRate": 49.17
+  },
+  {
+    "year": 1976,
+    "scope": "All Genres",
+    "artists": 307,
+    "newArtists": 153,
+    "retainedArtists": 154,
+    "newArtistRate": 49.84
+  },
+  {
+    "year": 1977,
+    "scope": "All Genres",
+    "artists": 272,
+    "newArtists": 128,
+    "retainedArtists": 144,
+    "newArtistRate": 47.06
+  },
+  {
+    "year": 1978,
+    "scope": "All Genres",
+    "artists": 249,
+    "newArtists": 106,
+    "retainedArtists": 143,
+    "newArtistRate": 42.57
+  },
+  {
+    "year": 1979,
+    "scope": "All Genres",
+    "artists": 279,
+    "newArtists": 142,
+    "retainedArtists": 137,
+    "newArtistRate": 50.9
+  },
+  {
+    "year": 1980,
+    "scope": "All Genres",
+    "artists": 286,
+    "newArtists": 149,
+    "retainedArtists": 137,
+    "newArtistRate": 52.1
+  },
+  {
+    "year": 1981,
+    "scope": "All Genres",
+    "artists": 260,
+    "newArtists": 117,
+    "retainedArtists": 143,
+    "newArtistRate": 45.0
+  },
+  {
+    "year": 1982,
+    "scope": "All Genres",
+    "artists": 269,
+    "newArtists": 138,
+    "retainedArtists": 131,
+    "newArtistRate": 51.3
+  },
+  {
+    "year": 1983,
+    "scope": "All Genres",
+    "artists": 282,
+    "newArtists": 139,
+    "retainedArtists": 143,
+    "newArtistRate": 49.29
+  },
+  {
+    "year": 1984,
+    "scope": "All Genres",
+    "artists": 250,
+    "newArtists": 116,
+    "retainedArtists": 134,
+    "newArtistRate": 46.4
+  },
+  {
+    "year": 1985,
+    "scope": "All Genres",
+    "artists": 238,
+    "newArtists": 127,
+    "retainedArtists": 111,
+    "newArtistRate": 53.36
+  },
+  {
+    "year": 1986,
+    "scope": "All Genres",
+    "artists": 249,
+    "newArtists": 121,
+    "retainedArtists": 128,
+    "newArtistRate": 48.59
+  },
+  {
+    "year": 1987,
+    "scope": "All Genres",
+    "artists": 251,
+    "newArtists": 132,
+    "retainedArtists": 119,
+    "newArtistRate": 52.59
+  },
+  {
+    "year": 1988,
+    "scope": "All Genres",
+    "artists": 252,
+    "newArtists": 128,
+    "retainedArtists": 124,
+    "newArtistRate": 50.79
+  },
+  {
+    "year": 1989,
+    "scope": "All Genres",
+    "artists": 261,
+    "newArtists": 135,
+    "retainedArtists": 126,
+    "newArtistRate": 51.72
+  },
+  {
+    "year": 1990,
+    "scope": "All Genres",
+    "artists": 267,
+    "newArtists": 145,
+    "retainedArtists": 122,
+    "newArtistRate": 54.31
+  },
+  {
+    "year": 1991,
+    "scope": "All Genres",
+    "artists": 265,
+    "newArtists": 151,
+    "retainedArtists": 114,
+    "newArtistRate": 56.98
+  },
+  {
+    "year": 1992,
+    "scope": "All Genres",
+    "artists": 241,
+    "newArtists": 127,
+    "retainedArtists": 114,
+    "newArtistRate": 52.7
+  },
+  {
+    "year": 1993,
+    "scope": "All Genres",
+    "artists": 262,
+    "newArtists": 160,
+    "retainedArtists": 102,
+    "newArtistRate": 61.07
+  },
+  {
+    "year": 1994,
+    "scope": "All Genres",
+    "artists": 266,
+    "newArtists": 156,
+    "retainedArtists": 110,
+    "newArtistRate": 58.65
+  },
+  {
+    "year": 1995,
+    "scope": "All Genres",
+    "artists": 273,
+    "newArtists": 152,
+    "retainedArtists": 121,
+    "newArtistRate": 55.68
+  },
+  {
+    "year": 1996,
+    "scope": "All Genres",
+    "artists": 254,
+    "newArtists": 142,
+    "retainedArtists": 112,
+    "newArtistRate": 55.91
+  },
+  {
+    "year": 1997,
+    "scope": "All Genres",
+    "artists": 273,
+    "newArtists": 163,
+    "retainedArtists": 110,
+    "newArtistRate": 59.71
+  },
+  {
+    "year": 1998,
+    "scope": "All Genres",
+    "artists": 305,
+    "newArtists": 190,
+    "retainedArtists": 115,
+    "newArtistRate": 62.3
+  },
+  {
+    "year": 1999,
+    "scope": "All Genres",
+    "artists": 259,
+    "newArtists": 144,
+    "retainedArtists": 115,
+    "newArtistRate": 55.6
+  },
+  {
+    "year": 2000,
+    "scope": "All Genres",
+    "artists": 272,
+    "newArtists": 143,
+    "retainedArtists": 129,
+    "newArtistRate": 52.57
+  },
+  {
+    "year": 2001,
+    "scope": "All Genres",
+    "artists": 252,
+    "newArtists": 131,
+    "retainedArtists": 121,
+    "newArtistRate": 51.98
+  },
+  {
+    "year": 2002,
+    "scope": "All Genres",
+    "artists": 267,
+    "newArtists": 151,
+    "retainedArtists": 116,
+    "newArtistRate": 56.55
+  },
+  {
+    "year": 2003,
+    "scope": "All Genres",
+    "artists": 280,
+    "newArtists": 152,
+    "retainedArtists": 128,
+    "newArtistRate": 54.29
+  },
+  {
+    "year": 2004,
+    "scope": "All Genres",
+    "artists": 283,
+    "newArtists": 167,
+    "retainedArtists": 116,
+    "newArtistRate": 59.01
+  },
+  {
+    "year": 2005,
+    "scope": "All Genres",
+    "artists": 291,
+    "newArtists": 172,
+    "retainedArtists": 119,
+    "newArtistRate": 59.11
+  },
+  {
+    "year": 2006,
+    "scope": "All Genres",
+    "artists": 302,
+    "newArtists": 171,
+    "retainedArtists": 131,
+    "newArtistRate": 56.62
+  },
+  {
+    "year": 2007,
+    "scope": "All Genres",
+    "artists": 284,
+    "newArtists": 147,
+    "retainedArtists": 137,
+    "newArtistRate": 51.76
+  },
+  {
+    "year": 2008,
+    "scope": "All Genres",
+    "artists": 311,
+    "newArtists": 185,
+    "retainedArtists": 126,
+    "newArtistRate": 59.49
+  },
+  {
+    "year": 2009,
+    "scope": "All Genres",
+    "artists": 313,
+    "newArtists": 175,
+    "retainedArtists": 138,
+    "newArtistRate": 55.91
+  },
+  {
+    "year": 2010,
+    "scope": "All Genres",
+    "artists": 313,
+    "newArtists": 170,
+    "retainedArtists": 143,
+    "newArtistRate": 54.31
+  },
+  {
+    "year": 2011,
+    "scope": "All Genres",
+    "artists": 333,
+    "newArtists": 192,
+    "retainedArtists": 141,
+    "newArtistRate": 57.66
+  },
+  {
+    "year": 2012,
+    "scope": "All Genres",
+    "artists": 292,
+    "newArtists": 164,
+    "retainedArtists": 128,
+    "newArtistRate": 56.16
+  },
+  {
+    "year": 2013,
+    "scope": "All Genres",
+    "artists": 302,
+    "newArtists": 180,
+    "retainedArtists": 122,
+    "newArtistRate": 59.6
+  },
+  {
+    "year": 2014,
+    "scope": "All Genres",
+    "artists": 295,
+    "newArtists": 165,
+    "retainedArtists": 130,
+    "newArtistRate": 55.93
+  },
+  {
+    "year": 2015,
+    "scope": "All Genres",
+    "artists": 299,
+    "newArtists": 179,
+    "retainedArtists": 120,
+    "newArtistRate": 59.87
+  },
+  {
+    "year": 2016,
+    "scope": "All Genres",
+    "artists": 303,
+    "newArtists": 189,
+    "retainedArtists": 114,
+    "newArtistRate": 62.38
+  },
+  {
+    "year": 2017,
+    "scope": "All Genres",
+    "artists": 361,
+    "newArtists": 236,
+    "retainedArtists": 125,
+    "newArtistRate": 65.37
+  },
+  {
+    "year": 2018,
+    "scope": "All Genres",
+    "artists": 413,
+    "newArtists": 280,
+    "retainedArtists": 133,
+    "newArtistRate": 67.8
+  },
+  {
+    "year": 2019,
+    "scope": "All Genres",
+    "artists": 382,
+    "newArtists": 253,
+    "retainedArtists": 129,
+    "newArtistRate": 66.23
+  },
+  {
+    "year": 2020,
+    "scope": "All Genres",
+    "artists": 430,
+    "newArtists": 287,
+    "retainedArtists": 143,
+    "newArtistRate": 66.74
+  },
+  {
+    "year": 2021,
+    "scope": "All Genres",
+    "artists": 446,
+    "newArtists": 306,
+    "retainedArtists": 140,
+    "newArtistRate": 68.61
+  },
+  {
+    "year": 2022,
+    "scope": "All Genres",
+    "artists": 435,
+    "newArtists": 293,
+    "retainedArtists": 142,
+    "newArtistRate": 67.36
+  },
+  {
+    "year": 2023,
+    "scope": "All Genres",
+    "artists": 411,
+    "newArtists": 268,
+    "retainedArtists": 143,
+    "newArtistRate": 65.21
+  },
+  {
+    "year": 2024,
+    "scope": "All Genres",
+    "artists": 381,
+    "newArtists": 246,
+    "retainedArtists": 135,
+    "newArtistRate": 64.57
+  },
+  {
+    "year": 2025,
+    "scope": "All Genres",
+    "artists": 309,
+    "newArtists": 179,
+    "retainedArtists": 130,
+    "newArtistRate": 57.93
+  },
+  {
+    "year": 1958,
+    "scope": "Rock",
+    "artists": 44,
+    "newArtists": 44,
+    "retainedArtists": 0,
+    "newArtistRate": 100.0
+  },
+  {
+    "year": 1959,
+    "scope": "Rock",
+    "artists": 87,
+    "newArtists": 60,
+    "retainedArtists": 27,
+    "newArtistRate": 68.97
+  },
+  {
+    "year": 1960,
+    "scope": "Rock",
+    "artists": 57,
+    "newArtists": 25,
+    "retainedArtists": 32,
+    "newArtistRate": 43.86
+  },
+  {
+    "year": 1961,
+    "scope": "Rock",
+    "artists": 60,
+    "newArtists": 36,
+    "retainedArtists": 24,
+    "newArtistRate": 60.0
+  },
+  {
+    "year": 1962,
+    "scope": "Rock",
+    "artists": 50,
+    "newArtists": 26,
+    "retainedArtists": 24,
+    "newArtistRate": 52.0
+  },
+  {
+    "year": 1963,
+    "scope": "Rock",
+    "artists": 47,
+    "newArtists": 21,
+    "retainedArtists": 26,
+    "newArtistRate": 44.68
+  },
+  {
+    "year": 1964,
+    "scope": "Rock",
+    "artists": 58,
+    "newArtists": 38,
+    "retainedArtists": 20,
+    "newArtistRate": 65.52
+  },
+  {
+    "year": 1965,
+    "scope": "Rock",
+    "artists": 73,
+    "newArtists": 46,
+    "retainedArtists": 27,
+    "newArtistRate": 63.01
+  },
+  {
+    "year": 1966,
+    "scope": "Rock",
+    "artists": 94,
+    "newArtists": 51,
+    "retainedArtists": 43,
+    "newArtistRate": 54.26
+  },
+  {
+    "year": 1967,
+    "scope": "Rock",
+    "artists": 86,
+    "newArtists": 38,
+    "retainedArtists": 48,
+    "newArtistRate": 44.19
+  },
+  {
+    "year": 1968,
+    "scope": "Rock",
+    "artists": 86,
+    "newArtists": 41,
+    "retainedArtists": 45,
+    "newArtistRate": 47.67
+  },
+  {
+    "year": 1969,
+    "scope": "Rock",
+    "artists": 91,
+    "newArtists": 44,
+    "retainedArtists": 47,
+    "newArtistRate": 48.35
+  },
+  {
+    "year": 1970,
+    "scope": "Rock",
+    "artists": 113,
+    "newArtists": 65,
+    "retainedArtists": 48,
+    "newArtistRate": 57.52
+  },
+  {
+    "year": 1971,
+    "scope": "Rock",
+    "artists": 117,
+    "newArtists": 58,
+    "retainedArtists": 59,
+    "newArtistRate": 49.57
+  },
+  {
+    "year": 1972,
+    "scope": "Rock",
+    "artists": 123,
+    "newArtists": 61,
+    "retainedArtists": 62,
+    "newArtistRate": 49.59
+  },
+  {
+    "year": 1973,
+    "scope": "Rock",
+    "artists": 96,
+    "newArtists": 34,
+    "retainedArtists": 62,
+    "newArtistRate": 35.42
+  },
+  {
+    "year": 1974,
+    "scope": "Rock",
+    "artists": 101,
+    "newArtists": 46,
+    "retainedArtists": 55,
+    "newArtistRate": 45.54
+  },
+  {
+    "year": 1975,
+    "scope": "Rock",
+    "artists": 110,
+    "newArtists": 49,
+    "retainedArtists": 61,
+    "newArtistRate": 44.55
+  },
+  {
+    "year": 1976,
+    "scope": "Rock",
+    "artists": 131,
+    "newArtists": 65,
+    "retainedArtists": 66,
+    "newArtistRate": 49.62
+  },
+  {
+    "year": 1977,
+    "scope": "Rock",
+    "artists": 133,
+    "newArtists": 58,
+    "retainedArtists": 75,
+    "newArtistRate": 43.61
+  },
+  {
+    "year": 1978,
+    "scope": "Rock",
+    "artists": 136,
+    "newArtists": 57,
+    "retainedArtists": 79,
+    "newArtistRate": 41.91
+  },
+  {
+    "year": 1979,
+    "scope": "Rock",
+    "artists": 150,
+    "newArtists": 62,
+    "retainedArtists": 88,
+    "newArtistRate": 41.33
+  },
+  {
+    "year": 1980,
+    "scope": "Rock",
+    "artists": 162,
+    "newArtists": 76,
+    "retainedArtists": 86,
+    "newArtistRate": 46.91
+  },
+  {
+    "year": 1981,
+    "scope": "Rock",
+    "artists": 136,
+    "newArtists": 55,
+    "retainedArtists": 81,
+    "newArtistRate": 40.44
+  },
+  {
+    "year": 1982,
+    "scope": "Rock",
+    "artists": 148,
+    "newArtists": 72,
+    "retainedArtists": 76,
+    "newArtistRate": 48.65
+  },
+  {
+    "year": 1983,
+    "scope": "Rock",
+    "artists": 141,
+    "newArtists": 58,
+    "retainedArtists": 83,
+    "newArtistRate": 41.13
+  },
+  {
+    "year": 1984,
+    "scope": "Rock",
+    "artists": 130,
+    "newArtists": 60,
+    "retainedArtists": 70,
+    "newArtistRate": 46.15
+  },
+  {
+    "year": 1985,
+    "scope": "Rock",
+    "artists": 121,
+    "newArtists": 56,
+    "retainedArtists": 65,
+    "newArtistRate": 46.28
+  },
+  {
+    "year": 1986,
+    "scope": "Rock",
+    "artists": 122,
+    "newArtists": 58,
+    "retainedArtists": 64,
+    "newArtistRate": 47.54
+  },
+  {
+    "year": 1987,
+    "scope": "Rock",
+    "artists": 121,
+    "newArtists": 60,
+    "retainedArtists": 61,
+    "newArtistRate": 49.59
+  },
+  {
+    "year": 1988,
+    "scope": "Rock",
+    "artists": 114,
+    "newArtists": 47,
+    "retainedArtists": 67,
+    "newArtistRate": 41.23
+  },
+  {
+    "year": 1989,
+    "scope": "Rock",
+    "artists": 128,
+    "newArtists": 65,
+    "retainedArtists": 63,
+    "newArtistRate": 50.78
+  },
+  {
+    "year": 1990,
+    "scope": "Rock",
+    "artists": 120,
+    "newArtists": 55,
+    "retainedArtists": 65,
+    "newArtistRate": 45.83
+  },
+  {
+    "year": 1991,
+    "scope": "Rock",
+    "artists": 104,
+    "newArtists": 49,
+    "retainedArtists": 55,
+    "newArtistRate": 47.12
+  },
+  {
+    "year": 1992,
+    "scope": "Rock",
+    "artists": 72,
+    "newArtists": 27,
+    "retainedArtists": 45,
+    "newArtistRate": 37.5
+  },
+  {
+    "year": 1993,
+    "scope": "Rock",
+    "artists": 71,
+    "newArtists": 35,
+    "retainedArtists": 36,
+    "newArtistRate": 49.3
+  },
+  {
+    "year": 1994,
+    "scope": "Rock",
+    "artists": 74,
+    "newArtists": 41,
+    "retainedArtists": 33,
+    "newArtistRate": 55.41
+  },
+  {
+    "year": 1995,
+    "scope": "Rock",
+    "artists": 72,
+    "newArtists": 32,
+    "retainedArtists": 40,
+    "newArtistRate": 44.44
+  },
+  {
+    "year": 1996,
+    "scope": "Rock",
+    "artists": 60,
+    "newArtists": 30,
+    "retainedArtists": 30,
+    "newArtistRate": 50.0
+  },
+  {
+    "year": 1997,
+    "scope": "Rock",
+    "artists": 51,
+    "newArtists": 28,
+    "retainedArtists": 23,
+    "newArtistRate": 54.9
+  },
+  {
+    "year": 1998,
+    "scope": "Rock",
+    "artists": 57,
+    "newArtists": 31,
+    "retainedArtists": 26,
+    "newArtistRate": 54.39
+  },
+  {
+    "year": 1999,
+    "scope": "Rock",
+    "artists": 61,
+    "newArtists": 32,
+    "retainedArtists": 29,
+    "newArtistRate": 52.46
+  },
+  {
+    "year": 2000,
+    "scope": "Rock",
+    "artists": 52,
+    "newArtists": 23,
+    "retainedArtists": 29,
+    "newArtistRate": 44.23
+  },
+  {
+    "year": 2001,
+    "scope": "Rock",
+    "artists": 40,
+    "newArtists": 21,
+    "retainedArtists": 19,
+    "newArtistRate": 52.5
+  },
+  {
+    "year": 2002,
+    "scope": "Rock",
+    "artists": 57,
+    "newArtists": 38,
+    "retainedArtists": 19,
+    "newArtistRate": 66.67
+  },
+  {
+    "year": 2003,
+    "scope": "Rock",
+    "artists": 59,
+    "newArtists": 30,
+    "retainedArtists": 29,
+    "newArtistRate": 50.85
+  },
+  {
+    "year": 2004,
+    "scope": "Rock",
+    "artists": 59,
+    "newArtists": 34,
+    "retainedArtists": 25,
+    "newArtistRate": 57.63
+  },
+  {
+    "year": 2005,
+    "scope": "Rock",
+    "artists": 69,
+    "newArtists": 41,
+    "retainedArtists": 28,
+    "newArtistRate": 59.42
+  },
+  {
+    "year": 2006,
+    "scope": "Rock",
+    "artists": 89,
+    "newArtists": 54,
+    "retainedArtists": 35,
+    "newArtistRate": 60.67
+  },
+  {
+    "year": 2007,
+    "scope": "Rock",
+    "artists": 70,
+    "newArtists": 25,
+    "retainedArtists": 45,
+    "newArtistRate": 35.71
+  },
+  {
+    "year": 2008,
+    "scope": "Rock",
+    "artists": 71,
+    "newArtists": 39,
+    "retainedArtists": 32,
+    "newArtistRate": 54.93
+  },
+  {
+    "year": 2009,
+    "scope": "Rock",
+    "artists": 67,
+    "newArtists": 29,
+    "retainedArtists": 38,
+    "newArtistRate": 43.28
+  },
+  {
+    "year": 2010,
+    "scope": "Rock",
+    "artists": 58,
+    "newArtists": 31,
+    "retainedArtists": 27,
+    "newArtistRate": 53.45
+  },
+  {
+    "year": 2011,
+    "scope": "Rock",
+    "artists": 49,
+    "newArtists": 28,
+    "retainedArtists": 21,
+    "newArtistRate": 57.14
+  },
+  {
+    "year": 2012,
+    "scope": "Rock",
+    "artists": 42,
+    "newArtists": 22,
+    "retainedArtists": 20,
+    "newArtistRate": 52.38
+  },
+  {
+    "year": 2013,
+    "scope": "Rock",
+    "artists": 41,
+    "newArtists": 27,
+    "retainedArtists": 14,
+    "newArtistRate": 65.85
+  },
+  {
+    "year": 2014,
+    "scope": "Rock",
+    "artists": 35,
+    "newArtists": 20,
+    "retainedArtists": 15,
+    "newArtistRate": 57.14
+  },
+  {
+    "year": 2015,
+    "scope": "Rock",
+    "artists": 30,
+    "newArtists": 18,
+    "retainedArtists": 12,
+    "newArtistRate": 60.0
+  },
+  {
+    "year": 2016,
+    "scope": "Rock",
+    "artists": 23,
+    "newArtists": 11,
+    "retainedArtists": 12,
+    "newArtistRate": 47.83
+  },
+  {
+    "year": 2017,
+    "scope": "Rock",
+    "artists": 20,
+    "newArtists": 14,
+    "retainedArtists": 6,
+    "newArtistRate": 70.0
+  },
+  {
+    "year": 2018,
+    "scope": "Rock",
+    "artists": 23,
+    "newArtists": 17,
+    "retainedArtists": 6,
+    "newArtistRate": 73.91
+  },
+  {
+    "year": 2019,
+    "scope": "Rock",
+    "artists": 22,
+    "newArtists": 13,
+    "retainedArtists": 9,
+    "newArtistRate": 59.09
+  },
+  {
+    "year": 2020,
+    "scope": "Rock",
+    "artists": 33,
+    "newArtists": 24,
+    "retainedArtists": 9,
+    "newArtistRate": 72.73
+  },
+  {
+    "year": 2021,
+    "scope": "Rock",
+    "artists": 43,
+    "newArtists": 27,
+    "retainedArtists": 16,
+    "newArtistRate": 62.79
+  },
+  {
+    "year": 2022,
+    "scope": "Rock",
+    "artists": 37,
+    "newArtists": 18,
+    "retainedArtists": 19,
+    "newArtistRate": 48.65
+  },
+  {
+    "year": 2023,
+    "scope": "Rock",
+    "artists": 33,
+    "newArtists": 18,
+    "retainedArtists": 15,
+    "newArtistRate": 54.55
+  },
+  {
+    "year": 2024,
+    "scope": "Rock",
+    "artists": 34,
+    "newArtists": 17,
+    "retainedArtists": 17,
+    "newArtistRate": 50.0
+  },
+  {
+    "year": 2025,
+    "scope": "Rock",
+    "artists": 24,
+    "newArtists": 10,
+    "retainedArtists": 14,
+    "newArtistRate": 41.67
+  }
+]

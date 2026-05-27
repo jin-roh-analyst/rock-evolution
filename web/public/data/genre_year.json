@@ -1,0 +1,6590 @@
+[
+  {
+    "year": 1958,
+    "genre": "Blues",
+    "entries": 6,
+    "chartPoints": 78,
+    "uniqueArtists": 2,
+    "avgRank": 88.0,
+    "pointShare": 0.16
+  },
+  {
+    "year": 1958,
+    "genre": "Classical",
+    "entries": 21,
+    "chartPoints": 849,
+    "uniqueArtists": 1,
+    "avgRank": 60.5714,
+    "pointShare": 1.69
+  },
+  {
+    "year": 1958,
+    "genre": "Country",
+    "entries": 115,
+    "chartPoints": 5241,
+    "uniqueArtists": 10,
+    "avgRank": 55.4261,
+    "pointShare": 10.43
+  },
+  {
+    "year": 1958,
+    "genre": "Electronic",
+    "entries": 5,
+    "chartPoints": 233,
+    "uniqueArtists": 1,
+    "avgRank": 54.4,
+    "pointShare": 0.46
+  },
+  {
+    "year": 1958,
+    "genre": "Folk",
+    "entries": 29,
+    "chartPoints": 2544,
+    "uniqueArtists": 2,
+    "avgRank": 13.2759,
+    "pointShare": 5.06
+  },
+  {
+    "year": 1958,
+    "genre": "Gospel",
+    "entries": 9,
+    "chartPoints": 190,
+    "uniqueArtists": 4,
+    "avgRank": 79.8889,
+    "pointShare": 0.38
+  },
+  {
+    "year": 1958,
+    "genre": "Jazz",
+    "entries": 223,
+    "chartPoints": 11827,
+    "uniqueArtists": 18,
+    "avgRank": 47.9641,
+    "pointShare": 23.53
+  },
+  {
+    "year": 1958,
+    "genre": "Latin",
+    "entries": 23,
+    "chartPoints": 1240,
+    "uniqueArtists": 1,
+    "avgRank": 47.087,
+    "pointShare": 2.47
+  },
+  {
+    "year": 1958,
+    "genre": "Pop",
+    "entries": 89,
+    "chartPoints": 4958,
+    "uniqueArtists": 8,
+    "avgRank": 45.2921,
+    "pointShare": 9.87
+  },
+  {
+    "year": 1958,
+    "genre": "RnB",
+    "entries": 74,
+    "chartPoints": 2971,
+    "uniqueArtists": 16,
+    "avgRank": 60.8514,
+    "pointShare": 5.91
+  },
+  {
+    "year": 1958,
+    "genre": "Rock",
+    "entries": 410,
+    "chartPoints": 20122,
+    "uniqueArtists": 44,
+    "avgRank": 51.922,
+    "pointShare": 40.04
+  },
+  {
+    "year": 1959,
+    "genre": "Blues",
+    "entries": 25,
+    "chartPoints": 477,
+    "uniqueArtists": 3,
+    "avgRank": 81.92,
+    "pointShare": 0.36
+  },
+  {
+    "year": 1959,
+    "genre": "Classical",
+    "entries": 35,
+    "chartPoints": 974,
+    "uniqueArtists": 4,
+    "avgRank": 73.1714,
+    "pointShare": 0.74
+  },
+  {
+    "year": 1959,
+    "genre": "Country",
+    "entries": 235,
+    "chartPoints": 9813,
+    "uniqueArtists": 14,
+    "avgRank": 59.2426,
+    "pointShare": 7.49
+  },
+  {
+    "year": 1959,
+    "genre": "Electronic",
+    "entries": 58,
+    "chartPoints": 2469,
+    "uniqueArtists": 3,
+    "avgRank": 58.431,
+    "pointShare": 1.88
+  },
+  {
+    "year": 1959,
+    "genre": "Folk",
+    "entries": 52,
+    "chartPoints": 2898,
+    "uniqueArtists": 2,
+    "avgRank": 45.2692,
+    "pointShare": 2.21
+  },
+  {
+    "year": 1959,
+    "genre": "Gospel",
+    "entries": 11,
+    "chartPoints": 287,
+    "uniqueArtists": 3,
+    "avgRank": 74.9091,
+    "pointShare": 0.22
+  },
+  {
+    "year": 1959,
+    "genre": "HipHop",
+    "entries": 21,
+    "chartPoints": 1051,
+    "uniqueArtists": 1,
+    "avgRank": 50.9524,
+    "pointShare": 0.8
+  },
+  {
+    "year": 1959,
+    "genre": "Jazz",
+    "entries": 362,
+    "chartPoints": 17244,
+    "uniqueArtists": 22,
+    "avgRank": 53.3646,
+    "pointShare": 13.16
+  },
+  {
+    "year": 1959,
+    "genre": "Pop",
+    "entries": 180,
+    "chartPoints": 9678,
+    "uniqueArtists": 14,
+    "avgRank": 47.2333,
+    "pointShare": 7.39
+  },
+  {
+    "year": 1959,
+    "genre": "Reggae",
+    "entries": 18,
+    "chartPoints": 675,
+    "uniqueArtists": 1,
+    "avgRank": 63.5,
+    "pointShare": 0.52
+  },
+  {
+    "year": 1959,
+    "genre": "RnB",
+    "entries": 395,
+    "chartPoints": 20355,
+    "uniqueArtists": 23,
+    "avgRank": 49.4684,
+    "pointShare": 15.54
+  },
+  {
+    "year": 1959,
+    "genre": "Rock",
+    "entries": 1261,
+    "chartPoints": 65083,
+    "uniqueArtists": 87,
+    "avgRank": 49.3878,
+    "pointShare": 49.68
+  },
+  {
+    "year": 1960,
+    "genre": "Blues",
+    "entries": 130,
+    "chartPoints": 5917,
+    "uniqueArtists": 5,
+    "avgRank": 55.4846,
+    "pointShare": 4.47
+  },
+  {
+    "year": 1960,
+    "genre": "Classical",
+    "entries": 72,
+    "chartPoints": 3655,
+    "uniqueArtists": 6,
+    "avgRank": 50.2361,
+    "pointShare": 2.76
+  },
+  {
+    "year": 1960,
+    "genre": "Country",
+    "entries": 237,
+    "chartPoints": 10792,
+    "uniqueArtists": 17,
+    "avgRank": 55.4641,
+    "pointShare": 8.14
+  },
+  {
+    "year": 1960,
+    "genre": "Electronic",
+    "entries": 64,
+    "chartPoints": 3795,
+    "uniqueArtists": 3,
+    "avgRank": 41.7031,
+    "pointShare": 2.86
+  },
+  {
+    "year": 1960,
+    "genre": "Folk",
+    "entries": 70,
+    "chartPoints": 3132,
+    "uniqueArtists": 4,
+    "avgRank": 56.2571,
+    "pointShare": 2.36
+  },
+  {
+    "year": 1960,
+    "genre": "Gospel",
+    "entries": 67,
+    "chartPoints": 3645,
+    "uniqueArtists": 3,
+    "avgRank": 46.597,
+    "pointShare": 2.75
+  },
+  {
+    "year": 1960,
+    "genre": "HipHop",
+    "entries": 15,
+    "chartPoints": 953,
+    "uniqueArtists": 1,
+    "avgRank": 37.4667,
+    "pointShare": 0.72
+  },
+  {
+    "year": 1960,
+    "genre": "Jazz",
+    "entries": 320,
+    "chartPoints": 15250,
+    "uniqueArtists": 23,
+    "avgRank": 53.3438,
+    "pointShare": 11.51
+  },
+  {
+    "year": 1960,
+    "genre": "Pop",
+    "entries": 210,
+    "chartPoints": 9665,
+    "uniqueArtists": 20,
+    "avgRank": 54.9762,
+    "pointShare": 7.29
+  },
+  {
+    "year": 1960,
+    "genre": "RnB",
+    "entries": 542,
+    "chartPoints": 27007,
+    "uniqueArtists": 26,
+    "avgRank": 51.1716,
+    "pointShare": 20.38
+  },
+  {
+    "year": 1960,
+    "genre": "Rock",
+    "entries": 946,
+    "chartPoints": 48007,
+    "uniqueArtists": 57,
+    "avgRank": 50.2526,
+    "pointShare": 36.23
+  },
+  {
+    "year": 1960,
+    "genre": "World",
+    "entries": 10,
+    "chartPoints": 697,
+    "uniqueArtists": 1,
+    "avgRank": 31.3,
+    "pointShare": 0.53
+  },
+  {
+    "year": 1961,
+    "genre": "Blues",
+    "entries": 134,
+    "chartPoints": 4555,
+    "uniqueArtists": 8,
+    "avgRank": 67.0075,
+    "pointShare": 3.16
+  },
+  {
+    "year": 1961,
+    "genre": "Classical",
+    "entries": 87,
+    "chartPoints": 3514,
+    "uniqueArtists": 5,
+    "avgRank": 60.6092,
+    "pointShare": 2.43
+  },
+  {
+    "year": 1961,
+    "genre": "Country",
+    "entries": 282,
+    "chartPoints": 15432,
+    "uniqueArtists": 22,
+    "avgRank": 46.2766,
+    "pointShare": 10.69
+  },
+  {
+    "year": 1961,
+    "genre": "Electronic",
+    "entries": 3,
+    "chartPoints": 23,
+    "uniqueArtists": 1,
+    "avgRank": 93.3333,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1961,
+    "genre": "Folk",
+    "entries": 20,
+    "chartPoints": 1004,
+    "uniqueArtists": 4,
+    "avgRank": 50.8,
+    "pointShare": 0.7
+  },
+  {
+    "year": 1961,
+    "genre": "Gospel",
+    "entries": 46,
+    "chartPoints": 1857,
+    "uniqueArtists": 4,
+    "avgRank": 60.6304,
+    "pointShare": 1.29
+  },
+  {
+    "year": 1961,
+    "genre": "Jazz",
+    "entries": 231,
+    "chartPoints": 9428,
+    "uniqueArtists": 20,
+    "avgRank": 60.1861,
+    "pointShare": 6.53
+  },
+  {
+    "year": 1961,
+    "genre": "Pop",
+    "entries": 170,
+    "chartPoints": 8593,
+    "uniqueArtists": 18,
+    "avgRank": 50.4529,
+    "pointShare": 5.95
+  },
+  {
+    "year": 1961,
+    "genre": "Reggae",
+    "entries": 5,
+    "chartPoints": 72,
+    "uniqueArtists": 1,
+    "avgRank": 86.6,
+    "pointShare": 0.05
+  },
+  {
+    "year": 1961,
+    "genre": "RnB",
+    "entries": 998,
+    "chartPoints": 50616,
+    "uniqueArtists": 57,
+    "avgRank": 50.2826,
+    "pointShare": 35.07
+  },
+  {
+    "year": 1961,
+    "genre": "Rock",
+    "entries": 913,
+    "chartPoints": 48627,
+    "uniqueArtists": 60,
+    "avgRank": 47.7393,
+    "pointShare": 33.69
+  },
+  {
+    "year": 1961,
+    "genre": "World",
+    "entries": 11,
+    "chartPoints": 596,
+    "uniqueArtists": 1,
+    "avgRank": 46.8182,
+    "pointShare": 0.41
+  },
+  {
+    "year": 1962,
+    "genre": "Blues",
+    "entries": 62,
+    "chartPoints": 1928,
+    "uniqueArtists": 4,
+    "avgRank": 69.9032,
+    "pointShare": 1.39
+  },
+  {
+    "year": 1962,
+    "genre": "Classical",
+    "entries": 43,
+    "chartPoints": 1675,
+    "uniqueArtists": 4,
+    "avgRank": 62.0465,
+    "pointShare": 1.21
+  },
+  {
+    "year": 1962,
+    "genre": "Country",
+    "entries": 269,
+    "chartPoints": 12628,
+    "uniqueArtists": 21,
+    "avgRank": 54.0558,
+    "pointShare": 9.09
+  },
+  {
+    "year": 1962,
+    "genre": "Folk",
+    "entries": 62,
+    "chartPoints": 2666,
+    "uniqueArtists": 4,
+    "avgRank": 58.0,
+    "pointShare": 1.92
+  },
+  {
+    "year": 1962,
+    "genre": "Gospel",
+    "entries": 11,
+    "chartPoints": 70,
+    "uniqueArtists": 4,
+    "avgRank": 94.6364,
+    "pointShare": 0.05
+  },
+  {
+    "year": 1962,
+    "genre": "HipHop",
+    "entries": 1,
+    "chartPoints": 2,
+    "uniqueArtists": 1,
+    "avgRank": 99.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 1962,
+    "genre": "Jazz",
+    "entries": 295,
+    "chartPoints": 13983,
+    "uniqueArtists": 26,
+    "avgRank": 53.6,
+    "pointShare": 10.07
+  },
+  {
+    "year": 1962,
+    "genre": "Latin",
+    "entries": 5,
+    "chartPoints": 139,
+    "uniqueArtists": 1,
+    "avgRank": 73.2,
+    "pointShare": 0.1
+  },
+  {
+    "year": 1962,
+    "genre": "Pop",
+    "entries": 302,
+    "chartPoints": 15908,
+    "uniqueArtists": 20,
+    "avgRank": 48.3245,
+    "pointShare": 11.46
+  },
+  {
+    "year": 1962,
+    "genre": "RnB",
+    "entries": 1048,
+    "chartPoints": 53230,
+    "uniqueArtists": 67,
+    "avgRank": 50.208,
+    "pointShare": 38.34
+  },
+  {
+    "year": 1962,
+    "genre": "Rock",
+    "entries": 717,
+    "chartPoints": 36618,
+    "uniqueArtists": 50,
+    "avgRank": 49.9289,
+    "pointShare": 26.37
+  },
+  {
+    "year": 1963,
+    "genre": "Blues",
+    "entries": 37,
+    "chartPoints": 1657,
+    "uniqueArtists": 2,
+    "avgRank": 56.2162,
+    "pointShare": 1.15
+  },
+  {
+    "year": 1963,
+    "genre": "Country",
+    "entries": 161,
+    "chartPoints": 7817,
+    "uniqueArtists": 15,
+    "avgRank": 52.4472,
+    "pointShare": 5.45
+  },
+  {
+    "year": 1963,
+    "genre": "Electronic",
+    "entries": 4,
+    "chartPoints": 26,
+    "uniqueArtists": 1,
+    "avgRank": 94.5,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1963,
+    "genre": "Folk",
+    "entries": 115,
+    "chartPoints": 6657,
+    "uniqueArtists": 7,
+    "avgRank": 43.113,
+    "pointShare": 4.64
+  },
+  {
+    "year": 1963,
+    "genre": "Gospel",
+    "entries": 17,
+    "chartPoints": 701,
+    "uniqueArtists": 3,
+    "avgRank": 59.7647,
+    "pointShare": 0.49
+  },
+  {
+    "year": 1963,
+    "genre": "Jazz",
+    "entries": 246,
+    "chartPoints": 9858,
+    "uniqueArtists": 24,
+    "avgRank": 60.9268,
+    "pointShare": 6.87
+  },
+  {
+    "year": 1963,
+    "genre": "Latin",
+    "entries": 23,
+    "chartPoints": 1525,
+    "uniqueArtists": 2,
+    "avgRank": 34.6957,
+    "pointShare": 1.06
+  },
+  {
+    "year": 1963,
+    "genre": "Pop",
+    "entries": 429,
+    "chartPoints": 25452,
+    "uniqueArtists": 21,
+    "avgRank": 41.6713,
+    "pointShare": 17.73
+  },
+  {
+    "year": 1963,
+    "genre": "Reggae",
+    "entries": 10,
+    "chartPoints": 565,
+    "uniqueArtists": 1,
+    "avgRank": 44.5,
+    "pointShare": 0.39
+  },
+  {
+    "year": 1963,
+    "genre": "RnB",
+    "entries": 1163,
+    "chartPoints": 54243,
+    "uniqueArtists": 80,
+    "avgRank": 54.3594,
+    "pointShare": 37.8
+  },
+  {
+    "year": 1963,
+    "genre": "Rock",
+    "entries": 658,
+    "chartPoints": 33647,
+    "uniqueArtists": 47,
+    "avgRank": 49.8647,
+    "pointShare": 23.45
+  },
+  {
+    "year": 1963,
+    "genre": "World",
+    "entries": 20,
+    "chartPoints": 1366,
+    "uniqueArtists": 1,
+    "avgRank": 32.7,
+    "pointShare": 0.95
+  },
+  {
+    "year": 1964,
+    "genre": "Blues",
+    "entries": 26,
+    "chartPoints": 1164,
+    "uniqueArtists": 1,
+    "avgRank": 56.2308,
+    "pointShare": 0.64
+  },
+  {
+    "year": 1964,
+    "genre": "Classical",
+    "entries": 16,
+    "chartPoints": 529,
+    "uniqueArtists": 2,
+    "avgRank": 67.9375,
+    "pointShare": 0.29
+  },
+  {
+    "year": 1964,
+    "genre": "Country",
+    "entries": 90,
+    "chartPoints": 3529,
+    "uniqueArtists": 9,
+    "avgRank": 61.7889,
+    "pointShare": 1.93
+  },
+  {
+    "year": 1964,
+    "genre": "Folk",
+    "entries": 61,
+    "chartPoints": 3076,
+    "uniqueArtists": 7,
+    "avgRank": 50.5738,
+    "pointShare": 1.68
+  },
+  {
+    "year": 1964,
+    "genre": "Gospel",
+    "entries": 8,
+    "chartPoints": 68,
+    "uniqueArtists": 1,
+    "avgRank": 92.5,
+    "pointShare": 0.04
+  },
+  {
+    "year": 1964,
+    "genre": "HipHop",
+    "entries": 3,
+    "chartPoints": 16,
+    "uniqueArtists": 1,
+    "avgRank": 95.6667,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1964,
+    "genre": "Jazz",
+    "entries": 248,
+    "chartPoints": 13081,
+    "uniqueArtists": 15,
+    "avgRank": 48.254,
+    "pointShare": 7.15
+  },
+  {
+    "year": 1964,
+    "genre": "Latin",
+    "entries": 2,
+    "chartPoints": 26,
+    "uniqueArtists": 1,
+    "avgRank": 88.0,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1964,
+    "genre": "Pop",
+    "entries": 634,
+    "chartPoints": 36304,
+    "uniqueArtists": 33,
+    "avgRank": 43.7382,
+    "pointShare": 19.83
+  },
+  {
+    "year": 1964,
+    "genre": "Reggae",
+    "entries": 52,
+    "chartPoints": 2798,
+    "uniqueArtists": 4,
+    "avgRank": 47.1923,
+    "pointShare": 1.53
+  },
+  {
+    "year": 1964,
+    "genre": "RnB",
+    "entries": 1227,
+    "chartPoints": 55096,
+    "uniqueArtists": 87,
+    "avgRank": 56.097,
+    "pointShare": 30.1
+  },
+  {
+    "year": 1964,
+    "genre": "Rock",
+    "entries": 1147,
+    "chartPoints": 66347,
+    "uniqueArtists": 58,
+    "avgRank": 43.1561,
+    "pointShare": 36.25
+  },
+  {
+    "year": 1964,
+    "genre": "World",
+    "entries": 18,
+    "chartPoints": 1009,
+    "uniqueArtists": 1,
+    "avgRank": 44.9444,
+    "pointShare": 0.55
+  },
+  {
+    "year": 1965,
+    "genre": "Blues",
+    "entries": 14,
+    "chartPoints": 246,
+    "uniqueArtists": 2,
+    "avgRank": 83.4286,
+    "pointShare": 0.12
+  },
+  {
+    "year": 1965,
+    "genre": "Classical",
+    "entries": 33,
+    "chartPoints": 1617,
+    "uniqueArtists": 2,
+    "avgRank": 52.0,
+    "pointShare": 0.8
+  },
+  {
+    "year": 1965,
+    "genre": "Country",
+    "entries": 156,
+    "chartPoints": 7716,
+    "uniqueArtists": 15,
+    "avgRank": 51.5385,
+    "pointShare": 3.82
+  },
+  {
+    "year": 1965,
+    "genre": "Electronic",
+    "entries": 6,
+    "chartPoints": 204,
+    "uniqueArtists": 1,
+    "avgRank": 67.0,
+    "pointShare": 0.1
+  },
+  {
+    "year": 1965,
+    "genre": "Folk",
+    "entries": 81,
+    "chartPoints": 3982,
+    "uniqueArtists": 7,
+    "avgRank": 51.8395,
+    "pointShare": 1.97
+  },
+  {
+    "year": 1965,
+    "genre": "Gospel",
+    "entries": 14,
+    "chartPoints": 489,
+    "uniqueArtists": 2,
+    "avgRank": 66.0714,
+    "pointShare": 0.24
+  },
+  {
+    "year": 1965,
+    "genre": "Jazz",
+    "entries": 263,
+    "chartPoints": 12847,
+    "uniqueArtists": 19,
+    "avgRank": 52.1521,
+    "pointShare": 6.37
+  },
+  {
+    "year": 1965,
+    "genre": "Pop",
+    "entries": 775,
+    "chartPoints": 44739,
+    "uniqueArtists": 34,
+    "avgRank": 43.2723,
+    "pointShare": 22.18
+  },
+  {
+    "year": 1965,
+    "genre": "Reggae",
+    "entries": 11,
+    "chartPoints": 330,
+    "uniqueArtists": 2,
+    "avgRank": 71.0,
+    "pointShare": 0.16
+  },
+  {
+    "year": 1965,
+    "genre": "RnB",
+    "entries": 1326,
+    "chartPoints": 64079,
+    "uniqueArtists": 99,
+    "avgRank": 52.675,
+    "pointShare": 31.76
+  },
+  {
+    "year": 1965,
+    "genre": "Rock",
+    "entries": 1154,
+    "chartPoints": 65495,
+    "uniqueArtists": 73,
+    "avgRank": 44.2452,
+    "pointShare": 32.46
+  },
+  {
+    "year": 1966,
+    "genre": "Blues",
+    "entries": 30,
+    "chartPoints": 1146,
+    "uniqueArtists": 2,
+    "avgRank": 62.8,
+    "pointShare": 0.53
+  },
+  {
+    "year": 1966,
+    "genre": "Classical",
+    "entries": 28,
+    "chartPoints": 1220,
+    "uniqueArtists": 3,
+    "avgRank": 57.4286,
+    "pointShare": 0.57
+  },
+  {
+    "year": 1966,
+    "genre": "Country",
+    "entries": 115,
+    "chartPoints": 4693,
+    "uniqueArtists": 10,
+    "avgRank": 60.1913,
+    "pointShare": 2.19
+  },
+  {
+    "year": 1966,
+    "genre": "Electronic",
+    "entries": 19,
+    "chartPoints": 1025,
+    "uniqueArtists": 2,
+    "avgRank": 47.0526,
+    "pointShare": 0.48
+  },
+  {
+    "year": 1966,
+    "genre": "Folk",
+    "entries": 48,
+    "chartPoints": 2608,
+    "uniqueArtists": 4,
+    "avgRank": 46.6667,
+    "pointShare": 1.21
+  },
+  {
+    "year": 1966,
+    "genre": "Gospel",
+    "entries": 32,
+    "chartPoints": 1265,
+    "uniqueArtists": 3,
+    "avgRank": 61.4688,
+    "pointShare": 0.59
+  },
+  {
+    "year": 1966,
+    "genre": "HipHop",
+    "entries": 5,
+    "chartPoints": 194,
+    "uniqueArtists": 1,
+    "avgRank": 62.2,
+    "pointShare": 0.09
+  },
+  {
+    "year": 1966,
+    "genre": "Jazz",
+    "entries": 255,
+    "chartPoints": 12460,
+    "uniqueArtists": 22,
+    "avgRank": 52.1373,
+    "pointShare": 5.8
+  },
+  {
+    "year": 1966,
+    "genre": "Latin",
+    "entries": 2,
+    "chartPoints": 8,
+    "uniqueArtists": 1,
+    "avgRank": 97.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 1966,
+    "genre": "Pop",
+    "entries": 747,
+    "chartPoints": 42957,
+    "uniqueArtists": 45,
+    "avgRank": 43.494,
+    "pointShare": 20.01
+  },
+  {
+    "year": 1966,
+    "genre": "Reggae",
+    "entries": 2,
+    "chartPoints": 6,
+    "uniqueArtists": 1,
+    "avgRank": 98.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 1966,
+    "genre": "RnB",
+    "entries": 1265,
+    "chartPoints": 58310,
+    "uniqueArtists": 98,
+    "avgRank": 54.9051,
+    "pointShare": 27.16
+  },
+  {
+    "year": 1966,
+    "genre": "Rock",
+    "entries": 1541,
+    "chartPoints": 88832,
+    "uniqueArtists": 94,
+    "avgRank": 43.3543,
+    "pointShare": 41.37
+  },
+  {
+    "year": 1967,
+    "genre": "Afrobeat",
+    "entries": 4,
+    "chartPoints": 85,
+    "uniqueArtists": 1,
+    "avgRank": 79.75,
+    "pointShare": 0.04
+  },
+  {
+    "year": 1967,
+    "genre": "Blues",
+    "entries": 5,
+    "chartPoints": 55,
+    "uniqueArtists": 2,
+    "avgRank": 90.0,
+    "pointShare": 0.03
+  },
+  {
+    "year": 1967,
+    "genre": "Country",
+    "entries": 77,
+    "chartPoints": 2284,
+    "uniqueArtists": 10,
+    "avgRank": 71.3377,
+    "pointShare": 1.06
+  },
+  {
+    "year": 1967,
+    "genre": "Electronic",
+    "entries": 3,
+    "chartPoints": 41,
+    "uniqueArtists": 1,
+    "avgRank": 87.3333,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1967,
+    "genre": "Folk",
+    "entries": 33,
+    "chartPoints": 1926,
+    "uniqueArtists": 3,
+    "avgRank": 42.6364,
+    "pointShare": 0.89
+  },
+  {
+    "year": 1967,
+    "genre": "HipHop",
+    "entries": 6,
+    "chartPoints": 261,
+    "uniqueArtists": 1,
+    "avgRank": 57.5,
+    "pointShare": 0.12
+  },
+  {
+    "year": 1967,
+    "genre": "Jazz",
+    "entries": 190,
+    "chartPoints": 8148,
+    "uniqueArtists": 17,
+    "avgRank": 58.1158,
+    "pointShare": 3.78
+  },
+  {
+    "year": 1967,
+    "genre": "Pop",
+    "entries": 1084,
+    "chartPoints": 62017,
+    "uniqueArtists": 62,
+    "avgRank": 43.7887,
+    "pointShare": 28.79
+  },
+  {
+    "year": 1967,
+    "genre": "Reggae",
+    "entries": 4,
+    "chartPoints": 42,
+    "uniqueArtists": 1,
+    "avgRank": 90.5,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1967,
+    "genre": "RnB",
+    "entries": 1409,
+    "chartPoints": 64281,
+    "uniqueArtists": 118,
+    "avgRank": 55.3783,
+    "pointShare": 29.84
+  },
+  {
+    "year": 1967,
+    "genre": "Rock",
+    "entries": 1365,
+    "chartPoints": 76264,
+    "uniqueArtists": 86,
+    "avgRank": 45.1289,
+    "pointShare": 35.41
+  },
+  {
+    "year": 1968,
+    "genre": "Afrobeat",
+    "entries": 26,
+    "chartPoints": 1242,
+    "uniqueArtists": 2,
+    "avgRank": 53.2308,
+    "pointShare": 0.57
+  },
+  {
+    "year": 1968,
+    "genre": "Blues",
+    "entries": 10,
+    "chartPoints": 246,
+    "uniqueArtists": 1,
+    "avgRank": 76.4,
+    "pointShare": 0.11
+  },
+  {
+    "year": 1968,
+    "genre": "Classical",
+    "entries": 47,
+    "chartPoints": 2846,
+    "uniqueArtists": 4,
+    "avgRank": 40.4468,
+    "pointShare": 1.3
+  },
+  {
+    "year": 1968,
+    "genre": "Country",
+    "entries": 174,
+    "chartPoints": 7434,
+    "uniqueArtists": 12,
+    "avgRank": 58.2759,
+    "pointShare": 3.39
+  },
+  {
+    "year": 1968,
+    "genre": "Electronic",
+    "entries": 7,
+    "chartPoints": 249,
+    "uniqueArtists": 1,
+    "avgRank": 65.4286,
+    "pointShare": 0.11
+  },
+  {
+    "year": 1968,
+    "genre": "Folk",
+    "entries": 1,
+    "chartPoints": 40,
+    "uniqueArtists": 1,
+    "avgRank": 61.0,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1968,
+    "genre": "HipHop",
+    "entries": 10,
+    "chartPoints": 636,
+    "uniqueArtists": 1,
+    "avgRank": 37.4,
+    "pointShare": 0.29
+  },
+  {
+    "year": 1968,
+    "genre": "Jazz",
+    "entries": 219,
+    "chartPoints": 9801,
+    "uniqueArtists": 15,
+    "avgRank": 56.2466,
+    "pointShare": 4.47
+  },
+  {
+    "year": 1968,
+    "genre": "Latin",
+    "entries": 3,
+    "chartPoints": 21,
+    "uniqueArtists": 1,
+    "avgRank": 94.0,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1968,
+    "genre": "Pop",
+    "entries": 983,
+    "chartPoints": 54169,
+    "uniqueArtists": 62,
+    "avgRank": 45.8942,
+    "pointShare": 24.69
+  },
+  {
+    "year": 1968,
+    "genre": "RnB",
+    "entries": 1579,
+    "chartPoints": 78725,
+    "uniqueArtists": 102,
+    "avgRank": 51.1425,
+    "pointShare": 35.88
+  },
+  {
+    "year": 1968,
+    "genre": "Rock",
+    "entries": 1203,
+    "chartPoints": 64022,
+    "uniqueArtists": 86,
+    "avgRank": 47.7814,
+    "pointShare": 29.18
+  },
+  {
+    "year": 1969,
+    "genre": "Afrobeat",
+    "entries": 8,
+    "chartPoints": 265,
+    "uniqueArtists": 1,
+    "avgRank": 67.875,
+    "pointShare": 0.12
+  },
+  {
+    "year": 1969,
+    "genre": "Blues",
+    "entries": 13,
+    "chartPoints": 311,
+    "uniqueArtists": 1,
+    "avgRank": 77.0769,
+    "pointShare": 0.14
+  },
+  {
+    "year": 1969,
+    "genre": "Classical",
+    "entries": 18,
+    "chartPoints": 244,
+    "uniqueArtists": 4,
+    "avgRank": 87.4444,
+    "pointShare": 0.11
+  },
+  {
+    "year": 1969,
+    "genre": "Country",
+    "entries": 199,
+    "chartPoints": 9810,
+    "uniqueArtists": 15,
+    "avgRank": 51.7035,
+    "pointShare": 4.45
+  },
+  {
+    "year": 1969,
+    "genre": "Electronic",
+    "entries": 33,
+    "chartPoints": 2494,
+    "uniqueArtists": 1,
+    "avgRank": 25.4242,
+    "pointShare": 1.13
+  },
+  {
+    "year": 1969,
+    "genre": "Folk",
+    "entries": 66,
+    "chartPoints": 3151,
+    "uniqueArtists": 7,
+    "avgRank": 53.2576,
+    "pointShare": 1.43
+  },
+  {
+    "year": 1969,
+    "genre": "Gospel",
+    "entries": 53,
+    "chartPoints": 2432,
+    "uniqueArtists": 5,
+    "avgRank": 55.1132,
+    "pointShare": 1.1
+  },
+  {
+    "year": 1969,
+    "genre": "HipHop",
+    "entries": 18,
+    "chartPoints": 758,
+    "uniqueArtists": 2,
+    "avgRank": 58.8889,
+    "pointShare": 0.34
+  },
+  {
+    "year": 1969,
+    "genre": "Jazz",
+    "entries": 125,
+    "chartPoints": 5067,
+    "uniqueArtists": 13,
+    "avgRank": 60.464,
+    "pointShare": 2.3
+  },
+  {
+    "year": 1969,
+    "genre": "Pop",
+    "entries": 963,
+    "chartPoints": 51359,
+    "uniqueArtists": 61,
+    "avgRank": 47.6677,
+    "pointShare": 23.27
+  },
+  {
+    "year": 1969,
+    "genre": "Reggae",
+    "entries": 17,
+    "chartPoints": 869,
+    "uniqueArtists": 3,
+    "avgRank": 49.8824,
+    "pointShare": 0.39
+  },
+  {
+    "year": 1969,
+    "genre": "RnB",
+    "entries": 1489,
+    "chartPoints": 73257,
+    "uniqueArtists": 101,
+    "avgRank": 51.8012,
+    "pointShare": 33.2
+  },
+  {
+    "year": 1969,
+    "genre": "Rock",
+    "entries": 1295,
+    "chartPoints": 70647,
+    "uniqueArtists": 91,
+    "avgRank": 46.4463,
+    "pointShare": 32.02
+  },
+  {
+    "year": 1970,
+    "genre": "Blues",
+    "entries": 7,
+    "chartPoints": 51,
+    "uniqueArtists": 2,
+    "avgRank": 93.7143,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1970,
+    "genre": "Country",
+    "entries": 254,
+    "chartPoints": 11470,
+    "uniqueArtists": 23,
+    "avgRank": 55.8425,
+    "pointShare": 5.45
+  },
+  {
+    "year": 1970,
+    "genre": "Electronic",
+    "entries": 6,
+    "chartPoints": 143,
+    "uniqueArtists": 1,
+    "avgRank": 77.1667,
+    "pointShare": 0.07
+  },
+  {
+    "year": 1970,
+    "genre": "Folk",
+    "entries": 84,
+    "chartPoints": 4860,
+    "uniqueArtists": 9,
+    "avgRank": 43.1429,
+    "pointShare": 2.31
+  },
+  {
+    "year": 1970,
+    "genre": "Gospel",
+    "entries": 26,
+    "chartPoints": 437,
+    "uniqueArtists": 3,
+    "avgRank": 84.1923,
+    "pointShare": 0.21
+  },
+  {
+    "year": 1970,
+    "genre": "HipHop",
+    "entries": 8,
+    "chartPoints": 182,
+    "uniqueArtists": 2,
+    "avgRank": 78.25,
+    "pointShare": 0.09
+  },
+  {
+    "year": 1970,
+    "genre": "Jazz",
+    "entries": 59,
+    "chartPoints": 2578,
+    "uniqueArtists": 10,
+    "avgRank": 57.3051,
+    "pointShare": 1.22
+  },
+  {
+    "year": 1970,
+    "genre": "Latin",
+    "entries": 24,
+    "chartPoints": 626,
+    "uniqueArtists": 1,
+    "avgRank": 74.9167,
+    "pointShare": 0.3
+  },
+  {
+    "year": 1970,
+    "genre": "Pop",
+    "entries": 803,
+    "chartPoints": 42272,
+    "uniqueArtists": 54,
+    "avgRank": 48.3574,
+    "pointShare": 20.08
+  },
+  {
+    "year": 1970,
+    "genre": "Reggae",
+    "entries": 10,
+    "chartPoints": 526,
+    "uniqueArtists": 1,
+    "avgRank": 48.4,
+    "pointShare": 0.25
+  },
+  {
+    "year": 1970,
+    "genre": "RnB",
+    "entries": 1314,
+    "chartPoints": 64138,
+    "uniqueArtists": 95,
+    "avgRank": 52.1887,
+    "pointShare": 30.46
+  },
+  {
+    "year": 1970,
+    "genre": "Rock",
+    "entries": 1513,
+    "chartPoints": 83281,
+    "uniqueArtists": 113,
+    "avgRank": 45.9564,
+    "pointShare": 39.55
+  },
+  {
+    "year": 1971,
+    "genre": "Afrobeat",
+    "entries": 25,
+    "chartPoints": 1429,
+    "uniqueArtists": 1,
+    "avgRank": 43.84,
+    "pointShare": 0.68
+  },
+  {
+    "year": 1971,
+    "genre": "Blues",
+    "entries": 1,
+    "chartPoints": 4,
+    "uniqueArtists": 1,
+    "avgRank": 97.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 1971,
+    "genre": "Country",
+    "entries": 281,
+    "chartPoints": 12604,
+    "uniqueArtists": 23,
+    "avgRank": 56.1459,
+    "pointShare": 5.97
+  },
+  {
+    "year": 1971,
+    "genre": "Electronic",
+    "entries": 43,
+    "chartPoints": 2334,
+    "uniqueArtists": 2,
+    "avgRank": 46.7209,
+    "pointShare": 1.11
+  },
+  {
+    "year": 1971,
+    "genre": "Folk",
+    "entries": 288,
+    "chartPoints": 16938,
+    "uniqueArtists": 19,
+    "avgRank": 42.1875,
+    "pointShare": 8.03
+  },
+  {
+    "year": 1971,
+    "genre": "Gospel",
+    "entries": 31,
+    "chartPoints": 967,
+    "uniqueArtists": 4,
+    "avgRank": 69.8065,
+    "pointShare": 0.46
+  },
+  {
+    "year": 1971,
+    "genre": "HipHop",
+    "entries": 48,
+    "chartPoints": 1980,
+    "uniqueArtists": 5,
+    "avgRank": 59.75,
+    "pointShare": 0.94
+  },
+  {
+    "year": 1971,
+    "genre": "Jazz",
+    "entries": 79,
+    "chartPoints": 4023,
+    "uniqueArtists": 8,
+    "avgRank": 50.0759,
+    "pointShare": 1.91
+  },
+  {
+    "year": 1971,
+    "genre": "Pop",
+    "entries": 502,
+    "chartPoints": 27389,
+    "uniqueArtists": 32,
+    "avgRank": 46.4402,
+    "pointShare": 12.98
+  },
+  {
+    "year": 1971,
+    "genre": "RnB",
+    "entries": 1337,
+    "chartPoints": 67845,
+    "uniqueArtists": 97,
+    "avgRank": 50.2558,
+    "pointShare": 32.15
+  },
+  {
+    "year": 1971,
+    "genre": "Rock",
+    "entries": 1477,
+    "chartPoints": 75496,
+    "uniqueArtists": 117,
+    "avgRank": 49.8856,
+    "pointShare": 35.78
+  },
+  {
+    "year": 1972,
+    "genre": "Afrobeat",
+    "entries": 7,
+    "chartPoints": 353,
+    "uniqueArtists": 1,
+    "avgRank": 50.5714,
+    "pointShare": 0.16
+  },
+  {
+    "year": 1972,
+    "genre": "Blues",
+    "entries": 9,
+    "chartPoints": 187,
+    "uniqueArtists": 2,
+    "avgRank": 80.2222,
+    "pointShare": 0.08
+  },
+  {
+    "year": 1972,
+    "genre": "Classical",
+    "entries": 4,
+    "chartPoints": 55,
+    "uniqueArtists": 1,
+    "avgRank": 87.25,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1972,
+    "genre": "Country",
+    "entries": 170,
+    "chartPoints": 6373,
+    "uniqueArtists": 22,
+    "avgRank": 63.5118,
+    "pointShare": 2.8
+  },
+  {
+    "year": 1972,
+    "genre": "Electronic",
+    "entries": 46,
+    "chartPoints": 2560,
+    "uniqueArtists": 5,
+    "avgRank": 45.3478,
+    "pointShare": 1.13
+  },
+  {
+    "year": 1972,
+    "genre": "Folk",
+    "entries": 298,
+    "chartPoints": 17193,
+    "uniqueArtists": 20,
+    "avgRank": 43.3054,
+    "pointShare": 7.56
+  },
+  {
+    "year": 1972,
+    "genre": "Gospel",
+    "entries": 22,
+    "chartPoints": 987,
+    "uniqueArtists": 3,
+    "avgRank": 56.1364,
+    "pointShare": 0.43
+  },
+  {
+    "year": 1972,
+    "genre": "HipHop",
+    "entries": 41,
+    "chartPoints": 1787,
+    "uniqueArtists": 4,
+    "avgRank": 57.4146,
+    "pointShare": 0.79
+  },
+  {
+    "year": 1972,
+    "genre": "Jazz",
+    "entries": 91,
+    "chartPoints": 5195,
+    "uniqueArtists": 7,
+    "avgRank": 43.9121,
+    "pointShare": 2.28
+  },
+  {
+    "year": 1972,
+    "genre": "Pop",
+    "entries": 550,
+    "chartPoints": 30202,
+    "uniqueArtists": 34,
+    "avgRank": 46.0873,
+    "pointShare": 13.28
+  },
+  {
+    "year": 1972,
+    "genre": "RnB",
+    "entries": 1497,
+    "chartPoints": 76603,
+    "uniqueArtists": 90,
+    "avgRank": 49.829,
+    "pointShare": 33.69
+  },
+  {
+    "year": 1972,
+    "genre": "Rock",
+    "entries": 1675,
+    "chartPoints": 85905,
+    "uniqueArtists": 123,
+    "avgRank": 49.7134,
+    "pointShare": 37.78
+  },
+  {
+    "year": 1973,
+    "genre": "Afrobeat",
+    "entries": 19,
+    "chartPoints": 823,
+    "uniqueArtists": 2,
+    "avgRank": 57.6842,
+    "pointShare": 0.36
+  },
+  {
+    "year": 1973,
+    "genre": "Blues",
+    "entries": 6,
+    "chartPoints": 176,
+    "uniqueArtists": 1,
+    "avgRank": 71.6667,
+    "pointShare": 0.08
+  },
+  {
+    "year": 1973,
+    "genre": "Country",
+    "entries": 309,
+    "chartPoints": 11525,
+    "uniqueArtists": 25,
+    "avgRank": 63.7023,
+    "pointShare": 5.09
+  },
+  {
+    "year": 1973,
+    "genre": "Folk",
+    "entries": 256,
+    "chartPoints": 14603,
+    "uniqueArtists": 15,
+    "avgRank": 43.957,
+    "pointShare": 6.45
+  },
+  {
+    "year": 1973,
+    "genre": "Gospel",
+    "entries": 45,
+    "chartPoints": 1497,
+    "uniqueArtists": 3,
+    "avgRank": 67.7333,
+    "pointShare": 0.66
+  },
+  {
+    "year": 1973,
+    "genre": "HipHop",
+    "entries": 8,
+    "chartPoints": 241,
+    "uniqueArtists": 1,
+    "avgRank": 70.875,
+    "pointShare": 0.11
+  },
+  {
+    "year": 1973,
+    "genre": "Jazz",
+    "entries": 73,
+    "chartPoints": 2696,
+    "uniqueArtists": 8,
+    "avgRank": 64.0685,
+    "pointShare": 1.19
+  },
+  {
+    "year": 1973,
+    "genre": "Latin",
+    "entries": 3,
+    "chartPoints": 18,
+    "uniqueArtists": 1,
+    "avgRank": 95.0,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1973,
+    "genre": "Pop",
+    "entries": 598,
+    "chartPoints": 32399,
+    "uniqueArtists": 32,
+    "avgRank": 46.8211,
+    "pointShare": 14.3
+  },
+  {
+    "year": 1973,
+    "genre": "RnB",
+    "entries": 1582,
+    "chartPoints": 79813,
+    "uniqueArtists": 92,
+    "avgRank": 50.5493,
+    "pointShare": 35.23
+  },
+  {
+    "year": 1973,
+    "genre": "Rock",
+    "entries": 1570,
+    "chartPoints": 82735,
+    "uniqueArtists": 96,
+    "avgRank": 48.3025,
+    "pointShare": 36.52
+  },
+  {
+    "year": 1974,
+    "genre": "Blues",
+    "entries": 37,
+    "chartPoints": 1243,
+    "uniqueArtists": 3,
+    "avgRank": 67.4054,
+    "pointShare": 0.57
+  },
+  {
+    "year": 1974,
+    "genre": "Country",
+    "entries": 334,
+    "chartPoints": 14579,
+    "uniqueArtists": 25,
+    "avgRank": 57.3503,
+    "pointShare": 6.68
+  },
+  {
+    "year": 1974,
+    "genre": "Folk",
+    "entries": 271,
+    "chartPoints": 16127,
+    "uniqueArtists": 12,
+    "avgRank": 41.4908,
+    "pointShare": 7.39
+  },
+  {
+    "year": 1974,
+    "genre": "Gospel",
+    "entries": 24,
+    "chartPoints": 577,
+    "uniqueArtists": 5,
+    "avgRank": 76.9583,
+    "pointShare": 0.26
+  },
+  {
+    "year": 1974,
+    "genre": "Jazz",
+    "entries": 46,
+    "chartPoints": 926,
+    "uniqueArtists": 7,
+    "avgRank": 80.8696,
+    "pointShare": 0.42
+  },
+  {
+    "year": 1974,
+    "genre": "Latin",
+    "entries": 1,
+    "chartPoints": 1,
+    "uniqueArtists": 1,
+    "avgRank": 100.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 1974,
+    "genre": "Pop",
+    "entries": 448,
+    "chartPoints": 24775,
+    "uniqueArtists": 30,
+    "avgRank": 45.6987,
+    "pointShare": 11.36
+  },
+  {
+    "year": 1974,
+    "genre": "RnB",
+    "entries": 1589,
+    "chartPoints": 77428,
+    "uniqueArtists": 82,
+    "avgRank": 52.2725,
+    "pointShare": 35.49
+  },
+  {
+    "year": 1974,
+    "genre": "Rock",
+    "entries": 1598,
+    "chartPoints": 82524,
+    "uniqueArtists": 101,
+    "avgRank": 49.3579,
+    "pointShare": 37.82
+  },
+  {
+    "year": 1975,
+    "genre": "Afrobeat",
+    "entries": 25,
+    "chartPoints": 1592,
+    "uniqueArtists": 1,
+    "avgRank": 37.32,
+    "pointShare": 0.73
+  },
+  {
+    "year": 1975,
+    "genre": "Blues",
+    "entries": 28,
+    "chartPoints": 986,
+    "uniqueArtists": 4,
+    "avgRank": 65.7857,
+    "pointShare": 0.45
+  },
+  {
+    "year": 1975,
+    "genre": "Country",
+    "entries": 303,
+    "chartPoints": 15502,
+    "uniqueArtists": 23,
+    "avgRank": 49.8383,
+    "pointShare": 7.08
+  },
+  {
+    "year": 1975,
+    "genre": "Electronic",
+    "entries": 52,
+    "chartPoints": 3528,
+    "uniqueArtists": 3,
+    "avgRank": 33.1538,
+    "pointShare": 1.61
+  },
+  {
+    "year": 1975,
+    "genre": "Folk",
+    "entries": 232,
+    "chartPoints": 12724,
+    "uniqueArtists": 18,
+    "avgRank": 46.1552,
+    "pointShare": 5.81
+  },
+  {
+    "year": 1975,
+    "genre": "Gospel",
+    "entries": 16,
+    "chartPoints": 192,
+    "uniqueArtists": 3,
+    "avgRank": 89.0,
+    "pointShare": 0.09
+  },
+  {
+    "year": 1975,
+    "genre": "Jazz",
+    "entries": 77,
+    "chartPoints": 2911,
+    "uniqueArtists": 9,
+    "avgRank": 63.1948,
+    "pointShare": 1.33
+  },
+  {
+    "year": 1975,
+    "genre": "Pop",
+    "entries": 532,
+    "chartPoints": 29231,
+    "uniqueArtists": 35,
+    "avgRank": 46.0545,
+    "pointShare": 13.34
+  },
+  {
+    "year": 1975,
+    "genre": "Reggae",
+    "entries": 4,
+    "chartPoints": 16,
+    "uniqueArtists": 1,
+    "avgRank": 97.0,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1975,
+    "genre": "RnB",
+    "entries": 1341,
+    "chartPoints": 64311,
+    "uniqueArtists": 94,
+    "avgRank": 53.0425,
+    "pointShare": 29.36
+  },
+  {
+    "year": 1975,
+    "genre": "Rock",
+    "entries": 1633,
+    "chartPoints": 88061,
+    "uniqueArtists": 110,
+    "avgRank": 47.0741,
+    "pointShare": 40.2
+  },
+  {
+    "year": 1976,
+    "genre": "Afrobeat",
+    "entries": 27,
+    "chartPoints": 948,
+    "uniqueArtists": 2,
+    "avgRank": 65.8889,
+    "pointShare": 0.45
+  },
+  {
+    "year": 1976,
+    "genre": "Blues",
+    "entries": 5,
+    "chartPoints": 129,
+    "uniqueArtists": 1,
+    "avgRank": 75.2,
+    "pointShare": 0.06
+  },
+  {
+    "year": 1976,
+    "genre": "Classical",
+    "entries": 3,
+    "chartPoints": 9,
+    "uniqueArtists": 1,
+    "avgRank": 98.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 1976,
+    "genre": "Country",
+    "entries": 164,
+    "chartPoints": 6616,
+    "uniqueArtists": 22,
+    "avgRank": 60.6585,
+    "pointShare": 3.13
+  },
+  {
+    "year": 1976,
+    "genre": "Electronic",
+    "entries": 45,
+    "chartPoints": 2371,
+    "uniqueArtists": 3,
+    "avgRank": 48.3111,
+    "pointShare": 1.12
+  },
+  {
+    "year": 1976,
+    "genre": "Folk",
+    "entries": 153,
+    "chartPoints": 8437,
+    "uniqueArtists": 13,
+    "avgRank": 45.8562,
+    "pointShare": 3.99
+  },
+  {
+    "year": 1976,
+    "genre": "Gospel",
+    "entries": 15,
+    "chartPoints": 191,
+    "uniqueArtists": 2,
+    "avgRank": 88.2667,
+    "pointShare": 0.09
+  },
+  {
+    "year": 1976,
+    "genre": "HipHop",
+    "entries": 2,
+    "chartPoints": 10,
+    "uniqueArtists": 1,
+    "avgRank": 96.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 1976,
+    "genre": "Jazz",
+    "entries": 56,
+    "chartPoints": 2262,
+    "uniqueArtists": 7,
+    "avgRank": 60.6071,
+    "pointShare": 1.07
+  },
+  {
+    "year": 1976,
+    "genre": "Pop",
+    "entries": 550,
+    "chartPoints": 27557,
+    "uniqueArtists": 41,
+    "avgRank": 50.8964,
+    "pointShare": 13.03
+  },
+  {
+    "year": 1976,
+    "genre": "Reggae",
+    "entries": 6,
+    "chartPoints": 224,
+    "uniqueArtists": 1,
+    "avgRank": 63.6667,
+    "pointShare": 0.11
+  },
+  {
+    "year": 1976,
+    "genre": "RnB",
+    "entries": 1114,
+    "chartPoints": 53166,
+    "uniqueArtists": 82,
+    "avgRank": 53.2747,
+    "pointShare": 25.13
+  },
+  {
+    "year": 1976,
+    "genre": "Rock",
+    "entries": 2026,
+    "chartPoints": 109605,
+    "uniqueArtists": 131,
+    "avgRank": 46.9008,
+    "pointShare": 51.82
+  },
+  {
+    "year": 1977,
+    "genre": "Blues",
+    "entries": 22,
+    "chartPoints": 832,
+    "uniqueArtists": 2,
+    "avgRank": 63.1818,
+    "pointShare": 0.37
+  },
+  {
+    "year": 1977,
+    "genre": "Classical",
+    "entries": 17,
+    "chartPoints": 968,
+    "uniqueArtists": 1,
+    "avgRank": 44.0588,
+    "pointShare": 0.43
+  },
+  {
+    "year": 1977,
+    "genre": "Country",
+    "entries": 193,
+    "chartPoints": 10035,
+    "uniqueArtists": 13,
+    "avgRank": 49.0052,
+    "pointShare": 4.51
+  },
+  {
+    "year": 1977,
+    "genre": "Electronic",
+    "entries": 88,
+    "chartPoints": 4626,
+    "uniqueArtists": 4,
+    "avgRank": 48.4318,
+    "pointShare": 2.08
+  },
+  {
+    "year": 1977,
+    "genre": "Folk",
+    "entries": 120,
+    "chartPoints": 6077,
+    "uniqueArtists": 8,
+    "avgRank": 50.3583,
+    "pointShare": 2.73
+  },
+  {
+    "year": 1977,
+    "genre": "Gospel",
+    "entries": 12,
+    "chartPoints": 432,
+    "uniqueArtists": 2,
+    "avgRank": 65.0,
+    "pointShare": 0.19
+  },
+  {
+    "year": 1977,
+    "genre": "HipHop",
+    "entries": 34,
+    "chartPoints": 1971,
+    "uniqueArtists": 2,
+    "avgRank": 43.0294,
+    "pointShare": 0.89
+  },
+  {
+    "year": 1977,
+    "genre": "Jazz",
+    "entries": 35,
+    "chartPoints": 1466,
+    "uniqueArtists": 5,
+    "avgRank": 59.1143,
+    "pointShare": 0.66
+  },
+  {
+    "year": 1977,
+    "genre": "Pop",
+    "entries": 620,
+    "chartPoints": 33675,
+    "uniqueArtists": 33,
+    "avgRank": 46.6855,
+    "pointShare": 15.12
+  },
+  {
+    "year": 1977,
+    "genre": "RnB",
+    "entries": 923,
+    "chartPoints": 43337,
+    "uniqueArtists": 69,
+    "avgRank": 54.0477,
+    "pointShare": 19.46
+  },
+  {
+    "year": 1977,
+    "genre": "Rock",
+    "entries": 2270,
+    "chartPoints": 119278,
+    "uniqueArtists": 133,
+    "avgRank": 48.4546,
+    "pointShare": 53.56
+  },
+  {
+    "year": 1978,
+    "genre": "Country",
+    "entries": 151,
+    "chartPoints": 6463,
+    "uniqueArtists": 11,
+    "avgRank": 58.1987,
+    "pointShare": 3.06
+  },
+  {
+    "year": 1978,
+    "genre": "Electronic",
+    "entries": 74,
+    "chartPoints": 2960,
+    "uniqueArtists": 5,
+    "avgRank": 61.0,
+    "pointShare": 1.4
+  },
+  {
+    "year": 1978,
+    "genre": "Folk",
+    "entries": 118,
+    "chartPoints": 5868,
+    "uniqueArtists": 10,
+    "avgRank": 51.2712,
+    "pointShare": 2.78
+  },
+  {
+    "year": 1978,
+    "genre": "Gospel",
+    "entries": 5,
+    "chartPoints": 27,
+    "uniqueArtists": 1,
+    "avgRank": 95.6,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1978,
+    "genre": "HipHop",
+    "entries": 5,
+    "chartPoints": 113,
+    "uniqueArtists": 1,
+    "avgRank": 78.4,
+    "pointShare": 0.05
+  },
+  {
+    "year": 1978,
+    "genre": "Jazz",
+    "entries": 60,
+    "chartPoints": 2537,
+    "uniqueArtists": 7,
+    "avgRank": 58.7167,
+    "pointShare": 1.2
+  },
+  {
+    "year": 1978,
+    "genre": "Pop",
+    "entries": 557,
+    "chartPoints": 28899,
+    "uniqueArtists": 34,
+    "avgRank": 49.1167,
+    "pointShare": 13.67
+  },
+  {
+    "year": 1978,
+    "genre": "Reggae",
+    "entries": 5,
+    "chartPoints": 76,
+    "uniqueArtists": 1,
+    "avgRank": 85.8,
+    "pointShare": 0.04
+  },
+  {
+    "year": 1978,
+    "genre": "RnB",
+    "entries": 624,
+    "chartPoints": 29597,
+    "uniqueArtists": 43,
+    "avgRank": 53.5689,
+    "pointShare": 14.0
+  },
+  {
+    "year": 1978,
+    "genre": "Rock",
+    "entries": 2528,
+    "chartPoints": 134911,
+    "uniqueArtists": 136,
+    "avgRank": 47.6333,
+    "pointShare": 63.8
+  },
+  {
+    "year": 1979,
+    "genre": "Afrobeat",
+    "entries": 13,
+    "chartPoints": 662,
+    "uniqueArtists": 1,
+    "avgRank": 50.0769,
+    "pointShare": 0.32
+  },
+  {
+    "year": 1979,
+    "genre": "Blues",
+    "entries": 4,
+    "chartPoints": 75,
+    "uniqueArtists": 1,
+    "avgRank": 82.25,
+    "pointShare": 0.04
+  },
+  {
+    "year": 1979,
+    "genre": "Country",
+    "entries": 153,
+    "chartPoints": 7932,
+    "uniqueArtists": 10,
+    "avgRank": 49.1569,
+    "pointShare": 3.83
+  },
+  {
+    "year": 1979,
+    "genre": "Electronic",
+    "entries": 41,
+    "chartPoints": 1968,
+    "uniqueArtists": 3,
+    "avgRank": 53.0,
+    "pointShare": 0.95
+  },
+  {
+    "year": 1979,
+    "genre": "Folk",
+    "entries": 109,
+    "chartPoints": 5772,
+    "uniqueArtists": 8,
+    "avgRank": 48.0459,
+    "pointShare": 2.79
+  },
+  {
+    "year": 1979,
+    "genre": "Gospel",
+    "entries": 21,
+    "chartPoints": 771,
+    "uniqueArtists": 1,
+    "avgRank": 64.2857,
+    "pointShare": 0.37
+  },
+  {
+    "year": 1979,
+    "genre": "HipHop",
+    "entries": 8,
+    "chartPoints": 344,
+    "uniqueArtists": 1,
+    "avgRank": 58.0,
+    "pointShare": 0.17
+  },
+  {
+    "year": 1979,
+    "genre": "Jazz",
+    "entries": 121,
+    "chartPoints": 5918,
+    "uniqueArtists": 8,
+    "avgRank": 52.0909,
+    "pointShare": 2.86
+  },
+  {
+    "year": 1979,
+    "genre": "Pop",
+    "entries": 692,
+    "chartPoints": 34247,
+    "uniqueArtists": 50,
+    "avgRank": 51.5101,
+    "pointShare": 16.54
+  },
+  {
+    "year": 1979,
+    "genre": "Reggae",
+    "entries": 8,
+    "chartPoints": 267,
+    "uniqueArtists": 1,
+    "avgRank": 67.625,
+    "pointShare": 0.13
+  },
+  {
+    "year": 1979,
+    "genre": "RnB",
+    "entries": 606,
+    "chartPoints": 30891,
+    "uniqueArtists": 45,
+    "avgRank": 50.0248,
+    "pointShare": 14.92
+  },
+  {
+    "year": 1979,
+    "genre": "Rock",
+    "entries": 2281,
+    "chartPoints": 118242,
+    "uniqueArtists": 150,
+    "avgRank": 49.1622,
+    "pointShare": 57.1
+  },
+  {
+    "year": 1980,
+    "genre": "Blues",
+    "entries": 2,
+    "chartPoints": 54,
+    "uniqueArtists": 1,
+    "avgRank": 74.0,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1980,
+    "genre": "Classical",
+    "entries": 8,
+    "chartPoints": 119,
+    "uniqueArtists": 1,
+    "avgRank": 86.125,
+    "pointShare": 0.05
+  },
+  {
+    "year": 1980,
+    "genre": "Country",
+    "entries": 270,
+    "chartPoints": 13851,
+    "uniqueArtists": 15,
+    "avgRank": 49.7,
+    "pointShare": 6.12
+  },
+  {
+    "year": 1980,
+    "genre": "Electronic",
+    "entries": 21,
+    "chartPoints": 622,
+    "uniqueArtists": 4,
+    "avgRank": 71.381,
+    "pointShare": 0.27
+  },
+  {
+    "year": 1980,
+    "genre": "Folk",
+    "entries": 154,
+    "chartPoints": 8231,
+    "uniqueArtists": 10,
+    "avgRank": 47.5519,
+    "pointShare": 3.64
+  },
+  {
+    "year": 1980,
+    "genre": "HipHop",
+    "entries": 17,
+    "chartPoints": 308,
+    "uniqueArtists": 4,
+    "avgRank": 82.8824,
+    "pointShare": 0.14
+  },
+  {
+    "year": 1980,
+    "genre": "Jazz",
+    "entries": 74,
+    "chartPoints": 3267,
+    "uniqueArtists": 7,
+    "avgRank": 56.8514,
+    "pointShare": 1.44
+  },
+  {
+    "year": 1980,
+    "genre": "Pop",
+    "entries": 506,
+    "chartPoints": 24465,
+    "uniqueArtists": 33,
+    "avgRank": 52.6502,
+    "pointShare": 10.8
+  },
+  {
+    "year": 1980,
+    "genre": "RnB",
+    "entries": 791,
+    "chartPoints": 40807,
+    "uniqueArtists": 49,
+    "avgRank": 49.4109,
+    "pointShare": 18.02
+  },
+  {
+    "year": 1980,
+    "genre": "Rock",
+    "entries": 2575,
+    "chartPoints": 134708,
+    "uniqueArtists": 162,
+    "avgRank": 48.6862,
+    "pointShare": 59.49
+  },
+  {
+    "year": 1981,
+    "genre": "Classical",
+    "entries": 9,
+    "chartPoints": 521,
+    "uniqueArtists": 1,
+    "avgRank": 43.1111,
+    "pointShare": 0.23
+  },
+  {
+    "year": 1981,
+    "genre": "Country",
+    "entries": 420,
+    "chartPoints": 23434,
+    "uniqueArtists": 19,
+    "avgRank": 45.2048,
+    "pointShare": 10.49
+  },
+  {
+    "year": 1981,
+    "genre": "Electronic",
+    "entries": 3,
+    "chartPoints": 34,
+    "uniqueArtists": 2,
+    "avgRank": 89.6667,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1981,
+    "genre": "Folk",
+    "entries": 106,
+    "chartPoints": 4929,
+    "uniqueArtists": 8,
+    "avgRank": 54.5,
+    "pointShare": 2.21
+  },
+  {
+    "year": 1981,
+    "genre": "Gospel",
+    "entries": 29,
+    "chartPoints": 1679,
+    "uniqueArtists": 2,
+    "avgRank": 43.1034,
+    "pointShare": 0.75
+  },
+  {
+    "year": 1981,
+    "genre": "HipHop",
+    "entries": 32,
+    "chartPoints": 827,
+    "uniqueArtists": 4,
+    "avgRank": 75.1562,
+    "pointShare": 0.37
+  },
+  {
+    "year": 1981,
+    "genre": "Jazz",
+    "entries": 108,
+    "chartPoints": 5104,
+    "uniqueArtists": 8,
+    "avgRank": 53.7407,
+    "pointShare": 2.29
+  },
+  {
+    "year": 1981,
+    "genre": "Latin",
+    "entries": 4,
+    "chartPoints": 66,
+    "uniqueArtists": 1,
+    "avgRank": 84.5,
+    "pointShare": 0.03
+  },
+  {
+    "year": 1981,
+    "genre": "Pop",
+    "entries": 518,
+    "chartPoints": 25102,
+    "uniqueArtists": 35,
+    "avgRank": 52.5405,
+    "pointShare": 11.24
+  },
+  {
+    "year": 1981,
+    "genre": "RnB",
+    "entries": 665,
+    "chartPoints": 30639,
+    "uniqueArtists": 44,
+    "avgRank": 54.9263,
+    "pointShare": 13.72
+  },
+  {
+    "year": 1981,
+    "genre": "Rock",
+    "entries": 2463,
+    "chartPoints": 130982,
+    "uniqueArtists": 136,
+    "avgRank": 47.8201,
+    "pointShare": 58.65
+  },
+  {
+    "year": 1982,
+    "genre": "Blues",
+    "entries": 13,
+    "chartPoints": 541,
+    "uniqueArtists": 1,
+    "avgRank": 59.3846,
+    "pointShare": 0.23
+  },
+  {
+    "year": 1982,
+    "genre": "Classical",
+    "entries": 11,
+    "chartPoints": 697,
+    "uniqueArtists": 1,
+    "avgRank": 37.6364,
+    "pointShare": 0.3
+  },
+  {
+    "year": 1982,
+    "genre": "Country",
+    "entries": 267,
+    "chartPoints": 13532,
+    "uniqueArtists": 12,
+    "avgRank": 50.3184,
+    "pointShare": 5.88
+  },
+  {
+    "year": 1982,
+    "genre": "Electronic",
+    "entries": 4,
+    "chartPoints": 35,
+    "uniqueArtists": 1,
+    "avgRank": 92.25,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1982,
+    "genre": "Folk",
+    "entries": 67,
+    "chartPoints": 3143,
+    "uniqueArtists": 6,
+    "avgRank": 54.0896,
+    "pointShare": 1.36
+  },
+  {
+    "year": 1982,
+    "genre": "Gospel",
+    "entries": 18,
+    "chartPoints": 935,
+    "uniqueArtists": 1,
+    "avgRank": 49.0556,
+    "pointShare": 0.41
+  },
+  {
+    "year": 1982,
+    "genre": "HipHop",
+    "entries": 44,
+    "chartPoints": 1322,
+    "uniqueArtists": 4,
+    "avgRank": 70.9545,
+    "pointShare": 0.57
+  },
+  {
+    "year": 1982,
+    "genre": "Jazz",
+    "entries": 84,
+    "chartPoints": 3428,
+    "uniqueArtists": 9,
+    "avgRank": 60.1905,
+    "pointShare": 1.49
+  },
+  {
+    "year": 1982,
+    "genre": "Pop",
+    "entries": 727,
+    "chartPoints": 35634,
+    "uniqueArtists": 42,
+    "avgRank": 51.9849,
+    "pointShare": 15.48
+  },
+  {
+    "year": 1982,
+    "genre": "Reggae",
+    "entries": 3,
+    "chartPoints": 96,
+    "uniqueArtists": 1,
+    "avgRank": 69.0,
+    "pointShare": 0.04
+  },
+  {
+    "year": 1982,
+    "genre": "RnB",
+    "entries": 568,
+    "chartPoints": 26521,
+    "uniqueArtists": 43,
+    "avgRank": 54.3081,
+    "pointShare": 11.52
+  },
+  {
+    "year": 1982,
+    "genre": "Rock",
+    "entries": 2736,
+    "chartPoints": 144384,
+    "uniqueArtists": 148,
+    "avgRank": 48.2281,
+    "pointShare": 62.7
+  },
+  {
+    "year": 1983,
+    "genre": "Blues",
+    "entries": 18,
+    "chartPoints": 715,
+    "uniqueArtists": 1,
+    "avgRank": 61.2778,
+    "pointShare": 0.3
+  },
+  {
+    "year": 1983,
+    "genre": "Country",
+    "entries": 156,
+    "chartPoints": 8149,
+    "uniqueArtists": 11,
+    "avgRank": 48.7628,
+    "pointShare": 3.42
+  },
+  {
+    "year": 1983,
+    "genre": "Electronic",
+    "entries": 28,
+    "chartPoints": 1598,
+    "uniqueArtists": 3,
+    "avgRank": 43.9286,
+    "pointShare": 0.67
+  },
+  {
+    "year": 1983,
+    "genre": "Folk",
+    "entries": 51,
+    "chartPoints": 2334,
+    "uniqueArtists": 5,
+    "avgRank": 55.2353,
+    "pointShare": 0.98
+  },
+  {
+    "year": 1983,
+    "genre": "Gospel",
+    "entries": 5,
+    "chartPoints": 107,
+    "uniqueArtists": 1,
+    "avgRank": 79.6,
+    "pointShare": 0.04
+  },
+  {
+    "year": 1983,
+    "genre": "HipHop",
+    "entries": 3,
+    "chartPoints": 28,
+    "uniqueArtists": 1,
+    "avgRank": 91.6667,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1983,
+    "genre": "Jazz",
+    "entries": 78,
+    "chartPoints": 3295,
+    "uniqueArtists": 7,
+    "avgRank": 58.7564,
+    "pointShare": 1.38
+  },
+  {
+    "year": 1983,
+    "genre": "Pop",
+    "entries": 1177,
+    "chartPoints": 60970,
+    "uniqueArtists": 65,
+    "avgRank": 49.1988,
+    "pointShare": 25.61
+  },
+  {
+    "year": 1983,
+    "genre": "Reggae",
+    "entries": 50,
+    "chartPoints": 2862,
+    "uniqueArtists": 3,
+    "avgRank": 43.76,
+    "pointShare": 1.2
+  },
+  {
+    "year": 1983,
+    "genre": "RnB",
+    "entries": 616,
+    "chartPoints": 28008,
+    "uniqueArtists": 44,
+    "avgRank": 55.5325,
+    "pointShare": 11.76
+  },
+  {
+    "year": 1983,
+    "genre": "Rock",
+    "entries": 2482,
+    "chartPoints": 130034,
+    "uniqueArtists": 141,
+    "avgRank": 48.6092,
+    "pointShare": 54.61
+  },
+  {
+    "year": 1984,
+    "genre": "Blues",
+    "entries": 4,
+    "chartPoints": 90,
+    "uniqueArtists": 1,
+    "avgRank": 78.5,
+    "pointShare": 0.04
+  },
+  {
+    "year": 1984,
+    "genre": "Country",
+    "entries": 81,
+    "chartPoints": 3154,
+    "uniqueArtists": 9,
+    "avgRank": 62.0617,
+    "pointShare": 1.46
+  },
+  {
+    "year": 1984,
+    "genre": "Electronic",
+    "entries": 41,
+    "chartPoints": 1556,
+    "uniqueArtists": 4,
+    "avgRank": 63.0488,
+    "pointShare": 0.72
+  },
+  {
+    "year": 1984,
+    "genre": "Folk",
+    "entries": 40,
+    "chartPoints": 982,
+    "uniqueArtists": 6,
+    "avgRank": 76.45,
+    "pointShare": 0.45
+  },
+  {
+    "year": 1984,
+    "genre": "HipHop",
+    "entries": 20,
+    "chartPoints": 469,
+    "uniqueArtists": 2,
+    "avgRank": 77.55,
+    "pointShare": 0.22
+  },
+  {
+    "year": 1984,
+    "genre": "Jazz",
+    "entries": 27,
+    "chartPoints": 1144,
+    "uniqueArtists": 2,
+    "avgRank": 58.6296,
+    "pointShare": 0.53
+  },
+  {
+    "year": 1984,
+    "genre": "Pop",
+    "entries": 1108,
+    "chartPoints": 57654,
+    "uniqueArtists": 49,
+    "avgRank": 48.9657,
+    "pointShare": 26.65
+  },
+  {
+    "year": 1984,
+    "genre": "Reggae",
+    "entries": 27,
+    "chartPoints": 933,
+    "uniqueArtists": 3,
+    "avgRank": 66.4444,
+    "pointShare": 0.43
+  },
+  {
+    "year": 1984,
+    "genre": "RnB",
+    "entries": 581,
+    "chartPoints": 25966,
+    "uniqueArtists": 44,
+    "avgRank": 56.3081,
+    "pointShare": 12.0
+  },
+  {
+    "year": 1984,
+    "genre": "Rock",
+    "entries": 2356,
+    "chartPoints": 124416,
+    "uniqueArtists": 130,
+    "avgRank": 48.1919,
+    "pointShare": 57.5
+  },
+  {
+    "year": 1985,
+    "genre": "Blues",
+    "entries": 12,
+    "chartPoints": 531,
+    "uniqueArtists": 1,
+    "avgRank": 56.75,
+    "pointShare": 0.23
+  },
+  {
+    "year": 1985,
+    "genre": "Country",
+    "entries": 22,
+    "chartPoints": 316,
+    "uniqueArtists": 4,
+    "avgRank": 86.6364,
+    "pointShare": 0.14
+  },
+  {
+    "year": 1985,
+    "genre": "Electronic",
+    "entries": 8,
+    "chartPoints": 576,
+    "uniqueArtists": 1,
+    "avgRank": 29.0,
+    "pointShare": 0.25
+  },
+  {
+    "year": 1985,
+    "genre": "Folk",
+    "entries": 19,
+    "chartPoints": 512,
+    "uniqueArtists": 4,
+    "avgRank": 74.0526,
+    "pointShare": 0.22
+  },
+  {
+    "year": 1985,
+    "genre": "Gospel",
+    "entries": 43,
+    "chartPoints": 2184,
+    "uniqueArtists": 2,
+    "avgRank": 50.2093,
+    "pointShare": 0.96
+  },
+  {
+    "year": 1985,
+    "genre": "HipHop",
+    "entries": 14,
+    "chartPoints": 223,
+    "uniqueArtists": 3,
+    "avgRank": 85.0714,
+    "pointShare": 0.1
+  },
+  {
+    "year": 1985,
+    "genre": "Jazz",
+    "entries": 63,
+    "chartPoints": 3119,
+    "uniqueArtists": 4,
+    "avgRank": 51.4921,
+    "pointShare": 1.37
+  },
+  {
+    "year": 1985,
+    "genre": "Pop",
+    "entries": 1114,
+    "chartPoints": 59465,
+    "uniqueArtists": 54,
+    "avgRank": 47.6203,
+    "pointShare": 26.13
+  },
+  {
+    "year": 1985,
+    "genre": "Reggae",
+    "entries": 14,
+    "chartPoints": 635,
+    "uniqueArtists": 1,
+    "avgRank": 55.6429,
+    "pointShare": 0.28
+  },
+  {
+    "year": 1985,
+    "genre": "RnB",
+    "entries": 868,
+    "chartPoints": 41157,
+    "uniqueArtists": 43,
+    "avgRank": 53.5841,
+    "pointShare": 18.08
+  },
+  {
+    "year": 1985,
+    "genre": "Rock",
+    "entries": 2284,
+    "chartPoints": 118891,
+    "uniqueArtists": 121,
+    "avgRank": 48.9461,
+    "pointShare": 52.23
+  },
+  {
+    "year": 1986,
+    "genre": "Country",
+    "entries": 42,
+    "chartPoints": 1952,
+    "uniqueArtists": 3,
+    "avgRank": 54.5238,
+    "pointShare": 0.87
+  },
+  {
+    "year": 1986,
+    "genre": "Electronic",
+    "entries": 40,
+    "chartPoints": 2188,
+    "uniqueArtists": 3,
+    "avgRank": 46.3,
+    "pointShare": 0.98
+  },
+  {
+    "year": 1986,
+    "genre": "Folk",
+    "entries": 49,
+    "chartPoints": 1495,
+    "uniqueArtists": 5,
+    "avgRank": 70.4898,
+    "pointShare": 0.67
+  },
+  {
+    "year": 1986,
+    "genre": "Gospel",
+    "entries": 20,
+    "chartPoints": 1243,
+    "uniqueArtists": 1,
+    "avgRank": 38.85,
+    "pointShare": 0.56
+  },
+  {
+    "year": 1986,
+    "genre": "HipHop",
+    "entries": 56,
+    "chartPoints": 2857,
+    "uniqueArtists": 5,
+    "avgRank": 49.9821,
+    "pointShare": 1.28
+  },
+  {
+    "year": 1986,
+    "genre": "Jazz",
+    "entries": 21,
+    "chartPoints": 847,
+    "uniqueArtists": 3,
+    "avgRank": 60.6667,
+    "pointShare": 0.38
+  },
+  {
+    "year": 1986,
+    "genre": "Pop",
+    "entries": 1063,
+    "chartPoints": 52576,
+    "uniqueArtists": 61,
+    "avgRank": 51.54,
+    "pointShare": 23.52
+  },
+  {
+    "year": 1986,
+    "genre": "RnB",
+    "entries": 828,
+    "chartPoints": 41873,
+    "uniqueArtists": 46,
+    "avgRank": 50.4287,
+    "pointShare": 18.73
+  },
+  {
+    "year": 1986,
+    "genre": "Rock",
+    "entries": 2243,
+    "chartPoints": 118551,
+    "uniqueArtists": 122,
+    "avgRank": 48.1462,
+    "pointShare": 53.02
+  },
+  {
+    "year": 1987,
+    "genre": "Country",
+    "entries": 58,
+    "chartPoints": 3311,
+    "uniqueArtists": 2,
+    "avgRank": 43.9138,
+    "pointShare": 1.36
+  },
+  {
+    "year": 1987,
+    "genre": "Electronic",
+    "entries": 47,
+    "chartPoints": 1746,
+    "uniqueArtists": 6,
+    "avgRank": 63.8511,
+    "pointShare": 0.72
+  },
+  {
+    "year": 1987,
+    "genre": "Folk",
+    "entries": 44,
+    "chartPoints": 2051,
+    "uniqueArtists": 2,
+    "avgRank": 54.3864,
+    "pointShare": 0.84
+  },
+  {
+    "year": 1987,
+    "genre": "HipHop",
+    "entries": 116,
+    "chartPoints": 4890,
+    "uniqueArtists": 8,
+    "avgRank": 58.8448,
+    "pointShare": 2.01
+  },
+  {
+    "year": 1987,
+    "genre": "Jazz",
+    "entries": 109,
+    "chartPoints": 5756,
+    "uniqueArtists": 5,
+    "avgRank": 48.1927,
+    "pointShare": 2.37
+  },
+  {
+    "year": 1987,
+    "genre": "Latin",
+    "entries": 3,
+    "chartPoints": 16,
+    "uniqueArtists": 1,
+    "avgRank": 95.6667,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1987,
+    "genre": "Pop",
+    "entries": 862,
+    "chartPoints": 46045,
+    "uniqueArtists": 53,
+    "avgRank": 47.5835,
+    "pointShare": 18.95
+  },
+  {
+    "year": 1987,
+    "genre": "RnB",
+    "entries": 928,
+    "chartPoints": 46046,
+    "uniqueArtists": 53,
+    "avgRank": 51.3815,
+    "pointShare": 18.95
+  },
+  {
+    "year": 1987,
+    "genre": "Rock",
+    "entries": 2499,
+    "chartPoints": 133175,
+    "uniqueArtists": 121,
+    "avgRank": 47.7087,
+    "pointShare": 54.8
+  },
+  {
+    "year": 1988,
+    "genre": "Country",
+    "entries": 28,
+    "chartPoints": 1628,
+    "uniqueArtists": 1,
+    "avgRank": 42.8571,
+    "pointShare": 0.65
+  },
+  {
+    "year": 1988,
+    "genre": "Electronic",
+    "entries": 114,
+    "chartPoints": 6157,
+    "uniqueArtists": 5,
+    "avgRank": 46.9912,
+    "pointShare": 2.44
+  },
+  {
+    "year": 1988,
+    "genre": "Folk",
+    "entries": 9,
+    "chartPoints": 155,
+    "uniqueArtists": 2,
+    "avgRank": 83.7778,
+    "pointShare": 0.06
+  },
+  {
+    "year": 1988,
+    "genre": "Gospel",
+    "entries": 2,
+    "chartPoints": 7,
+    "uniqueArtists": 1,
+    "avgRank": 97.5,
+    "pointShare": 0.0
+  },
+  {
+    "year": 1988,
+    "genre": "HipHop",
+    "entries": 225,
+    "chartPoints": 9273,
+    "uniqueArtists": 13,
+    "avgRank": 59.7867,
+    "pointShare": 3.68
+  },
+  {
+    "year": 1988,
+    "genre": "Jazz",
+    "entries": 75,
+    "chartPoints": 3815,
+    "uniqueArtists": 6,
+    "avgRank": 50.1333,
+    "pointShare": 1.51
+  },
+  {
+    "year": 1988,
+    "genre": "Latin",
+    "entries": 39,
+    "chartPoints": 2207,
+    "uniqueArtists": 1,
+    "avgRank": 44.4103,
+    "pointShare": 0.88
+  },
+  {
+    "year": 1988,
+    "genre": "Pop",
+    "entries": 920,
+    "chartPoints": 47834,
+    "uniqueArtists": 51,
+    "avgRank": 49.0065,
+    "pointShare": 18.97
+  },
+  {
+    "year": 1988,
+    "genre": "Reggae",
+    "entries": 34,
+    "chartPoints": 1871,
+    "uniqueArtists": 2,
+    "avgRank": 45.9706,
+    "pointShare": 0.74
+  },
+  {
+    "year": 1988,
+    "genre": "RnB",
+    "entries": 1000,
+    "chartPoints": 48913,
+    "uniqueArtists": 56,
+    "avgRank": 52.087,
+    "pointShare": 19.4
+  },
+  {
+    "year": 1988,
+    "genre": "Rock",
+    "entries": 2434,
+    "chartPoints": 130299,
+    "uniqueArtists": 114,
+    "avgRank": 47.4671,
+    "pointShare": 51.67
+  },
+  {
+    "year": 1989,
+    "genre": "Electronic",
+    "entries": 98,
+    "chartPoints": 4671,
+    "uniqueArtists": 6,
+    "avgRank": 53.3367,
+    "pointShare": 1.92
+  },
+  {
+    "year": 1989,
+    "genre": "Folk",
+    "entries": 38,
+    "chartPoints": 1540,
+    "uniqueArtists": 3,
+    "avgRank": 60.4737,
+    "pointShare": 0.63
+  },
+  {
+    "year": 1989,
+    "genre": "HipHop",
+    "entries": 214,
+    "chartPoints": 8891,
+    "uniqueArtists": 13,
+    "avgRank": 59.4533,
+    "pointShare": 3.65
+  },
+  {
+    "year": 1989,
+    "genre": "Jazz",
+    "entries": 49,
+    "chartPoints": 2338,
+    "uniqueArtists": 4,
+    "avgRank": 53.2857,
+    "pointShare": 0.96
+  },
+  {
+    "year": 1989,
+    "genre": "Pop",
+    "entries": 1220,
+    "chartPoints": 66364,
+    "uniqueArtists": 62,
+    "avgRank": 46.6033,
+    "pointShare": 27.23
+  },
+  {
+    "year": 1989,
+    "genre": "Reggae",
+    "entries": 8,
+    "chartPoints": 197,
+    "uniqueArtists": 2,
+    "avgRank": 76.375,
+    "pointShare": 0.08
+  },
+  {
+    "year": 1989,
+    "genre": "RnB",
+    "entries": 739,
+    "chartPoints": 37494,
+    "uniqueArtists": 43,
+    "avgRank": 50.2639,
+    "pointShare": 15.39
+  },
+  {
+    "year": 1989,
+    "genre": "Rock",
+    "entries": 2376,
+    "chartPoints": 122207,
+    "uniqueArtists": 128,
+    "avgRank": 49.5661,
+    "pointShare": 50.15
+  },
+  {
+    "year": 1990,
+    "genre": "Blues",
+    "entries": 12,
+    "chartPoints": 299,
+    "uniqueArtists": 1,
+    "avgRank": 76.0833,
+    "pointShare": 0.12
+  },
+  {
+    "year": 1990,
+    "genre": "Country",
+    "entries": 19,
+    "chartPoints": 871,
+    "uniqueArtists": 2,
+    "avgRank": 55.1579,
+    "pointShare": 0.36
+  },
+  {
+    "year": 1990,
+    "genre": "Electronic",
+    "entries": 192,
+    "chartPoints": 9665,
+    "uniqueArtists": 11,
+    "avgRank": 50.6615,
+    "pointShare": 3.95
+  },
+  {
+    "year": 1990,
+    "genre": "Folk",
+    "entries": 4,
+    "chartPoints": 27,
+    "uniqueArtists": 2,
+    "avgRank": 94.25,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1990,
+    "genre": "Gospel",
+    "entries": 13,
+    "chartPoints": 598,
+    "uniqueArtists": 1,
+    "avgRank": 55.0,
+    "pointShare": 0.24
+  },
+  {
+    "year": 1990,
+    "genre": "HipHop",
+    "entries": 410,
+    "chartPoints": 19587,
+    "uniqueArtists": 25,
+    "avgRank": 53.2268,
+    "pointShare": 8.01
+  },
+  {
+    "year": 1990,
+    "genre": "Jazz",
+    "entries": 19,
+    "chartPoints": 830,
+    "uniqueArtists": 2,
+    "avgRank": 57.3158,
+    "pointShare": 0.34
+  },
+  {
+    "year": 1990,
+    "genre": "Latin",
+    "entries": 19,
+    "chartPoints": 540,
+    "uniqueArtists": 2,
+    "avgRank": 72.5789,
+    "pointShare": 0.22
+  },
+  {
+    "year": 1990,
+    "genre": "Pop",
+    "entries": 687,
+    "chartPoints": 33707,
+    "uniqueArtists": 43,
+    "avgRank": 51.936,
+    "pointShare": 13.79
+  },
+  {
+    "year": 1990,
+    "genre": "Reggae",
+    "entries": 23,
+    "chartPoints": 1308,
+    "uniqueArtists": 2,
+    "avgRank": 44.1304,
+    "pointShare": 0.54
+  },
+  {
+    "year": 1990,
+    "genre": "RnB",
+    "entries": 1170,
+    "chartPoints": 61494,
+    "uniqueArtists": 56,
+    "avgRank": 48.441,
+    "pointShare": 25.16
+  },
+  {
+    "year": 1990,
+    "genre": "Rock",
+    "entries": 2243,
+    "chartPoints": 115503,
+    "uniqueArtists": 120,
+    "avgRank": 49.5051,
+    "pointShare": 47.25
+  },
+  {
+    "year": 1991,
+    "genre": "Blues",
+    "entries": 26,
+    "chartPoints": 1597,
+    "uniqueArtists": 1,
+    "avgRank": 39.5769,
+    "pointShare": 0.69
+  },
+  {
+    "year": 1991,
+    "genre": "Electronic",
+    "entries": 141,
+    "chartPoints": 6117,
+    "uniqueArtists": 13,
+    "avgRank": 57.617,
+    "pointShare": 2.64
+  },
+  {
+    "year": 1991,
+    "genre": "Folk",
+    "entries": 6,
+    "chartPoints": 48,
+    "uniqueArtists": 2,
+    "avgRank": 93.0,
+    "pointShare": 0.02
+  },
+  {
+    "year": 1991,
+    "genre": "Gospel",
+    "entries": 86,
+    "chartPoints": 5629,
+    "uniqueArtists": 2,
+    "avgRank": 35.5465,
+    "pointShare": 2.43
+  },
+  {
+    "year": 1991,
+    "genre": "HipHop",
+    "entries": 549,
+    "chartPoints": 25218,
+    "uniqueArtists": 35,
+    "avgRank": 55.0656,
+    "pointShare": 10.87
+  },
+  {
+    "year": 1991,
+    "genre": "Jazz",
+    "entries": 61,
+    "chartPoints": 3331,
+    "uniqueArtists": 3,
+    "avgRank": 46.3934,
+    "pointShare": 1.44
+  },
+  {
+    "year": 1991,
+    "genre": "Pop",
+    "entries": 716,
+    "chartPoints": 36603,
+    "uniqueArtists": 45,
+    "avgRank": 49.8785,
+    "pointShare": 15.78
+  },
+  {
+    "year": 1991,
+    "genre": "Reggae",
+    "entries": 73,
+    "chartPoints": 3729,
+    "uniqueArtists": 4,
+    "avgRank": 49.9178,
+    "pointShare": 1.61
+  },
+  {
+    "year": 1991,
+    "genre": "RnB",
+    "entries": 1127,
+    "chartPoints": 59540,
+    "uniqueArtists": 55,
+    "avgRank": 48.1695,
+    "pointShare": 25.67
+  },
+  {
+    "year": 1991,
+    "genre": "Rock",
+    "entries": 1772,
+    "chartPoints": 90031,
+    "uniqueArtists": 104,
+    "avgRank": 50.1924,
+    "pointShare": 38.81
+  },
+  {
+    "year": 1991,
+    "genre": "World",
+    "entries": 4,
+    "chartPoints": 130,
+    "uniqueArtists": 1,
+    "avgRank": 68.5,
+    "pointShare": 0.06
+  },
+  {
+    "year": 1992,
+    "genre": "Blues",
+    "entries": 31,
+    "chartPoints": 1580,
+    "uniqueArtists": 1,
+    "avgRank": 50.0323,
+    "pointShare": 0.65
+  },
+  {
+    "year": 1992,
+    "genre": "Country",
+    "entries": 41,
+    "chartPoints": 1616,
+    "uniqueArtists": 3,
+    "avgRank": 61.5854,
+    "pointShare": 0.66
+  },
+  {
+    "year": 1992,
+    "genre": "Electronic",
+    "entries": 262,
+    "chartPoints": 9519,
+    "uniqueArtists": 18,
+    "avgRank": 64.6679,
+    "pointShare": 3.89
+  },
+  {
+    "year": 1992,
+    "genre": "Folk",
+    "entries": 8,
+    "chartPoints": 153,
+    "uniqueArtists": 1,
+    "avgRank": 81.875,
+    "pointShare": 0.06
+  },
+  {
+    "year": 1992,
+    "genre": "Gospel",
+    "entries": 99,
+    "chartPoints": 5881,
+    "uniqueArtists": 4,
+    "avgRank": 41.596,
+    "pointShare": 2.4
+  },
+  {
+    "year": 1992,
+    "genre": "HipHop",
+    "entries": 692,
+    "chartPoints": 29319,
+    "uniqueArtists": 41,
+    "avgRank": 58.6315,
+    "pointShare": 11.97
+  },
+  {
+    "year": 1992,
+    "genre": "Jazz",
+    "entries": 27,
+    "chartPoints": 675,
+    "uniqueArtists": 4,
+    "avgRank": 76.0,
+    "pointShare": 0.28
+  },
+  {
+    "year": 1992,
+    "genre": "Pop",
+    "entries": 647,
+    "chartPoints": 35330,
+    "uniqueArtists": 35,
+    "avgRank": 46.3941,
+    "pointShare": 14.43
+  },
+  {
+    "year": 1992,
+    "genre": "Reggae",
+    "entries": 34,
+    "chartPoints": 1416,
+    "uniqueArtists": 3,
+    "avgRank": 59.3529,
+    "pointShare": 0.58
+  },
+  {
+    "year": 1992,
+    "genre": "RnB",
+    "entries": 1463,
+    "chartPoints": 78777,
+    "uniqueArtists": 59,
+    "avgRank": 47.1538,
+    "pointShare": 32.16
+  },
+  {
+    "year": 1992,
+    "genre": "Rock",
+    "entries": 1502,
+    "chartPoints": 80652,
+    "uniqueArtists": 72,
+    "avgRank": 47.3036,
+    "pointShare": 32.93
+  },
+  {
+    "year": 1993,
+    "genre": "Country",
+    "entries": 194,
+    "chartPoints": 7082,
+    "uniqueArtists": 17,
+    "avgRank": 64.4948,
+    "pointShare": 2.94
+  },
+  {
+    "year": 1993,
+    "genre": "Electronic",
+    "entries": 138,
+    "chartPoints": 5722,
+    "uniqueArtists": 11,
+    "avgRank": 59.5362,
+    "pointShare": 2.38
+  },
+  {
+    "year": 1993,
+    "genre": "Folk",
+    "entries": 32,
+    "chartPoints": 1019,
+    "uniqueArtists": 2,
+    "avgRank": 69.1562,
+    "pointShare": 0.42
+  },
+  {
+    "year": 1993,
+    "genre": "Gospel",
+    "entries": 52,
+    "chartPoints": 1629,
+    "uniqueArtists": 2,
+    "avgRank": 69.6731,
+    "pointShare": 0.68
+  },
+  {
+    "year": 1993,
+    "genre": "HipHop",
+    "entries": 805,
+    "chartPoints": 36742,
+    "uniqueArtists": 56,
+    "avgRank": 55.3578,
+    "pointShare": 15.26
+  },
+  {
+    "year": 1993,
+    "genre": "Jazz",
+    "entries": 92,
+    "chartPoints": 4256,
+    "uniqueArtists": 4,
+    "avgRank": 54.7391,
+    "pointShare": 1.77
+  },
+  {
+    "year": 1993,
+    "genre": "Pop",
+    "entries": 527,
+    "chartPoints": 25899,
+    "uniqueArtists": 29,
+    "avgRank": 51.8558,
+    "pointShare": 10.76
+  },
+  {
+    "year": 1993,
+    "genre": "Reggae",
+    "entries": 155,
+    "chartPoints": 7750,
+    "uniqueArtists": 7,
+    "avgRank": 51.0,
+    "pointShare": 3.22
+  },
+  {
+    "year": 1993,
+    "genre": "RnB",
+    "entries": 1542,
+    "chartPoints": 84544,
+    "uniqueArtists": 63,
+    "avgRank": 46.1725,
+    "pointShare": 35.12
+  },
+  {
+    "year": 1993,
+    "genre": "Rock",
+    "entries": 1256,
+    "chartPoints": 66105,
+    "uniqueArtists": 71,
+    "avgRank": 48.3686,
+    "pointShare": 27.46
+  },
+  {
+    "year": 1994,
+    "genre": "Blues",
+    "entries": 27,
+    "chartPoints": 1223,
+    "uniqueArtists": 1,
+    "avgRank": 55.7037,
+    "pointShare": 0.47
+  },
+  {
+    "year": 1994,
+    "genre": "Country",
+    "entries": 196,
+    "chartPoints": 5045,
+    "uniqueArtists": 16,
+    "avgRank": 75.2602,
+    "pointShare": 1.94
+  },
+  {
+    "year": 1994,
+    "genre": "Electronic",
+    "entries": 159,
+    "chartPoints": 5956,
+    "uniqueArtists": 10,
+    "avgRank": 63.5409,
+    "pointShare": 2.29
+  },
+  {
+    "year": 1994,
+    "genre": "Folk",
+    "entries": 54,
+    "chartPoints": 4108,
+    "uniqueArtists": 2,
+    "avgRank": 24.9259,
+    "pointShare": 1.58
+  },
+  {
+    "year": 1994,
+    "genre": "Gospel",
+    "entries": 32,
+    "chartPoints": 1384,
+    "uniqueArtists": 3,
+    "avgRank": 57.75,
+    "pointShare": 0.53
+  },
+  {
+    "year": 1994,
+    "genre": "HipHop",
+    "entries": 908,
+    "chartPoints": 39558,
+    "uniqueArtists": 63,
+    "avgRank": 57.4339,
+    "pointShare": 15.19
+  },
+  {
+    "year": 1994,
+    "genre": "Jazz",
+    "entries": 66,
+    "chartPoints": 2994,
+    "uniqueArtists": 4,
+    "avgRank": 55.6364,
+    "pointShare": 1.15
+  },
+  {
+    "year": 1994,
+    "genre": "Pop",
+    "entries": 708,
+    "chartPoints": 45760,
+    "uniqueArtists": 25,
+    "avgRank": 36.3672,
+    "pointShare": 17.57
+  },
+  {
+    "year": 1994,
+    "genre": "Reggae",
+    "entries": 158,
+    "chartPoints": 7575,
+    "uniqueArtists": 12,
+    "avgRank": 53.057,
+    "pointShare": 2.91
+  },
+  {
+    "year": 1994,
+    "genre": "RnB",
+    "entries": 1302,
+    "chartPoints": 75701,
+    "uniqueArtists": 56,
+    "avgRank": 42.8579,
+    "pointShare": 29.06
+  },
+  {
+    "year": 1994,
+    "genre": "Rock",
+    "entries": 1403,
+    "chartPoints": 71175,
+    "uniqueArtists": 74,
+    "avgRank": 50.2694,
+    "pointShare": 27.32
+  },
+  {
+    "year": 1995,
+    "genre": "Blues",
+    "entries": 21,
+    "chartPoints": 829,
+    "uniqueArtists": 2,
+    "avgRank": 61.5238,
+    "pointShare": 0.35
+  },
+  {
+    "year": 1995,
+    "genre": "Country",
+    "entries": 97,
+    "chartPoints": 2713,
+    "uniqueArtists": 10,
+    "avgRank": 73.0309,
+    "pointShare": 1.16
+  },
+  {
+    "year": 1995,
+    "genre": "Electronic",
+    "entries": 148,
+    "chartPoints": 5426,
+    "uniqueArtists": 10,
+    "avgRank": 64.3378,
+    "pointShare": 2.31
+  },
+  {
+    "year": 1995,
+    "genre": "Folk",
+    "entries": 41,
+    "chartPoints": 2962,
+    "uniqueArtists": 2,
+    "avgRank": 28.7561,
+    "pointShare": 1.26
+  },
+  {
+    "year": 1995,
+    "genre": "Gospel",
+    "entries": 48,
+    "chartPoints": 1676,
+    "uniqueArtists": 3,
+    "avgRank": 66.0833,
+    "pointShare": 0.71
+  },
+  {
+    "year": 1995,
+    "genre": "HipHop",
+    "entries": 908,
+    "chartPoints": 38246,
+    "uniqueArtists": 66,
+    "avgRank": 58.8789,
+    "pointShare": 16.29
+  },
+  {
+    "year": 1995,
+    "genre": "Jazz",
+    "entries": 9,
+    "chartPoints": 193,
+    "uniqueArtists": 1,
+    "avgRank": 79.5556,
+    "pointShare": 0.08
+  },
+  {
+    "year": 1995,
+    "genre": "Pop",
+    "entries": 619,
+    "chartPoints": 35621,
+    "uniqueArtists": 28,
+    "avgRank": 43.454,
+    "pointShare": 15.17
+  },
+  {
+    "year": 1995,
+    "genre": "Reggae",
+    "entries": 114,
+    "chartPoints": 4963,
+    "uniqueArtists": 10,
+    "avgRank": 57.4649,
+    "pointShare": 2.11
+  },
+  {
+    "year": 1995,
+    "genre": "RnB",
+    "entries": 1534,
+    "chartPoints": 89097,
+    "uniqueArtists": 69,
+    "avgRank": 42.9185,
+    "pointShare": 37.95
+  },
+  {
+    "year": 1995,
+    "genre": "Rock",
+    "entries": 1022,
+    "chartPoints": 53046,
+    "uniqueArtists": 72,
+    "avgRank": 49.0959,
+    "pointShare": 22.59
+  },
+  {
+    "year": 1996,
+    "genre": "Country",
+    "entries": 65,
+    "chartPoints": 1012,
+    "uniqueArtists": 8,
+    "avgRank": 85.4308,
+    "pointShare": 0.41
+  },
+  {
+    "year": 1996,
+    "genre": "Electronic",
+    "entries": 184,
+    "chartPoints": 7691,
+    "uniqueArtists": 12,
+    "avgRank": 59.2011,
+    "pointShare": 3.09
+  },
+  {
+    "year": 1996,
+    "genre": "Folk",
+    "entries": 131,
+    "chartPoints": 7554,
+    "uniqueArtists": 4,
+    "avgRank": 43.3359,
+    "pointShare": 3.04
+  },
+  {
+    "year": 1996,
+    "genre": "Gospel",
+    "entries": 14,
+    "chartPoints": 416,
+    "uniqueArtists": 1,
+    "avgRank": 71.2857,
+    "pointShare": 0.17
+  },
+  {
+    "year": 1996,
+    "genre": "HipHop",
+    "entries": 884,
+    "chartPoints": 41765,
+    "uniqueArtists": 58,
+    "avgRank": 53.7545,
+    "pointShare": 16.78
+  },
+  {
+    "year": 1996,
+    "genre": "Jazz",
+    "entries": 7,
+    "chartPoints": 227,
+    "uniqueArtists": 1,
+    "avgRank": 68.5714,
+    "pointShare": 0.09
+  },
+  {
+    "year": 1996,
+    "genre": "Pop",
+    "entries": 618,
+    "chartPoints": 31894,
+    "uniqueArtists": 29,
+    "avgRank": 49.3916,
+    "pointShare": 12.82
+  },
+  {
+    "year": 1996,
+    "genre": "Reggae",
+    "entries": 37,
+    "chartPoints": 780,
+    "uniqueArtists": 5,
+    "avgRank": 79.9189,
+    "pointShare": 0.31
+  },
+  {
+    "year": 1996,
+    "genre": "RnB",
+    "entries": 1464,
+    "chartPoints": 83784,
+    "uniqueArtists": 76,
+    "avgRank": 43.7705,
+    "pointShare": 33.66
+  },
+  {
+    "year": 1996,
+    "genre": "Rock",
+    "entries": 1334,
+    "chartPoints": 73753,
+    "uniqueArtists": 60,
+    "avgRank": 45.7129,
+    "pointShare": 29.63
+  },
+  {
+    "year": 1997,
+    "genre": "Country",
+    "entries": 157,
+    "chartPoints": 5252,
+    "uniqueArtists": 17,
+    "avgRank": 67.5478,
+    "pointShare": 2.22
+  },
+  {
+    "year": 1997,
+    "genre": "Electronic",
+    "entries": 225,
+    "chartPoints": 8937,
+    "uniqueArtists": 16,
+    "avgRank": 61.28,
+    "pointShare": 3.77
+  },
+  {
+    "year": 1997,
+    "genre": "Folk",
+    "entries": 78,
+    "chartPoints": 5554,
+    "uniqueArtists": 3,
+    "avgRank": 29.7949,
+    "pointShare": 2.35
+  },
+  {
+    "year": 1997,
+    "genre": "Gospel",
+    "entries": 12,
+    "chartPoints": 255,
+    "uniqueArtists": 2,
+    "avgRank": 79.75,
+    "pointShare": 0.11
+  },
+  {
+    "year": 1997,
+    "genre": "HipHop",
+    "entries": 842,
+    "chartPoints": 38848,
+    "uniqueArtists": 61,
+    "avgRank": 54.8622,
+    "pointShare": 16.41
+  },
+  {
+    "year": 1997,
+    "genre": "Jazz",
+    "entries": 26,
+    "chartPoints": 584,
+    "uniqueArtists": 1,
+    "avgRank": 78.5385,
+    "pointShare": 0.25
+  },
+  {
+    "year": 1997,
+    "genre": "Pop",
+    "entries": 614,
+    "chartPoints": 34844,
+    "uniqueArtists": 32,
+    "avgRank": 44.2508,
+    "pointShare": 14.71
+  },
+  {
+    "year": 1997,
+    "genre": "Reggae",
+    "entries": 18,
+    "chartPoints": 295,
+    "uniqueArtists": 3,
+    "avgRank": 84.6111,
+    "pointShare": 0.12
+  },
+  {
+    "year": 1997,
+    "genre": "RnB",
+    "entries": 1582,
+    "chartPoints": 87053,
+    "uniqueArtists": 87,
+    "avgRank": 45.9728,
+    "pointShare": 36.76
+  },
+  {
+    "year": 1997,
+    "genre": "Rock",
+    "entries": 1007,
+    "chartPoints": 55171,
+    "uniqueArtists": 51,
+    "avgRank": 46.2125,
+    "pointShare": 23.3
+  },
+  {
+    "year": 1998,
+    "genre": "Country",
+    "entries": 460,
+    "chartPoints": 16546,
+    "uniqueArtists": 36,
+    "avgRank": 65.0304,
+    "pointShare": 7.0
+  },
+  {
+    "year": 1998,
+    "genre": "Electronic",
+    "entries": 111,
+    "chartPoints": 4297,
+    "uniqueArtists": 13,
+    "avgRank": 62.2883,
+    "pointShare": 1.82
+  },
+  {
+    "year": 1998,
+    "genre": "Folk",
+    "entries": 55,
+    "chartPoints": 2979,
+    "uniqueArtists": 4,
+    "avgRank": 46.8364,
+    "pointShare": 1.26
+  },
+  {
+    "year": 1998,
+    "genre": "Gospel",
+    "entries": 52,
+    "chartPoints": 1299,
+    "uniqueArtists": 7,
+    "avgRank": 76.0192,
+    "pointShare": 0.55
+  },
+  {
+    "year": 1998,
+    "genre": "HipHop",
+    "entries": 865,
+    "chartPoints": 41099,
+    "uniqueArtists": 69,
+    "avgRank": 53.4867,
+    "pointShare": 17.38
+  },
+  {
+    "year": 1998,
+    "genre": "Jazz",
+    "entries": 1,
+    "chartPoints": 14,
+    "uniqueArtists": 1,
+    "avgRank": 87.0,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1998,
+    "genre": "Latin",
+    "entries": 2,
+    "chartPoints": 22,
+    "uniqueArtists": 1,
+    "avgRank": 90.0,
+    "pointShare": 0.01
+  },
+  {
+    "year": 1998,
+    "genre": "Pop",
+    "entries": 728,
+    "chartPoints": 41334,
+    "uniqueArtists": 37,
+    "avgRank": 44.2225,
+    "pointShare": 17.48
+  },
+  {
+    "year": 1998,
+    "genre": "Reggae",
+    "entries": 45,
+    "chartPoints": 1291,
+    "uniqueArtists": 5,
+    "avgRank": 72.3111,
+    "pointShare": 0.55
+  },
+  {
+    "year": 1998,
+    "genre": "RnB",
+    "entries": 1237,
+    "chartPoints": 75519,
+    "uniqueArtists": 75,
+    "avgRank": 39.9499,
+    "pointShare": 31.94
+  },
+  {
+    "year": 1998,
+    "genre": "Rock",
+    "entries": 916,
+    "chartPoints": 52052,
+    "uniqueArtists": 57,
+    "avgRank": 44.1747,
+    "pointShare": 22.01
+  },
+  {
+    "year": 1999,
+    "genre": "Country",
+    "entries": 1004,
+    "chartPoints": 39627,
+    "uniqueArtists": 41,
+    "avgRank": 61.5309,
+    "pointShare": 15.66
+  },
+  {
+    "year": 1999,
+    "genre": "Electronic",
+    "entries": 59,
+    "chartPoints": 4721,
+    "uniqueArtists": 2,
+    "avgRank": 20.9831,
+    "pointShare": 1.87
+  },
+  {
+    "year": 1999,
+    "genre": "Folk",
+    "entries": 18,
+    "chartPoints": 1190,
+    "uniqueArtists": 1,
+    "avgRank": 34.8889,
+    "pointShare": 0.47
+  },
+  {
+    "year": 1999,
+    "genre": "Gospel",
+    "entries": 125,
+    "chartPoints": 4783,
+    "uniqueArtists": 4,
+    "avgRank": 62.736,
+    "pointShare": 1.89
+  },
+  {
+    "year": 1999,
+    "genre": "HipHop",
+    "entries": 554,
+    "chartPoints": 24101,
+    "uniqueArtists": 46,
+    "avgRank": 57.4964,
+    "pointShare": 9.52
+  },
+  {
+    "year": 1999,
+    "genre": "Jazz",
+    "entries": 24,
+    "chartPoints": 1932,
+    "uniqueArtists": 3,
+    "avgRank": 20.5,
+    "pointShare": 0.76
+  },
+  {
+    "year": 1999,
+    "genre": "Latin",
+    "entries": 16,
+    "chartPoints": 1334,
+    "uniqueArtists": 1,
+    "avgRank": 17.625,
+    "pointShare": 0.53
+  },
+  {
+    "year": 1999,
+    "genre": "Pop",
+    "entries": 667,
+    "chartPoints": 39015,
+    "uniqueArtists": 30,
+    "avgRank": 42.5067,
+    "pointShare": 15.42
+  },
+  {
+    "year": 1999,
+    "genre": "Reggae",
+    "entries": 31,
+    "chartPoints": 357,
+    "uniqueArtists": 2,
+    "avgRank": 89.4839,
+    "pointShare": 0.14
+  },
+  {
+    "year": 1999,
+    "genre": "RnB",
+    "entries": 1287,
+    "chartPoints": 74089,
+    "uniqueArtists": 68,
+    "avgRank": 43.4328,
+    "pointShare": 29.28
+  },
+  {
+    "year": 1999,
+    "genre": "Rock",
+    "entries": 1185,
+    "chartPoints": 61912,
+    "uniqueArtists": 61,
+    "avgRank": 48.7536,
+    "pointShare": 24.47
+  },
+  {
+    "year": 2000,
+    "genre": "Country",
+    "entries": 1002,
+    "chartPoints": 41582,
+    "uniqueArtists": 45,
+    "avgRank": 59.501,
+    "pointShare": 15.7
+  },
+  {
+    "year": 2000,
+    "genre": "Electronic",
+    "entries": 116,
+    "chartPoints": 6430,
+    "uniqueArtists": 8,
+    "avgRank": 45.569,
+    "pointShare": 2.43
+  },
+  {
+    "year": 2000,
+    "genre": "Gospel",
+    "entries": 90,
+    "chartPoints": 3770,
+    "uniqueArtists": 3,
+    "avgRank": 59.1111,
+    "pointShare": 1.42
+  },
+  {
+    "year": 2000,
+    "genre": "HipHop",
+    "entries": 608,
+    "chartPoints": 25939,
+    "uniqueArtists": 55,
+    "avgRank": 58.3372,
+    "pointShare": 9.79
+  },
+  {
+    "year": 2000,
+    "genre": "Jazz",
+    "entries": 66,
+    "chartPoints": 5542,
+    "uniqueArtists": 3,
+    "avgRank": 17.0303,
+    "pointShare": 2.09
+  },
+  {
+    "year": 2000,
+    "genre": "Latin",
+    "entries": 108,
+    "chartPoints": 6262,
+    "uniqueArtists": 3,
+    "avgRank": 43.0185,
+    "pointShare": 2.36
+  },
+  {
+    "year": 2000,
+    "genre": "Pop",
+    "entries": 945,
+    "chartPoints": 55849,
+    "uniqueArtists": 40,
+    "avgRank": 41.9005,
+    "pointShare": 21.09
+  },
+  {
+    "year": 2000,
+    "genre": "Reggae",
+    "entries": 21,
+    "chartPoints": 1142,
+    "uniqueArtists": 3,
+    "avgRank": 46.619,
+    "pointShare": 0.43
+  },
+  {
+    "year": 2000,
+    "genre": "RnB",
+    "entries": 1083,
+    "chartPoints": 59334,
+    "uniqueArtists": 60,
+    "avgRank": 46.2133,
+    "pointShare": 22.4
+  },
+  {
+    "year": 2000,
+    "genre": "Rock",
+    "entries": 1078,
+    "chartPoints": 59018,
+    "uniqueArtists": 52,
+    "avgRank": 46.2523,
+    "pointShare": 22.28
+  },
+  {
+    "year": 2001,
+    "genre": "Country",
+    "entries": 803,
+    "chartPoints": 35312,
+    "uniqueArtists": 35,
+    "avgRank": 57.0249,
+    "pointShare": 13.47
+  },
+  {
+    "year": 2001,
+    "genre": "Electronic",
+    "entries": 203,
+    "chartPoints": 10344,
+    "uniqueArtists": 10,
+    "avgRank": 50.0443,
+    "pointShare": 3.95
+  },
+  {
+    "year": 2001,
+    "genre": "Folk",
+    "entries": 32,
+    "chartPoints": 2103,
+    "uniqueArtists": 2,
+    "avgRank": 35.2812,
+    "pointShare": 0.8
+  },
+  {
+    "year": 2001,
+    "genre": "Gospel",
+    "entries": 126,
+    "chartPoints": 5021,
+    "uniqueArtists": 3,
+    "avgRank": 61.1508,
+    "pointShare": 1.92
+  },
+  {
+    "year": 2001,
+    "genre": "HipHop",
+    "entries": 769,
+    "chartPoints": 36882,
+    "uniqueArtists": 60,
+    "avgRank": 53.039,
+    "pointShare": 14.07
+  },
+  {
+    "year": 2001,
+    "genre": "Jazz",
+    "entries": 15,
+    "chartPoints": 688,
+    "uniqueArtists": 1,
+    "avgRank": 55.1333,
+    "pointShare": 0.26
+  },
+  {
+    "year": 2001,
+    "genre": "Latin",
+    "entries": 24,
+    "chartPoints": 332,
+    "uniqueArtists": 2,
+    "avgRank": 87.1667,
+    "pointShare": 0.13
+  },
+  {
+    "year": 2001,
+    "genre": "Pop",
+    "entries": 857,
+    "chartPoints": 48578,
+    "uniqueArtists": 39,
+    "avgRank": 44.3162,
+    "pointShare": 18.53
+  },
+  {
+    "year": 2001,
+    "genre": "Reggae",
+    "entries": 47,
+    "chartPoints": 3741,
+    "uniqueArtists": 3,
+    "avgRank": 21.4043,
+    "pointShare": 1.43
+  },
+  {
+    "year": 2001,
+    "genre": "RnB",
+    "entries": 1273,
+    "chartPoints": 71411,
+    "uniqueArtists": 57,
+    "avgRank": 44.9034,
+    "pointShare": 27.24
+  },
+  {
+    "year": 2001,
+    "genre": "Rock",
+    "entries": 911,
+    "chartPoints": 47745,
+    "uniqueArtists": 40,
+    "avgRank": 48.5906,
+    "pointShare": 18.21
+  },
+  {
+    "year": 2002,
+    "genre": "Country",
+    "entries": 803,
+    "chartPoints": 35577,
+    "uniqueArtists": 37,
+    "avgRank": 56.6949,
+    "pointShare": 14.08
+  },
+  {
+    "year": 2002,
+    "genre": "Electronic",
+    "entries": 132,
+    "chartPoints": 8871,
+    "uniqueArtists": 9,
+    "avgRank": 33.7955,
+    "pointShare": 3.51
+  },
+  {
+    "year": 2002,
+    "genre": "Folk",
+    "entries": 52,
+    "chartPoints": 3549,
+    "uniqueArtists": 3,
+    "avgRank": 32.75,
+    "pointShare": 1.4
+  },
+  {
+    "year": 2002,
+    "genre": "Gospel",
+    "entries": 152,
+    "chartPoints": 6837,
+    "uniqueArtists": 4,
+    "avgRank": 56.0197,
+    "pointShare": 2.71
+  },
+  {
+    "year": 2002,
+    "genre": "HipHop",
+    "entries": 963,
+    "chartPoints": 47756,
+    "uniqueArtists": 68,
+    "avgRank": 51.4091,
+    "pointShare": 18.9
+  },
+  {
+    "year": 2002,
+    "genre": "Jazz",
+    "entries": 13,
+    "chartPoints": 1115,
+    "uniqueArtists": 1,
+    "avgRank": 15.2308,
+    "pointShare": 0.44
+  },
+  {
+    "year": 2002,
+    "genre": "Latin",
+    "entries": 38,
+    "chartPoints": 1795,
+    "uniqueArtists": 2,
+    "avgRank": 53.7632,
+    "pointShare": 0.71
+  },
+  {
+    "year": 2002,
+    "genre": "Pop",
+    "entries": 556,
+    "chartPoints": 29173,
+    "uniqueArtists": 35,
+    "avgRank": 48.5306,
+    "pointShare": 11.54
+  },
+  {
+    "year": 2002,
+    "genre": "Reggae",
+    "entries": 32,
+    "chartPoints": 736,
+    "uniqueArtists": 2,
+    "avgRank": 78.0,
+    "pointShare": 0.29
+  },
+  {
+    "year": 2002,
+    "genre": "RnB",
+    "entries": 1022,
+    "chartPoints": 52957,
+    "uniqueArtists": 49,
+    "avgRank": 49.183,
+    "pointShare": 20.95
+  },
+  {
+    "year": 2002,
+    "genre": "Rock",
+    "entries": 1196,
+    "chartPoints": 64377,
+    "uniqueArtists": 57,
+    "avgRank": 47.1731,
+    "pointShare": 25.47
+  },
+  {
+    "year": 2003,
+    "genre": "Country",
+    "entries": 858,
+    "chartPoints": 36716,
+    "uniqueArtists": 34,
+    "avgRank": 58.2075,
+    "pointShare": 13.85
+  },
+  {
+    "year": 2003,
+    "genre": "Electronic",
+    "entries": 81,
+    "chartPoints": 4557,
+    "uniqueArtists": 7,
+    "avgRank": 44.7407,
+    "pointShare": 1.72
+  },
+  {
+    "year": 2003,
+    "genre": "Folk",
+    "entries": 58,
+    "chartPoints": 3547,
+    "uniqueArtists": 2,
+    "avgRank": 39.8448,
+    "pointShare": 1.34
+  },
+  {
+    "year": 2003,
+    "genre": "Gospel",
+    "entries": 190,
+    "chartPoints": 9124,
+    "uniqueArtists": 9,
+    "avgRank": 52.9789,
+    "pointShare": 3.44
+  },
+  {
+    "year": 2003,
+    "genre": "HipHop",
+    "entries": 1204,
+    "chartPoints": 71825,
+    "uniqueArtists": 79,
+    "avgRank": 41.3447,
+    "pointShare": 27.09
+  },
+  {
+    "year": 2003,
+    "genre": "Jazz",
+    "entries": 47,
+    "chartPoints": 3537,
+    "uniqueArtists": 2,
+    "avgRank": 25.7447,
+    "pointShare": 1.33
+  },
+  {
+    "year": 2003,
+    "genre": "Pop",
+    "entries": 533,
+    "chartPoints": 28879,
+    "uniqueArtists": 33,
+    "avgRank": 46.818,
+    "pointShare": 10.89
+  },
+  {
+    "year": 2003,
+    "genre": "Reggae",
+    "entries": 44,
+    "chartPoints": 2128,
+    "uniqueArtists": 2,
+    "avgRank": 52.6364,
+    "pointShare": 0.8
+  },
+  {
+    "year": 2003,
+    "genre": "RnB",
+    "entries": 963,
+    "chartPoints": 49747,
+    "uniqueArtists": 53,
+    "avgRank": 49.3416,
+    "pointShare": 18.76
+  },
+  {
+    "year": 2003,
+    "genre": "Rock",
+    "entries": 1186,
+    "chartPoints": 55081,
+    "uniqueArtists": 59,
+    "avgRank": 54.5573,
+    "pointShare": 20.77
+  },
+  {
+    "year": 2004,
+    "genre": "Classical",
+    "entries": 20,
+    "chartPoints": 1136,
+    "uniqueArtists": 1,
+    "avgRank": 44.2,
+    "pointShare": 0.44
+  },
+  {
+    "year": 2004,
+    "genre": "Country",
+    "entries": 877,
+    "chartPoints": 35490,
+    "uniqueArtists": 43,
+    "avgRank": 60.5325,
+    "pointShare": 13.83
+  },
+  {
+    "year": 2004,
+    "genre": "Electronic",
+    "entries": 20,
+    "chartPoints": 697,
+    "uniqueArtists": 2,
+    "avgRank": 66.15,
+    "pointShare": 0.27
+  },
+  {
+    "year": 2004,
+    "genre": "Folk",
+    "entries": 10,
+    "chartPoints": 451,
+    "uniqueArtists": 1,
+    "avgRank": 55.9,
+    "pointShare": 0.18
+  },
+  {
+    "year": 2004,
+    "genre": "Gospel",
+    "entries": 162,
+    "chartPoints": 6897,
+    "uniqueArtists": 6,
+    "avgRank": 58.4259,
+    "pointShare": 2.69
+  },
+  {
+    "year": 2004,
+    "genre": "HipHop",
+    "entries": 1297,
+    "chartPoints": 74256,
+    "uniqueArtists": 84,
+    "avgRank": 43.7479,
+    "pointShare": 28.93
+  },
+  {
+    "year": 2004,
+    "genre": "Jazz",
+    "entries": 12,
+    "chartPoints": 845,
+    "uniqueArtists": 1,
+    "avgRank": 30.5833,
+    "pointShare": 0.33
+  },
+  {
+    "year": 2004,
+    "genre": "Latin",
+    "entries": 26,
+    "chartPoints": 1301,
+    "uniqueArtists": 3,
+    "avgRank": 50.9615,
+    "pointShare": 0.51
+  },
+  {
+    "year": 2004,
+    "genre": "Pop",
+    "entries": 553,
+    "chartPoints": 32558,
+    "uniqueArtists": 31,
+    "avgRank": 42.1248,
+    "pointShare": 12.69
+  },
+  {
+    "year": 2004,
+    "genre": "Reggae",
+    "entries": 95,
+    "chartPoints": 4046,
+    "uniqueArtists": 6,
+    "avgRank": 58.4105,
+    "pointShare": 1.58
+  },
+  {
+    "year": 2004,
+    "genre": "RnB",
+    "entries": 783,
+    "chartPoints": 45283,
+    "uniqueArtists": 46,
+    "avgRank": 43.1673,
+    "pointShare": 17.64
+  },
+  {
+    "year": 2004,
+    "genre": "Rock",
+    "entries": 1189,
+    "chartPoints": 53678,
+    "uniqueArtists": 59,
+    "avgRank": 55.8545,
+    "pointShare": 20.92
+  },
+  {
+    "year": 2005,
+    "genre": "Country",
+    "entries": 954,
+    "chartPoints": 32033,
+    "uniqueArtists": 43,
+    "avgRank": 67.4224,
+    "pointShare": 13.33
+  },
+  {
+    "year": 2005,
+    "genre": "Electronic",
+    "entries": 71,
+    "chartPoints": 4650,
+    "uniqueArtists": 4,
+    "avgRank": 35.507,
+    "pointShare": 1.93
+  },
+  {
+    "year": 2005,
+    "genre": "Folk",
+    "entries": 25,
+    "chartPoints": 1220,
+    "uniqueArtists": 2,
+    "avgRank": 52.2,
+    "pointShare": 0.51
+  },
+  {
+    "year": 2005,
+    "genre": "Gospel",
+    "entries": 52,
+    "chartPoints": 1741,
+    "uniqueArtists": 4,
+    "avgRank": 67.5192,
+    "pointShare": 0.72
+  },
+  {
+    "year": 2005,
+    "genre": "HipHop",
+    "entries": 1245,
+    "chartPoints": 72088,
+    "uniqueArtists": 82,
+    "avgRank": 43.098,
+    "pointShare": 29.99
+  },
+  {
+    "year": 2005,
+    "genre": "Jazz",
+    "entries": 28,
+    "chartPoints": 449,
+    "uniqueArtists": 2,
+    "avgRank": 84.9643,
+    "pointShare": 0.19
+  },
+  {
+    "year": 2005,
+    "genre": "Latin",
+    "entries": 38,
+    "chartPoints": 1058,
+    "uniqueArtists": 6,
+    "avgRank": 73.1579,
+    "pointShare": 0.44
+  },
+  {
+    "year": 2005,
+    "genre": "Pop",
+    "entries": 611,
+    "chartPoints": 34984,
+    "uniqueArtists": 37,
+    "avgRank": 43.743,
+    "pointShare": 14.55
+  },
+  {
+    "year": 2005,
+    "genre": "Reggae",
+    "entries": 19,
+    "chartPoints": 523,
+    "uniqueArtists": 2,
+    "avgRank": 73.4737,
+    "pointShare": 0.22
+  },
+  {
+    "year": 2005,
+    "genre": "RnB",
+    "entries": 629,
+    "chartPoints": 32423,
+    "uniqueArtists": 40,
+    "avgRank": 49.4531,
+    "pointShare": 13.49
+  },
+  {
+    "year": 2005,
+    "genre": "Rock",
+    "entries": 1188,
+    "chartPoints": 59217,
+    "uniqueArtists": 69,
+    "avgRank": 51.154,
+    "pointShare": 24.63
+  },
+  {
+    "year": 2006,
+    "genre": "Classical",
+    "entries": 6,
+    "chartPoints": 233,
+    "uniqueArtists": 1,
+    "avgRank": 62.1667,
+    "pointShare": 0.1
+  },
+  {
+    "year": 2006,
+    "genre": "Country",
+    "entries": 857,
+    "chartPoints": 30649,
+    "uniqueArtists": 39,
+    "avgRank": 65.2369,
+    "pointShare": 12.85
+  },
+  {
+    "year": 2006,
+    "genre": "Electronic",
+    "entries": 93,
+    "chartPoints": 6244,
+    "uniqueArtists": 4,
+    "avgRank": 33.8602,
+    "pointShare": 2.62
+  },
+  {
+    "year": 2006,
+    "genre": "Folk",
+    "entries": 76,
+    "chartPoints": 3877,
+    "uniqueArtists": 4,
+    "avgRank": 49.9868,
+    "pointShare": 1.63
+  },
+  {
+    "year": 2006,
+    "genre": "Gospel",
+    "entries": 76,
+    "chartPoints": 2296,
+    "uniqueArtists": 4,
+    "avgRank": 70.7895,
+    "pointShare": 0.96
+  },
+  {
+    "year": 2006,
+    "genre": "HipHop",
+    "entries": 906,
+    "chartPoints": 49429,
+    "uniqueArtists": 74,
+    "avgRank": 46.4426,
+    "pointShare": 20.72
+  },
+  {
+    "year": 2006,
+    "genre": "Jazz",
+    "entries": 1,
+    "chartPoints": 2,
+    "uniqueArtists": 1,
+    "avgRank": 99.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 2006,
+    "genre": "Latin",
+    "entries": 33,
+    "chartPoints": 1470,
+    "uniqueArtists": 5,
+    "avgRank": 56.4545,
+    "pointShare": 0.62
+  },
+  {
+    "year": 2006,
+    "genre": "Pop",
+    "entries": 856,
+    "chartPoints": 57243,
+    "uniqueArtists": 47,
+    "avgRank": 34.1273,
+    "pointShare": 23.99
+  },
+  {
+    "year": 2006,
+    "genre": "Reggae",
+    "entries": 7,
+    "chartPoints": 84,
+    "uniqueArtists": 1,
+    "avgRank": 89.0,
+    "pointShare": 0.04
+  },
+  {
+    "year": 2006,
+    "genre": "RnB",
+    "entries": 461,
+    "chartPoints": 21543,
+    "uniqueArtists": 33,
+    "avgRank": 54.269,
+    "pointShare": 9.03
+  },
+  {
+    "year": 2006,
+    "genre": "Rock",
+    "entries": 1339,
+    "chartPoints": 65500,
+    "uniqueArtists": 89,
+    "avgRank": 52.0829,
+    "pointShare": 27.46
+  },
+  {
+    "year": 2007,
+    "genre": "Classical",
+    "entries": 40,
+    "chartPoints": 2925,
+    "uniqueArtists": 2,
+    "avgRank": 27.875,
+    "pointShare": 1.16
+  },
+  {
+    "year": 2007,
+    "genre": "Country",
+    "entries": 952,
+    "chartPoints": 32417,
+    "uniqueArtists": 40,
+    "avgRank": 66.9485,
+    "pointShare": 12.91
+  },
+  {
+    "year": 2007,
+    "genre": "Electronic",
+    "entries": 66,
+    "chartPoints": 2963,
+    "uniqueArtists": 6,
+    "avgRank": 56.1061,
+    "pointShare": 1.18
+  },
+  {
+    "year": 2007,
+    "genre": "Folk",
+    "entries": 47,
+    "chartPoints": 2313,
+    "uniqueArtists": 3,
+    "avgRank": 51.7872,
+    "pointShare": 0.92
+  },
+  {
+    "year": 2007,
+    "genre": "Gospel",
+    "entries": 50,
+    "chartPoints": 1300,
+    "uniqueArtists": 3,
+    "avgRank": 75.0,
+    "pointShare": 0.52
+  },
+  {
+    "year": 2007,
+    "genre": "HipHop",
+    "entries": 874,
+    "chartPoints": 49392,
+    "uniqueArtists": 66,
+    "avgRank": 44.4874,
+    "pointShare": 19.67
+  },
+  {
+    "year": 2007,
+    "genre": "Jazz",
+    "entries": 31,
+    "chartPoints": 1153,
+    "uniqueArtists": 2,
+    "avgRank": 63.8065,
+    "pointShare": 0.46
+  },
+  {
+    "year": 2007,
+    "genre": "Latin",
+    "entries": 10,
+    "chartPoints": 157,
+    "uniqueArtists": 2,
+    "avgRank": 85.3,
+    "pointShare": 0.06
+  },
+  {
+    "year": 2007,
+    "genre": "Pop",
+    "entries": 1146,
+    "chartPoints": 70574,
+    "uniqueArtists": 59,
+    "avgRank": 39.4171,
+    "pointShare": 28.1
+  },
+  {
+    "year": 2007,
+    "genre": "RnB",
+    "entries": 479,
+    "chartPoints": 24145,
+    "uniqueArtists": 31,
+    "avgRank": 50.5929,
+    "pointShare": 9.61
+  },
+  {
+    "year": 2007,
+    "genre": "Rock",
+    "entries": 1243,
+    "chartPoints": 63801,
+    "uniqueArtists": 70,
+    "avgRank": 49.6718,
+    "pointShare": 25.4
+  },
+  {
+    "year": 2008,
+    "genre": "Classical",
+    "entries": 14,
+    "chartPoints": 358,
+    "uniqueArtists": 1,
+    "avgRank": 75.4286,
+    "pointShare": 0.14
+  },
+  {
+    "year": 2008,
+    "genre": "Country",
+    "entries": 836,
+    "chartPoints": 28970,
+    "uniqueArtists": 43,
+    "avgRank": 66.3469,
+    "pointShare": 11.58
+  },
+  {
+    "year": 2008,
+    "genre": "Electronic",
+    "entries": 115,
+    "chartPoints": 8839,
+    "uniqueArtists": 4,
+    "avgRank": 24.1391,
+    "pointShare": 3.53
+  },
+  {
+    "year": 2008,
+    "genre": "Folk",
+    "entries": 48,
+    "chartPoints": 1692,
+    "uniqueArtists": 3,
+    "avgRank": 65.75,
+    "pointShare": 0.68
+  },
+  {
+    "year": 2008,
+    "genre": "Gospel",
+    "entries": 136,
+    "chartPoints": 4044,
+    "uniqueArtists": 5,
+    "avgRank": 71.2647,
+    "pointShare": 1.62
+  },
+  {
+    "year": 2008,
+    "genre": "HipHop",
+    "entries": 846,
+    "chartPoints": 46979,
+    "uniqueArtists": 76,
+    "avgRank": 45.4693,
+    "pointShare": 18.77
+  },
+  {
+    "year": 2008,
+    "genre": "Jazz",
+    "entries": 41,
+    "chartPoints": 2536,
+    "uniqueArtists": 3,
+    "avgRank": 39.1463,
+    "pointShare": 1.01
+  },
+  {
+    "year": 2008,
+    "genre": "Latin",
+    "entries": 26,
+    "chartPoints": 139,
+    "uniqueArtists": 2,
+    "avgRank": 95.6538,
+    "pointShare": 0.06
+  },
+  {
+    "year": 2008,
+    "genre": "Pop",
+    "entries": 1141,
+    "chartPoints": 70024,
+    "uniqueArtists": 70,
+    "avgRank": 39.6293,
+    "pointShare": 27.98
+  },
+  {
+    "year": 2008,
+    "genre": "RnB",
+    "entries": 594,
+    "chartPoints": 32083,
+    "uniqueArtists": 33,
+    "avgRank": 46.9882,
+    "pointShare": 12.82
+  },
+  {
+    "year": 2008,
+    "genre": "Rock",
+    "entries": 1134,
+    "chartPoints": 54577,
+    "uniqueArtists": 71,
+    "avgRank": 52.8721,
+    "pointShare": 21.81
+  },
+  {
+    "year": 2009,
+    "genre": "Country",
+    "entries": 955,
+    "chartPoints": 36405,
+    "uniqueArtists": 45,
+    "avgRank": 62.8796,
+    "pointShare": 15.12
+  },
+  {
+    "year": 2009,
+    "genre": "Electronic",
+    "entries": 87,
+    "chartPoints": 5204,
+    "uniqueArtists": 9,
+    "avgRank": 41.1839,
+    "pointShare": 2.16
+  },
+  {
+    "year": 2009,
+    "genre": "Folk",
+    "entries": 11,
+    "chartPoints": 401,
+    "uniqueArtists": 1,
+    "avgRank": 64.5455,
+    "pointShare": 0.17
+  },
+  {
+    "year": 2009,
+    "genre": "Gospel",
+    "entries": 63,
+    "chartPoints": 1738,
+    "uniqueArtists": 3,
+    "avgRank": 73.4127,
+    "pointShare": 0.72
+  },
+  {
+    "year": 2009,
+    "genre": "HipHop",
+    "entries": 741,
+    "chartPoints": 39533,
+    "uniqueArtists": 71,
+    "avgRank": 47.6491,
+    "pointShare": 16.42
+  },
+  {
+    "year": 2009,
+    "genre": "Jazz",
+    "entries": 11,
+    "chartPoints": 299,
+    "uniqueArtists": 1,
+    "avgRank": 73.8182,
+    "pointShare": 0.12
+  },
+  {
+    "year": 2009,
+    "genre": "Pop",
+    "entries": 1346,
+    "chartPoints": 81115,
+    "uniqueArtists": 75,
+    "avgRank": 40.7363,
+    "pointShare": 33.7
+  },
+  {
+    "year": 2009,
+    "genre": "RnB",
+    "entries": 607,
+    "chartPoints": 26060,
+    "uniqueArtists": 41,
+    "avgRank": 58.0675,
+    "pointShare": 10.83
+  },
+  {
+    "year": 2009,
+    "genre": "Rock",
+    "entries": 978,
+    "chartPoints": 49974,
+    "uniqueArtists": 67,
+    "avgRank": 49.9018,
+    "pointShare": 20.76
+  },
+  {
+    "year": 2010,
+    "genre": "Classical",
+    "entries": 8,
+    "chartPoints": 199,
+    "uniqueArtists": 1,
+    "avgRank": 76.125,
+    "pointShare": 0.08
+  },
+  {
+    "year": 2010,
+    "genre": "Country",
+    "entries": 927,
+    "chartPoints": 31899,
+    "uniqueArtists": 40,
+    "avgRank": 66.589,
+    "pointShare": 13.23
+  },
+  {
+    "year": 2010,
+    "genre": "Electronic",
+    "entries": 158,
+    "chartPoints": 9071,
+    "uniqueArtists": 11,
+    "avgRank": 43.5886,
+    "pointShare": 3.76
+  },
+  {
+    "year": 2010,
+    "genre": "Folk",
+    "entries": 38,
+    "chartPoints": 1710,
+    "uniqueArtists": 2,
+    "avgRank": 56.0,
+    "pointShare": 0.71
+  },
+  {
+    "year": 2010,
+    "genre": "Gospel",
+    "entries": 33,
+    "chartPoints": 1178,
+    "uniqueArtists": 1,
+    "avgRank": 65.303,
+    "pointShare": 0.49
+  },
+  {
+    "year": 2010,
+    "genre": "HipHop",
+    "entries": 878,
+    "chartPoints": 46860,
+    "uniqueArtists": 83,
+    "avgRank": 47.6287,
+    "pointShare": 19.43
+  },
+  {
+    "year": 2010,
+    "genre": "Jazz",
+    "entries": 35,
+    "chartPoints": 2225,
+    "uniqueArtists": 1,
+    "avgRank": 37.4286,
+    "pointShare": 0.92
+  },
+  {
+    "year": 2010,
+    "genre": "Pop",
+    "entries": 1411,
+    "chartPoints": 85667,
+    "uniqueArtists": 79,
+    "avgRank": 40.2863,
+    "pointShare": 35.53
+  },
+  {
+    "year": 2010,
+    "genre": "Reggae",
+    "entries": 15,
+    "chartPoints": 192,
+    "uniqueArtists": 1,
+    "avgRank": 88.2,
+    "pointShare": 0.08
+  },
+  {
+    "year": 2010,
+    "genre": "RnB",
+    "entries": 538,
+    "chartPoints": 27733,
+    "uniqueArtists": 36,
+    "avgRank": 49.4517,
+    "pointShare": 11.5
+  },
+  {
+    "year": 2010,
+    "genre": "Rock",
+    "entries": 717,
+    "chartPoints": 34383,
+    "uniqueArtists": 58,
+    "avgRank": 53.046,
+    "pointShare": 14.26
+  },
+  {
+    "year": 2011,
+    "genre": "Classical",
+    "entries": 16,
+    "chartPoints": 344,
+    "uniqueArtists": 2,
+    "avgRank": 79.5,
+    "pointShare": 0.13
+  },
+  {
+    "year": 2011,
+    "genre": "Country",
+    "entries": 1168,
+    "chartPoints": 47205,
+    "uniqueArtists": 52,
+    "avgRank": 60.5848,
+    "pointShare": 18.41
+  },
+  {
+    "year": 2011,
+    "genre": "Electronic",
+    "entries": 327,
+    "chartPoints": 18227,
+    "uniqueArtists": 28,
+    "avgRank": 45.2599,
+    "pointShare": 7.11
+  },
+  {
+    "year": 2011,
+    "genre": "Gospel",
+    "entries": 40,
+    "chartPoints": 1007,
+    "uniqueArtists": 3,
+    "avgRank": 75.825,
+    "pointShare": 0.39
+  },
+  {
+    "year": 2011,
+    "genre": "HipHop",
+    "entries": 961,
+    "chartPoints": 50066,
+    "uniqueArtists": 83,
+    "avgRank": 48.9022,
+    "pointShare": 19.53
+  },
+  {
+    "year": 2011,
+    "genre": "Jazz",
+    "entries": 5,
+    "chartPoints": 91,
+    "uniqueArtists": 3,
+    "avgRank": 82.8,
+    "pointShare": 0.04
+  },
+  {
+    "year": 2011,
+    "genre": "Latin",
+    "entries": 16,
+    "chartPoints": 144,
+    "uniqueArtists": 4,
+    "avgRank": 92.0,
+    "pointShare": 0.06
+  },
+  {
+    "year": 2011,
+    "genre": "Pop",
+    "entries": 1502,
+    "chartPoints": 94696,
+    "uniqueArtists": 78,
+    "avgRank": 37.9534,
+    "pointShare": 36.94
+  },
+  {
+    "year": 2011,
+    "genre": "RnB",
+    "entries": 466,
+    "chartPoints": 23985,
+    "uniqueArtists": 31,
+    "avgRank": 49.53,
+    "pointShare": 9.36
+  },
+  {
+    "year": 2011,
+    "genre": "Rock",
+    "entries": 569,
+    "chartPoints": 20595,
+    "uniqueArtists": 49,
+    "avgRank": 64.8049,
+    "pointShare": 8.03
+  },
+  {
+    "year": 2012,
+    "genre": "Country",
+    "entries": 1074,
+    "chartPoints": 41901,
+    "uniqueArtists": 45,
+    "avgRank": 61.986,
+    "pointShare": 16.87
+  },
+  {
+    "year": 2012,
+    "genre": "Electronic",
+    "entries": 396,
+    "chartPoints": 21360,
+    "uniqueArtists": 21,
+    "avgRank": 47.0606,
+    "pointShare": 8.6
+  },
+  {
+    "year": 2012,
+    "genre": "Folk",
+    "entries": 3,
+    "chartPoints": 81,
+    "uniqueArtists": 1,
+    "avgRank": 74.0,
+    "pointShare": 0.03
+  },
+  {
+    "year": 2012,
+    "genre": "Gospel",
+    "entries": 25,
+    "chartPoints": 814,
+    "uniqueArtists": 1,
+    "avgRank": 68.44,
+    "pointShare": 0.33
+  },
+  {
+    "year": 2012,
+    "genre": "HipHop",
+    "entries": 1041,
+    "chartPoints": 51746,
+    "uniqueArtists": 82,
+    "avgRank": 51.292,
+    "pointShare": 20.84
+  },
+  {
+    "year": 2012,
+    "genre": "Jazz",
+    "entries": 1,
+    "chartPoints": 1,
+    "uniqueArtists": 1,
+    "avgRank": 100.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 2012,
+    "genre": "Pop",
+    "entries": 1459,
+    "chartPoints": 91604,
+    "uniqueArtists": 75,
+    "avgRank": 38.2145,
+    "pointShare": 36.88
+  },
+  {
+    "year": 2012,
+    "genre": "RnB",
+    "entries": 375,
+    "chartPoints": 16829,
+    "uniqueArtists": 24,
+    "avgRank": 56.1227,
+    "pointShare": 6.78
+  },
+  {
+    "year": 2012,
+    "genre": "Rock",
+    "entries": 512,
+    "chartPoints": 24021,
+    "uniqueArtists": 42,
+    "avgRank": 54.084,
+    "pointShare": 9.67
+  },
+  {
+    "year": 2013,
+    "genre": "Country",
+    "entries": 1031,
+    "chartPoints": 41011,
+    "uniqueArtists": 53,
+    "avgRank": 61.2221,
+    "pointShare": 16.41
+  },
+  {
+    "year": 2013,
+    "genre": "Electronic",
+    "entries": 315,
+    "chartPoints": 19108,
+    "uniqueArtists": 18,
+    "avgRank": 40.3397,
+    "pointShare": 7.65
+  },
+  {
+    "year": 2013,
+    "genre": "Folk",
+    "entries": 6,
+    "chartPoints": 132,
+    "uniqueArtists": 3,
+    "avgRank": 79.0,
+    "pointShare": 0.05
+  },
+  {
+    "year": 2013,
+    "genre": "Gospel",
+    "entries": 6,
+    "chartPoints": 82,
+    "uniqueArtists": 2,
+    "avgRank": 87.3333,
+    "pointShare": 0.03
+  },
+  {
+    "year": 2013,
+    "genre": "HipHop",
+    "entries": 1067,
+    "chartPoints": 51399,
+    "uniqueArtists": 80,
+    "avgRank": 52.8285,
+    "pointShare": 20.57
+  },
+  {
+    "year": 2013,
+    "genre": "Jazz",
+    "entries": 1,
+    "chartPoints": 7,
+    "uniqueArtists": 1,
+    "avgRank": 94.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 2013,
+    "genre": "Latin",
+    "entries": 24,
+    "chartPoints": 206,
+    "uniqueArtists": 3,
+    "avgRank": 92.4167,
+    "pointShare": 0.08
+  },
+  {
+    "year": 2013,
+    "genre": "Pop",
+    "entries": 1529,
+    "chartPoints": 89299,
+    "uniqueArtists": 77,
+    "avgRank": 42.5965,
+    "pointShare": 35.73
+  },
+  {
+    "year": 2013,
+    "genre": "RnB",
+    "entries": 337,
+    "chartPoints": 18894,
+    "uniqueArtists": 24,
+    "avgRank": 44.9347,
+    "pointShare": 7.56
+  },
+  {
+    "year": 2013,
+    "genre": "Rock",
+    "entries": 566,
+    "chartPoints": 29755,
+    "uniqueArtists": 41,
+    "avgRank": 48.4293,
+    "pointShare": 11.91
+  },
+  {
+    "year": 2014,
+    "genre": "Afrobeat",
+    "entries": 40,
+    "chartPoints": 2755,
+    "uniqueArtists": 1,
+    "avgRank": 32.125,
+    "pointShare": 1.1
+  },
+  {
+    "year": 2014,
+    "genre": "Country",
+    "entries": 1020,
+    "chartPoints": 35937,
+    "uniqueArtists": 55,
+    "avgRank": 65.7676,
+    "pointShare": 14.35
+  },
+  {
+    "year": 2014,
+    "genre": "Electronic",
+    "entries": 354,
+    "chartPoints": 20038,
+    "uniqueArtists": 25,
+    "avgRank": 44.3955,
+    "pointShare": 8.0
+  },
+  {
+    "year": 2014,
+    "genre": "Folk",
+    "entries": 2,
+    "chartPoints": 64,
+    "uniqueArtists": 2,
+    "avgRank": 69.0,
+    "pointShare": 0.03
+  },
+  {
+    "year": 2014,
+    "genre": "Gospel",
+    "entries": 14,
+    "chartPoints": 95,
+    "uniqueArtists": 2,
+    "avgRank": 94.2143,
+    "pointShare": 0.04
+  },
+  {
+    "year": 2014,
+    "genre": "HipHop",
+    "entries": 790,
+    "chartPoints": 37323,
+    "uniqueArtists": 58,
+    "avgRank": 53.7557,
+    "pointShare": 14.9
+  },
+  {
+    "year": 2014,
+    "genre": "Jazz",
+    "entries": 54,
+    "chartPoints": 4006,
+    "uniqueArtists": 2,
+    "avgRank": 26.8148,
+    "pointShare": 1.6
+  },
+  {
+    "year": 2014,
+    "genre": "Latin",
+    "entries": 32,
+    "chartPoints": 1440,
+    "uniqueArtists": 3,
+    "avgRank": 56.0,
+    "pointShare": 0.57
+  },
+  {
+    "year": 2014,
+    "genre": "Pop",
+    "entries": 1645,
+    "chartPoints": 99497,
+    "uniqueArtists": 85,
+    "avgRank": 40.5155,
+    "pointShare": 39.72
+  },
+  {
+    "year": 2014,
+    "genre": "RnB",
+    "entries": 430,
+    "chartPoints": 22721,
+    "uniqueArtists": 27,
+    "avgRank": 48.1605,
+    "pointShare": 9.07
+  },
+  {
+    "year": 2014,
+    "genre": "Rock",
+    "entries": 554,
+    "chartPoints": 26613,
+    "uniqueArtists": 35,
+    "avgRank": 52.9621,
+    "pointShare": 10.62
+  },
+  {
+    "year": 2015,
+    "genre": "Afrobeat",
+    "entries": 37,
+    "chartPoints": 2801,
+    "uniqueArtists": 2,
+    "avgRank": 25.2973,
+    "pointShare": 1.13
+  },
+  {
+    "year": 2015,
+    "genre": "Country",
+    "entries": 915,
+    "chartPoints": 29632,
+    "uniqueArtists": 45,
+    "avgRank": 68.6153,
+    "pointShare": 11.97
+  },
+  {
+    "year": 2015,
+    "genre": "Electronic",
+    "entries": 230,
+    "chartPoints": 11777,
+    "uniqueArtists": 19,
+    "avgRank": 49.7957,
+    "pointShare": 4.76
+  },
+  {
+    "year": 2015,
+    "genre": "Gospel",
+    "entries": 1,
+    "chartPoints": 17,
+    "uniqueArtists": 1,
+    "avgRank": 84.0,
+    "pointShare": 0.01
+  },
+  {
+    "year": 2015,
+    "genre": "HipHop",
+    "entries": 1116,
+    "chartPoints": 50444,
+    "uniqueArtists": 91,
+    "avgRank": 55.7993,
+    "pointShare": 20.38
+  },
+  {
+    "year": 2015,
+    "genre": "Jazz",
+    "entries": 64,
+    "chartPoints": 4277,
+    "uniqueArtists": 1,
+    "avgRank": 34.1719,
+    "pointShare": 1.73
+  },
+  {
+    "year": 2015,
+    "genre": "Latin",
+    "entries": 56,
+    "chartPoints": 1241,
+    "uniqueArtists": 5,
+    "avgRank": 78.8393,
+    "pointShare": 0.5
+  },
+  {
+    "year": 2015,
+    "genre": "Pop",
+    "entries": 1736,
+    "chartPoints": 107126,
+    "uniqueArtists": 82,
+    "avgRank": 39.2915,
+    "pointShare": 43.28
+  },
+  {
+    "year": 2015,
+    "genre": "Reggae",
+    "entries": 8,
+    "chartPoints": 184,
+    "uniqueArtists": 1,
+    "avgRank": 78.0,
+    "pointShare": 0.07
+  },
+  {
+    "year": 2015,
+    "genre": "RnB",
+    "entries": 273,
+    "chartPoints": 13563,
+    "uniqueArtists": 22,
+    "avgRank": 51.3187,
+    "pointShare": 5.48
+  },
+  {
+    "year": 2015,
+    "genre": "Rock",
+    "entries": 523,
+    "chartPoints": 26457,
+    "uniqueArtists": 30,
+    "avgRank": 50.413,
+    "pointShare": 10.69
+  },
+  {
+    "year": 2016,
+    "genre": "Afrobeat",
+    "entries": 1,
+    "chartPoints": 52,
+    "uniqueArtists": 1,
+    "avgRank": 49.0,
+    "pointShare": 0.02
+  },
+  {
+    "year": 2016,
+    "genre": "Country",
+    "entries": 772,
+    "chartPoints": 25135,
+    "uniqueArtists": 45,
+    "avgRank": 68.4417,
+    "pointShare": 9.76
+  },
+  {
+    "year": 2016,
+    "genre": "Electronic",
+    "entries": 295,
+    "chartPoints": 16824,
+    "uniqueArtists": 26,
+    "avgRank": 43.9695,
+    "pointShare": 6.53
+  },
+  {
+    "year": 2016,
+    "genre": "Folk",
+    "entries": 2,
+    "chartPoints": 90,
+    "uniqueArtists": 2,
+    "avgRank": 56.0,
+    "pointShare": 0.03
+  },
+  {
+    "year": 2016,
+    "genre": "HipHop",
+    "entries": 1540,
+    "chartPoints": 71772,
+    "uniqueArtists": 96,
+    "avgRank": 54.3948,
+    "pointShare": 27.86
+  },
+  {
+    "year": 2016,
+    "genre": "Jazz",
+    "entries": 1,
+    "chartPoints": 63,
+    "uniqueArtists": 1,
+    "avgRank": 38.0,
+    "pointShare": 0.02
+  },
+  {
+    "year": 2016,
+    "genre": "Latin",
+    "entries": 24,
+    "chartPoints": 340,
+    "uniqueArtists": 3,
+    "avgRank": 86.8333,
+    "pointShare": 0.13
+  },
+  {
+    "year": 2016,
+    "genre": "Pop",
+    "entries": 1768,
+    "chartPoints": 110055,
+    "uniqueArtists": 85,
+    "avgRank": 38.7517,
+    "pointShare": 42.72
+  },
+  {
+    "year": 2016,
+    "genre": "RnB",
+    "entries": 294,
+    "chartPoints": 14659,
+    "uniqueArtists": 21,
+    "avgRank": 51.1395,
+    "pointShare": 5.69
+  },
+  {
+    "year": 2016,
+    "genre": "Rock",
+    "entries": 345,
+    "chartPoints": 18632,
+    "uniqueArtists": 23,
+    "avgRank": 46.9942,
+    "pointShare": 7.23
+  },
+  {
+    "year": 2017,
+    "genre": "Classical",
+    "entries": 10,
+    "chartPoints": 230,
+    "uniqueArtists": 1,
+    "avgRank": 78.0,
+    "pointShare": 0.09
+  },
+  {
+    "year": 2017,
+    "genre": "Country",
+    "entries": 711,
+    "chartPoints": 22032,
+    "uniqueArtists": 47,
+    "avgRank": 70.0127,
+    "pointShare": 8.46
+  },
+  {
+    "year": 2017,
+    "genre": "Electronic",
+    "entries": 396,
+    "chartPoints": 22803,
+    "uniqueArtists": 28,
+    "avgRank": 43.4167,
+    "pointShare": 8.75
+  },
+  {
+    "year": 2017,
+    "genre": "Folk",
+    "entries": 1,
+    "chartPoints": 10,
+    "uniqueArtists": 1,
+    "avgRank": 91.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 2017,
+    "genre": "Gospel",
+    "entries": 16,
+    "chartPoints": 362,
+    "uniqueArtists": 1,
+    "avgRank": 78.375,
+    "pointShare": 0.14
+  },
+  {
+    "year": 2017,
+    "genre": "HipHop",
+    "entries": 1752,
+    "chartPoints": 87191,
+    "uniqueArtists": 145,
+    "avgRank": 51.2334,
+    "pointShare": 33.46
+  },
+  {
+    "year": 2017,
+    "genre": "Jazz",
+    "entries": 19,
+    "chartPoints": 1537,
+    "uniqueArtists": 3,
+    "avgRank": 20.1053,
+    "pointShare": 0.59
+  },
+  {
+    "year": 2017,
+    "genre": "Latin",
+    "entries": 147,
+    "chartPoints": 7362,
+    "uniqueArtists": 12,
+    "avgRank": 50.9184,
+    "pointShare": 2.83
+  },
+  {
+    "year": 2017,
+    "genre": "Pop",
+    "entries": 1469,
+    "chartPoints": 86698,
+    "uniqueArtists": 87,
+    "avgRank": 41.9816,
+    "pointShare": 33.27
+  },
+  {
+    "year": 2017,
+    "genre": "RnB",
+    "entries": 308,
+    "chartPoints": 16699,
+    "uniqueArtists": 16,
+    "avgRank": 46.7825,
+    "pointShare": 6.41
+  },
+  {
+    "year": 2017,
+    "genre": "Rock",
+    "entries": 308,
+    "chartPoints": 15646,
+    "uniqueArtists": 20,
+    "avgRank": 50.2013,
+    "pointShare": 6.0
+  },
+  {
+    "year": 2018,
+    "genre": "Classical",
+    "entries": 17,
+    "chartPoints": 1126,
+    "uniqueArtists": 1,
+    "avgRank": 34.7647,
+    "pointShare": 0.43
+  },
+  {
+    "year": 2018,
+    "genre": "Country",
+    "entries": 631,
+    "chartPoints": 20743,
+    "uniqueArtists": 41,
+    "avgRank": 68.1268,
+    "pointShare": 7.89
+  },
+  {
+    "year": 2018,
+    "genre": "Electronic",
+    "entries": 213,
+    "chartPoints": 10843,
+    "uniqueArtists": 22,
+    "avgRank": 50.0939,
+    "pointShare": 4.12
+  },
+  {
+    "year": 2018,
+    "genre": "HipHop",
+    "entries": 2014,
+    "chartPoints": 104315,
+    "uniqueArtists": 197,
+    "avgRank": 49.2051,
+    "pointShare": 39.66
+  },
+  {
+    "year": 2018,
+    "genre": "Jazz",
+    "entries": 17,
+    "chartPoints": 1284,
+    "uniqueArtists": 3,
+    "avgRank": 25.4706,
+    "pointShare": 0.49
+  },
+  {
+    "year": 2018,
+    "genre": "Latin",
+    "entries": 176,
+    "chartPoints": 6002,
+    "uniqueArtists": 17,
+    "avgRank": 66.8977,
+    "pointShare": 2.28
+  },
+  {
+    "year": 2018,
+    "genre": "Pop",
+    "entries": 1470,
+    "chartPoints": 86726,
+    "uniqueArtists": 91,
+    "avgRank": 42.0027,
+    "pointShare": 32.97
+  },
+  {
+    "year": 2018,
+    "genre": "RnB",
+    "entries": 219,
+    "chartPoints": 10227,
+    "uniqueArtists": 18,
+    "avgRank": 54.3014,
+    "pointShare": 3.89
+  },
+  {
+    "year": 2018,
+    "genre": "Rock",
+    "entries": 409,
+    "chartPoints": 21760,
+    "uniqueArtists": 23,
+    "avgRank": 47.7971,
+    "pointShare": 8.27
+  },
+  {
+    "year": 2019,
+    "genre": "Country",
+    "entries": 728,
+    "chartPoints": 27394,
+    "uniqueArtists": 42,
+    "avgRank": 63.3709,
+    "pointShare": 10.58
+  },
+  {
+    "year": 2019,
+    "genre": "Electronic",
+    "entries": 258,
+    "chartPoints": 13764,
+    "uniqueArtists": 24,
+    "avgRank": 47.6512,
+    "pointShare": 5.32
+  },
+  {
+    "year": 2019,
+    "genre": "Folk",
+    "entries": 1,
+    "chartPoints": 7,
+    "uniqueArtists": 1,
+    "avgRank": 94.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 2019,
+    "genre": "Gospel",
+    "entries": 1,
+    "chartPoints": 10,
+    "uniqueArtists": 1,
+    "avgRank": 91.0,
+    "pointShare": 0.0
+  },
+  {
+    "year": 2019,
+    "genre": "HipHop",
+    "entries": 1781,
+    "chartPoints": 91050,
+    "uniqueArtists": 166,
+    "avgRank": 49.877,
+    "pointShare": 35.17
+  },
+  {
+    "year": 2019,
+    "genre": "Jazz",
+    "entries": 74,
+    "chartPoints": 5556,
+    "uniqueArtists": 5,
+    "avgRank": 25.9189,
+    "pointShare": 2.15
+  },
+  {
+    "year": 2019,
+    "genre": "Latin",
+    "entries": 181,
+    "chartPoints": 5883,
+    "uniqueArtists": 17,
+    "avgRank": 68.4972,
+    "pointShare": 2.27
+  },
+  {
+    "year": 2019,
+    "genre": "Pop",
+    "entries": 1459,
+    "chartPoints": 84131,
+    "uniqueArtists": 83,
+    "avgRank": 43.3365,
+    "pointShare": 32.49
+  },
+  {
+    "year": 2019,
+    "genre": "RnB",
+    "entries": 167,
+    "chartPoints": 5123,
+    "uniqueArtists": 21,
+    "avgRank": 70.3234,
+    "pointShare": 1.98
+  },
+  {
+    "year": 2019,
+    "genre": "Rock",
+    "entries": 447,
+    "chartPoints": 25994,
+    "uniqueArtists": 22,
+    "avgRank": 42.8479,
+    "pointShare": 10.04
+  },
+  {
+    "year": 2020,
+    "genre": "Country",
+    "entries": 838,
+    "chartPoints": 36874,
+    "uniqueArtists": 47,
+    "avgRank": 56.9976,
+    "pointShare": 14.4
+  },
+  {
+    "year": 2020,
+    "genre": "Electronic",
+    "entries": 158,
+    "chartPoints": 8527,
+    "uniqueArtists": 11,
+    "avgRank": 47.0316,
+    "pointShare": 3.33
+  },
+  {
+    "year": 2020,
+    "genre": "HipHop",
+    "entries": 1946,
+    "chartPoints": 99721,
+    "uniqueArtists": 198,
+    "avgRank": 49.7559,
+    "pointShare": 38.95
+  },
+  {
+    "year": 2020,
+    "genre": "Jazz",
+    "entries": 39,
+    "chartPoints": 2024,
+    "uniqueArtists": 7,
+    "avgRank": 49.1026,
+    "pointShare": 0.79
+  },
+  {
+    "year": 2020,
+    "genre": "Latin",
+    "entries": 171,
+    "chartPoints": 4674,
+    "uniqueArtists": 21,
+    "avgRank": 73.6667,
+    "pointShare": 1.83
+  },
+  {
+    "year": 2020,
+    "genre": "Pop",
+    "entries": 1345,
+    "chartPoints": 78592,
+    "uniqueArtists": 87,
+    "avgRank": 42.5673,
+    "pointShare": 30.7
+  },
+  {
+    "year": 2020,
+    "genre": "RnB",
+    "entries": 173,
+    "chartPoints": 5031,
+    "uniqueArtists": 26,
+    "avgRank": 71.9191,
+    "pointShare": 1.97
+  },
+  {
+    "year": 2020,
+    "genre": "Rock",
+    "entries": 394,
+    "chartPoints": 20548,
+    "uniqueArtists": 33,
+    "avgRank": 48.8477,
+    "pointShare": 8.03
+  },
+  {
+    "year": 2021,
+    "genre": "Afrobeat",
+    "entries": 40,
+    "chartPoints": 2550,
+    "uniqueArtists": 3,
+    "avgRank": 37.25,
+    "pointShare": 1.01
+  },
+  {
+    "year": 2021,
+    "genre": "Country",
+    "entries": 981,
+    "chartPoints": 39553,
+    "uniqueArtists": 54,
+    "avgRank": 60.6809,
+    "pointShare": 15.63
+  },
+  {
+    "year": 2021,
+    "genre": "Electronic",
+    "entries": 77,
+    "chartPoints": 4325,
+    "uniqueArtists": 6,
+    "avgRank": 44.8312,
+    "pointShare": 1.71
+  },
+  {
+    "year": 2021,
+    "genre": "Gospel",
+    "entries": 1,
+    "chartPoints": 18,
+    "uniqueArtists": 1,
+    "avgRank": 83.0,
+    "pointShare": 0.01
+  },
+  {
+    "year": 2021,
+    "genre": "HipHop",
+    "entries": 1585,
+    "chartPoints": 73440,
+    "uniqueArtists": 205,
+    "avgRank": 54.6656,
+    "pointShare": 29.01
+  },
+  {
+    "year": 2021,
+    "genre": "Jazz",
+    "entries": 23,
+    "chartPoints": 1554,
+    "uniqueArtists": 5,
+    "avgRank": 33.4348,
+    "pointShare": 0.61
+  },
+  {
+    "year": 2021,
+    "genre": "Latin",
+    "entries": 159,
+    "chartPoints": 5973,
+    "uniqueArtists": 18,
+    "avgRank": 63.434,
+    "pointShare": 2.36
+  },
+  {
+    "year": 2021,
+    "genre": "Pop",
+    "entries": 1368,
+    "chartPoints": 83267,
+    "uniqueArtists": 81,
+    "avgRank": 40.1323,
+    "pointShare": 32.9
+  },
+  {
+    "year": 2021,
+    "genre": "RnB",
+    "entries": 290,
+    "chartPoints": 13748,
+    "uniqueArtists": 30,
+    "avgRank": 53.5931,
+    "pointShare": 5.43
+  },
+  {
+    "year": 2021,
+    "genre": "Rock",
+    "entries": 510,
+    "chartPoints": 28691,
+    "uniqueArtists": 43,
+    "avgRank": 44.7431,
+    "pointShare": 11.33
+  },
+  {
+    "year": 2022,
+    "genre": "Afrobeat",
+    "entries": 98,
+    "chartPoints": 3908,
+    "uniqueArtists": 6,
+    "avgRank": 61.1224,
+    "pointShare": 1.53
+  },
+  {
+    "year": 2022,
+    "genre": "Country",
+    "entries": 875,
+    "chartPoints": 38130,
+    "uniqueArtists": 49,
+    "avgRank": 57.4229,
+    "pointShare": 14.98
+  },
+  {
+    "year": 2022,
+    "genre": "Electronic",
+    "entries": 148,
+    "chartPoints": 5738,
+    "uniqueArtists": 16,
+    "avgRank": 62.2297,
+    "pointShare": 2.25
+  },
+  {
+    "year": 2022,
+    "genre": "Gospel",
+    "entries": 1,
+    "chartPoints": 36,
+    "uniqueArtists": 1,
+    "avgRank": 65.0,
+    "pointShare": 0.01
+  },
+  {
+    "year": 2022,
+    "genre": "HipHop",
+    "entries": 1400,
+    "chartPoints": 66055,
+    "uniqueArtists": 179,
+    "avgRank": 53.8179,
+    "pointShare": 25.94
+  },
+  {
+    "year": 2022,
+    "genre": "Jazz",
+    "entries": 119,
+    "chartPoints": 6911,
+    "uniqueArtists": 9,
+    "avgRank": 42.9244,
+    "pointShare": 2.71
+  },
+  {
+    "year": 2022,
+    "genre": "Latin",
+    "entries": 368,
+    "chartPoints": 17335,
+    "uniqueArtists": 23,
+    "avgRank": 53.894,
+    "pointShare": 6.81
+  },
+  {
+    "year": 2022,
+    "genre": "Pop",
+    "entries": 1377,
+    "chartPoints": 80626,
+    "uniqueArtists": 83,
+    "avgRank": 42.4481,
+    "pointShare": 31.67
+  },
+  {
+    "year": 2022,
+    "genre": "RnB",
+    "entries": 289,
+    "chartPoints": 13443,
+    "uniqueArtists": 32,
+    "avgRank": 54.4844,
+    "pointShare": 5.28
+  },
+  {
+    "year": 2022,
+    "genre": "Rock",
+    "entries": 403,
+    "chartPoints": 22437,
+    "uniqueArtists": 37,
+    "avgRank": 45.3251,
+    "pointShare": 8.81
+  },
+  {
+    "year": 2023,
+    "genre": "Afrobeat",
+    "entries": 53,
+    "chartPoints": 3724,
+    "uniqueArtists": 4,
+    "avgRank": 30.7358,
+    "pointShare": 1.49
+  },
+  {
+    "year": 2023,
+    "genre": "Country",
+    "entries": 1122,
+    "chartPoints": 55456,
+    "uniqueArtists": 47,
+    "avgRank": 51.574,
+    "pointShare": 22.13
+  },
+  {
+    "year": 2023,
+    "genre": "Electronic",
+    "entries": 104,
+    "chartPoints": 5550,
+    "uniqueArtists": 8,
+    "avgRank": 47.6346,
+    "pointShare": 2.21
+  },
+  {
+    "year": 2023,
+    "genre": "Gospel",
+    "entries": 1,
+    "chartPoints": 17,
+    "uniqueArtists": 1,
+    "avgRank": 84.0,
+    "pointShare": 0.01
+  },
+  {
+    "year": 2023,
+    "genre": "HipHop",
+    "entries": 1333,
+    "chartPoints": 62649,
+    "uniqueArtists": 151,
+    "avgRank": 54.0015,
+    "pointShare": 25.0
+  },
+  {
+    "year": 2023,
+    "genre": "Jazz",
+    "entries": 80,
+    "chartPoints": 5579,
+    "uniqueArtists": 9,
+    "avgRank": 31.2625,
+    "pointShare": 2.23
+  },
+  {
+    "year": 2023,
+    "genre": "Latin",
+    "entries": 657,
+    "chartPoints": 24967,
+    "uniqueArtists": 64,
+    "avgRank": 62.9985,
+    "pointShare": 9.96
+  },
+  {
+    "year": 2023,
+    "genre": "Pop",
+    "entries": 950,
+    "chartPoints": 54389,
+    "uniqueArtists": 77,
+    "avgRank": 43.7484,
+    "pointShare": 21.71
+  },
+  {
+    "year": 2023,
+    "genre": "RnB",
+    "entries": 318,
+    "chartPoints": 17691,
+    "uniqueArtists": 17,
+    "avgRank": 45.3679,
+    "pointShare": 7.06
+  },
+  {
+    "year": 2023,
+    "genre": "Rock",
+    "entries": 382,
+    "chartPoints": 20559,
+    "uniqueArtists": 33,
+    "avgRank": 47.1806,
+    "pointShare": 8.2
+  },
+  {
+    "year": 2024,
+    "genre": "Country",
+    "entries": 760,
+    "chartPoints": 33570,
+    "uniqueArtists": 45,
+    "avgRank": 56.8289,
+    "pointShare": 13.31
+  },
+  {
+    "year": 2024,
+    "genre": "Electronic",
+    "entries": 153,
+    "chartPoints": 6984,
+    "uniqueArtists": 14,
+    "avgRank": 55.3529,
+    "pointShare": 2.77
+  },
+  {
+    "year": 2024,
+    "genre": "Gospel",
+    "entries": 1,
+    "chartPoints": 50,
+    "uniqueArtists": 1,
+    "avgRank": 51.0,
+    "pointShare": 0.02
+  },
+  {
+    "year": 2024,
+    "genre": "HipHop",
+    "entries": 1520,
+    "chartPoints": 72083,
+    "uniqueArtists": 152,
+    "avgRank": 53.577,
+    "pointShare": 28.57
+  },
+  {
+    "year": 2024,
+    "genre": "Jazz",
+    "entries": 56,
+    "chartPoints": 3431,
+    "uniqueArtists": 6,
+    "avgRank": 39.7321,
+    "pointShare": 1.36
+  },
+  {
+    "year": 2024,
+    "genre": "Latin",
+    "entries": 189,
+    "chartPoints": 6153,
+    "uniqueArtists": 23,
+    "avgRank": 68.4444,
+    "pointShare": 2.44
+  },
+  {
+    "year": 2024,
+    "genre": "Pop",
+    "entries": 1588,
+    "chartPoints": 87116,
+    "uniqueArtists": 81,
+    "avgRank": 46.1411,
+    "pointShare": 34.53
+  },
+  {
+    "year": 2024,
+    "genre": "Reggae",
+    "entries": 13,
+    "chartPoints": 493,
+    "uniqueArtists": 1,
+    "avgRank": 63.0769,
+    "pointShare": 0.2
+  },
+  {
+    "year": 2024,
+    "genre": "RnB",
+    "entries": 209,
+    "chartPoints": 11605,
+    "uniqueArtists": 24,
+    "avgRank": 45.4737,
+    "pointShare": 4.6
+  },
+  {
+    "year": 2024,
+    "genre": "Rock",
+    "entries": 521,
+    "chartPoints": 30805,
+    "uniqueArtists": 34,
+    "avgRank": 41.8733,
+    "pointShare": 12.21
+  },
+  {
+    "year": 2025,
+    "genre": "Country",
+    "entries": 730,
+    "chartPoints": 34823,
+    "uniqueArtists": 46,
+    "avgRank": 53.2973,
+    "pointShare": 18.05
+  },
+  {
+    "year": 2025,
+    "genre": "Electronic",
+    "entries": 104,
+    "chartPoints": 3358,
+    "uniqueArtists": 10,
+    "avgRank": 68.7115,
+    "pointShare": 1.74
+  },
+  {
+    "year": 2025,
+    "genre": "Gospel",
+    "entries": 38,
+    "chartPoints": 1169,
+    "uniqueArtists": 3,
+    "avgRank": 70.2368,
+    "pointShare": 0.61
+  },
+  {
+    "year": 2025,
+    "genre": "HipHop",
+    "entries": 874,
+    "chartPoints": 40581,
+    "uniqueArtists": 106,
+    "avgRank": 54.5686,
+    "pointShare": 21.03
+  },
+  {
+    "year": 2025,
+    "genre": "Jazz",
+    "entries": 61,
+    "chartPoints": 3546,
+    "uniqueArtists": 7,
+    "avgRank": 42.8689,
+    "pointShare": 1.84
+  },
+  {
+    "year": 2025,
+    "genre": "Latin",
+    "entries": 255,
+    "chartPoints": 8449,
+    "uniqueArtists": 13,
+    "avgRank": 67.8667,
+    "pointShare": 4.38
+  },
+  {
+    "year": 2025,
+    "genre": "Pop",
+    "entries": 1268,
+    "chartPoints": 69460,
+    "uniqueArtists": 87,
+    "avgRank": 46.2208,
+    "pointShare": 36.0
+  },
+  {
+    "year": 2025,
+    "genre": "RnB",
+    "entries": 214,
+    "chartPoints": 11633,
+    "uniqueArtists": 13,
+    "avgRank": 46.6402,
+    "pointShare": 6.03
+  },
+  {
+    "year": 2025,
+    "genre": "Rock",
+    "entries": 349,
+    "chartPoints": 19914,
+    "uniqueArtists": 24,
+    "avgRank": 43.9398,
+    "pointShare": 10.32
+  }
+]

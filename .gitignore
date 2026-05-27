@@ -3,3 +3,13 @@
 *.env
 **/.env
 .env.*
+
+# OS/editor noise
+.DS_Store
+**/.DS_Store
+
+# web app generated files
+web/node_modules/
+web/.next/
+web/out/
+web/tsconfig.tsbuildinfo

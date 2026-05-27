@@ -1,0 +1,24 @@
+{
+  "name": "rock-evolution-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "data": "python3 scripts/build-dashboard-data.py",
+    "dev": "next dev",
+    "build": "npm run data && next build",
+    "start": "next start",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "^3.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.17.10",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "typescript": "5.6.3"
+  }
+}

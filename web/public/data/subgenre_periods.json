@@ -1,0 +1,1038 @@
+[
+  {
+    "period": "First Wave",
+    "startYear": 1958,
+    "endYear": 1964,
+    "subgenre": "Classic Rock",
+    "entries": 321,
+    "chartPoints": 20644,
+    "pointShare": 55.41,
+    "artists": 4,
+    "exampleArtists": [
+      "The Beatles",
+      "The Angels",
+      "The Rolling Stones",
+      "The Beatles With Tony Sheridan"
+    ]
+  },
+  {
+    "period": "First Wave",
+    "startYear": 1958,
+    "endYear": 1964,
+    "subgenre": "Punk Rock",
+    "entries": 216,
+    "chartPoints": 9984,
+    "pointShare": 26.8,
+    "artists": 17,
+    "exampleArtists": [
+      "The Kingsmen",
+      "The Trashmen",
+      "The Kinks",
+      "Link Wray And The Wraymen",
+      "The Mark IV"
+    ]
+  },
+  {
+    "period": "First Wave",
+    "startYear": 1958,
+    "endYear": 1964,
+    "subgenre": "Blues Rock",
+    "entries": 78,
+    "chartPoints": 3907,
+    "pointShare": 10.49,
+    "artists": 5,
+    "exampleArtists": [
+      "The Animals",
+      "Lonnie Mack",
+      "B.B. King",
+      "John Lee Hooker",
+      "B.B. King And His Orchestra"
+    ]
+  },
+  {
+    "period": "First Wave",
+    "startYear": 1958,
+    "endYear": 1964,
+    "subgenre": "Folk Rock",
+    "entries": 28,
+    "chartPoints": 1391,
+    "pointShare": 3.73,
+    "artists": 1,
+    "exampleArtists": [
+      "The Bachelors"
+    ]
+  },
+  {
+    "period": "First Wave",
+    "startYear": 1958,
+    "endYear": 1964,
+    "subgenre": "Hard Rock",
+    "entries": 19,
+    "chartPoints": 1050,
+    "pointShare": 2.82,
+    "artists": 2,
+    "exampleArtists": [
+      "Little Caesar and The Romans",
+      "Jimmy Barnes"
+    ]
+  },
+  {
+    "period": "First Wave",
+    "startYear": 1958,
+    "endYear": 1964,
+    "subgenre": "Emo / Post Rock",
+    "entries": 8,
+    "chartPoints": 226,
+    "pointShare": 0.61,
+    "artists": 1,
+    "exampleArtists": [
+      "Teddy & The Twilights"
+    ]
+  },
+  {
+    "period": "First Wave",
+    "startYear": 1958,
+    "endYear": 1964,
+    "subgenre": "Progressive Rock",
+    "entries": 6,
+    "chartPoints": 55,
+    "pointShare": 0.15,
+    "artists": 3,
+    "exampleArtists": [
+      "Charles Brown",
+      "Bobby Callender",
+      "Wyatt (Earp) McPherson"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Classic Rock",
+    "entries": 2750,
+    "chartPoints": 160650,
+    "pointShare": 32.7,
+    "artists": 53,
+    "exampleArtists": [
+      "The Beatles",
+      "The Rolling Stones",
+      "The Guess Who",
+      "Creedence Clearwater Revival",
+      "The Who"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Folk Rock",
+    "entries": 1640,
+    "chartPoints": 92806,
+    "pointShare": 18.89,
+    "artists": 31,
+    "exampleArtists": [
+      "Simon & Garfunkel",
+      "The Grass Roots",
+      "Donovan",
+      "The Turtles",
+      "The Lovin' Spoonful"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Soft Rock",
+    "entries": 1346,
+    "chartPoints": 79731,
+    "pointShare": 16.23,
+    "artists": 20,
+    "exampleArtists": [
+      "Three Dog Night",
+      "Chicago",
+      "Bread",
+      "B.J. Thomas",
+      "Lobo"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Progressive Rock",
+    "entries": 1187,
+    "chartPoints": 59034,
+    "pointShare": 12.02,
+    "artists": 49,
+    "exampleArtists": [
+      "Tommy James And The Shondells",
+      "Blood, Sweat & Tears",
+      "Eric Burdon & The Animals",
+      "The McCoys",
+      "Jefferson Airplane"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Punk Rock",
+    "entries": 988,
+    "chartPoints": 50300,
+    "pointShare": 10.24,
+    "artists": 53,
+    "exampleArtists": [
+      "Paul Revere & The Raiders Featuring Mark Lindsay",
+      "The Kinks",
+      "The Troggs",
+      "The Spencer Davis Group",
+      "Paul Revere & The Raiders"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Blues Rock",
+    "entries": 655,
+    "chartPoints": 28543,
+    "pointShare": 5.81,
+    "artists": 26,
+    "exampleArtists": [
+      "B.B. King",
+      "The Yardbirds",
+      "The Animals",
+      "Canned Heat",
+      "J.J. Cale"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Hard Rock",
+    "entries": 297,
+    "chartPoints": 14918,
+    "pointShare": 3.04,
+    "artists": 9,
+    "exampleArtists": [
+      "Grand Funk",
+      "Edgar Winter Group",
+      "Brownsville Station",
+      "Five Man Electrical Band",
+      "The Jimi Hendrix Experience"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Alternative Rock",
+    "entries": 66,
+    "chartPoints": 2911,
+    "pointShare": 0.59,
+    "artists": 3,
+    "exampleArtists": [
+      "CROW",
+      "The Presidents",
+      "The Choir"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Metal",
+    "entries": 49,
+    "chartPoints": 2086,
+    "pointShare": 0.42,
+    "artists": 5,
+    "exampleArtists": [
+      "Deliverance/Eric Weissberg & Steve Mandell",
+      "Black Sabbath",
+      "Salvage",
+      "Grin",
+      "The Magic Lantern"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Indie Rock",
+    "entries": 9,
+    "chartPoints": 170,
+    "pointShare": 0.03,
+    "artists": 1,
+    "exampleArtists": [
+      "The Holidays"
+    ]
+  },
+  {
+    "period": "Expansion",
+    "startYear": 1965,
+    "endYear": 1974,
+    "subgenre": "Emo / Post Rock",
+    "entries": 7,
+    "chartPoints": 93,
+    "pointShare": 0.02,
+    "artists": 2,
+    "exampleArtists": [
+      "The First Class",
+      "Cool Heat"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Classic Rock",
+    "entries": 9424,
+    "chartPoints": 500058,
+    "pointShare": 37.14,
+    "artists": 88,
+    "exampleArtists": [
+      "Aerosmith",
+      "Heart",
+      "Foreigner",
+      "Fleetwood Mac",
+      "Journey"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Soft Rock",
+    "entries": 7850,
+    "chartPoints": 448222,
+    "pointShare": 33.29,
+    "artists": 83,
+    "exampleArtists": [
+      "Billy Joel",
+      "Air Supply",
+      "Rod Stewart",
+      "Chicago",
+      "Barry Manilow"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Hard Rock",
+    "entries": 2918,
+    "chartPoints": 136674,
+    "pointShare": 10.15,
+    "artists": 69,
+    "exampleArtists": [
+      "Bryan Adams",
+      "Survivor",
+      "Loverboy",
+      "Starship",
+      "Night Ranger"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Metal",
+    "entries": 1596,
+    "chartPoints": 81731,
+    "pointShare": 6.07,
+    "artists": 43,
+    "exampleArtists": [
+      "Bon Jovi",
+      "Poison",
+      "Warrant",
+      "Bad English",
+      "Nelson"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Punk Rock",
+    "entries": 1260,
+    "chartPoints": 63584,
+    "pointShare": 4.72,
+    "artists": 34,
+    "exampleArtists": [
+      "The Police",
+      "Expose",
+      "Blondie",
+      "Pretenders",
+      "Talking Heads"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Progressive Rock",
+    "entries": 784,
+    "chartPoints": 36771,
+    "pointShare": 2.73,
+    "artists": 28,
+    "exampleArtists": [
+      "Genesis",
+      "Asia",
+      "Yes",
+      "Manfred Mann's Earth Band",
+      "Dennis DeYoung"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Folk Rock",
+    "entries": 626,
+    "chartPoints": 29705,
+    "pointShare": 2.21,
+    "artists": 19,
+    "exampleArtists": [
+      "America",
+      "Crosby, Stills & Nash",
+      "Jennifer Warnes",
+      "Hooters",
+      "Seals & Crofts"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Alternative Rock",
+    "entries": 560,
+    "chartPoints": 26851,
+    "pointShare": 1.99,
+    "artists": 18,
+    "exampleArtists": [
+      "INXS",
+      "R.E.M.",
+      "Crowded House",
+      "Psychedelic Furs",
+      "Sinead O'Connor"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Blues Rock",
+    "entries": 425,
+    "chartPoints": 20247,
+    "pointShare": 1.5,
+    "artists": 23,
+    "exampleArtists": [
+      "Alannah Myles",
+      "Steve Miller",
+      "Blues Brothers",
+      "The Fabulous Thunderbirds",
+      "Delbert McClinton"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Emo / Post Rock",
+    "entries": 32,
+    "chartPoints": 1367,
+    "pointShare": 0.1,
+    "artists": 4,
+    "exampleArtists": [
+      "Ollie And Jerry",
+      "Glass Moon",
+      "Julie",
+      "Current"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Indie Rock",
+    "entries": 41,
+    "chartPoints": 921,
+    "pointShare": 0.07,
+    "artists": 4,
+    "exampleArtists": [
+      "Hotel",
+      "Buckeye",
+      "Goanna",
+      "Biscuit"
+    ]
+  },
+  {
+    "period": "Arena Peak",
+    "startYear": 1975,
+    "endYear": 1991,
+    "subgenre": "Grunge Rock",
+    "entries": 4,
+    "chartPoints": 307,
+    "pointShare": 0.02,
+    "artists": 1,
+    "exampleArtists": [
+      "Nirvana"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Alternative Rock",
+    "entries": 4147,
+    "chartPoints": 232045,
+    "pointShare": 37.81,
+    "artists": 80,
+    "exampleArtists": [
+      "Sheryl Crow",
+      "Alanis Morissette",
+      "Hootie & The Blowfish",
+      "Goo Goo Dolls",
+      "Third Eye Blind"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Grunge Rock",
+    "entries": 2106,
+    "chartPoints": 115986,
+    "pointShare": 18.9,
+    "artists": 27,
+    "exampleArtists": [
+      "3 Doors Down",
+      "Matchbox Twenty",
+      "Creed",
+      "Nickelback",
+      "Collective Soul"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Metal",
+    "entries": 1665,
+    "chartPoints": 69926,
+    "pointShare": 11.39,
+    "artists": 47,
+    "exampleArtists": [
+      "Linkin Park",
+      "Bon Jovi",
+      "Staind",
+      "Hoobastank",
+      "Mr. Big"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Classic Rock",
+    "entries": 1239,
+    "chartPoints": 66012,
+    "pointShare": 10.76,
+    "artists": 23,
+    "exampleArtists": [
+      "Aerosmith",
+      "Eric Clapton",
+      "Def Leppard",
+      "Meat Loaf",
+      "John Mellencamp"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Soft Rock",
+    "entries": 862,
+    "chartPoints": 43068,
+    "pointShare": 7.02,
+    "artists": 19,
+    "exampleArtists": [
+      "Richard Marx",
+      "Michael Bolton",
+      "Rod Stewart",
+      "Phil Collins",
+      "Sting"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Punk Rock",
+    "entries": 705,
+    "chartPoints": 30335,
+    "pointShare": 4.94,
+    "artists": 25,
+    "exampleArtists": [
+      "Expose",
+      "blink-182",
+      "Jimmy Eat World",
+      "Simple Plan",
+      "Pretenders"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Hard Rock",
+    "entries": 614,
+    "chartPoints": 27761,
+    "pointShare": 4.52,
+    "artists": 18,
+    "exampleArtists": [
+      "Bryan Adams",
+      "Lenny Kravitz",
+      "Metallica",
+      "Bryan Adams/Rod Stewart/Sting",
+      "Ozzy Osbourne"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Folk Rock",
+    "entries": 193,
+    "chartPoints": 12356,
+    "pointShare": 2.01,
+    "artists": 2,
+    "exampleArtists": [
+      "Melissa Etheridge",
+      "Tracy Chapman"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Indie Rock",
+    "entries": 154,
+    "chartPoints": 6305,
+    "pointShare": 1.03,
+    "artists": 6,
+    "exampleArtists": [
+      "Edwin McCain",
+      "Adam Clayton & Larry Mullen",
+      "Franz Ferdinand",
+      "Jill Sobule",
+      "Everything"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Progressive Rock",
+    "entries": 91,
+    "chartPoints": 5794,
+    "pointShare": 0.94,
+    "artists": 1,
+    "exampleArtists": [
+      "Genesis"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Blues Rock",
+    "entries": 60,
+    "chartPoints": 2287,
+    "pointShare": 0.37,
+    "artists": 5,
+    "exampleArtists": [
+      "Joan Osborne",
+      "Josh Kelley",
+      "Beth Hart",
+      "Sass Jordan",
+      "The Jeff Healey Band"
+    ]
+  },
+  {
+    "period": "Alternative Aftershock",
+    "startYear": 1992,
+    "endYear": 2004,
+    "subgenre": "Emo / Post Rock",
+    "entries": 42,
+    "chartPoints": 1865,
+    "pointShare": 0.3,
+    "artists": 3,
+    "exampleArtists": [
+      "The Verve",
+      "Mazzy Star",
+      "Sunday"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Alternative Rock",
+    "entries": 2370,
+    "chartPoints": 113372,
+    "pointShare": 36.7,
+    "artists": 69,
+    "exampleArtists": [
+      "The Fray",
+      "Daughtry",
+      "Coldplay",
+      "Avril Lavigne",
+      "AWOLNATION"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Punk Rock",
+    "entries": 1300,
+    "chartPoints": 65301,
+    "pointShare": 21.14,
+    "artists": 34,
+    "exampleArtists": [
+      "Fall Out Boy",
+      "The All-American Rejects",
+      "Green Day",
+      "Paramore",
+      "5 Seconds of Summer"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Grunge Rock",
+    "entries": 857,
+    "chartPoints": 43939,
+    "pointShare": 14.22,
+    "artists": 16,
+    "exampleArtists": [
+      "Nickelback",
+      "3 Doors Down",
+      "Lifehouse",
+      "Hinder",
+      "Matchbox Twenty"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Metal",
+    "entries": 740,
+    "chartPoints": 27362,
+    "pointShare": 8.86,
+    "artists": 26,
+    "exampleArtists": [
+      "Linkin Park",
+      "Shinedown",
+      "Papa Roach",
+      "Bon Jovi",
+      "Evanescence"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Soft Rock",
+    "entries": 294,
+    "chartPoints": 16651,
+    "pointShare": 5.39,
+    "artists": 7,
+    "exampleArtists": [
+      "Sara Bareilles",
+      "The Script",
+      "James Blunt",
+      "The Script Featuring will.i.am",
+      "Adam Levine & Javier Colon"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Folk Rock",
+    "entries": 302,
+    "chartPoints": 14604,
+    "pointShare": 4.73,
+    "artists": 17,
+    "exampleArtists": [
+      "Mumford & Sons",
+      "B.o.B Featuring Hayley Williams",
+      "B.o.B Featuring Bruno Mars",
+      "B.o.B Featuring Rivers Cuomo",
+      "B.o.B"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Indie Rock",
+    "entries": 206,
+    "chartPoints": 11652,
+    "pointShare": 3.77,
+    "artists": 15,
+    "exampleArtists": [
+      "Gotye Featuring Kimbra",
+      "American Authors",
+      "Howie Day",
+      "Augustana",
+      "Hozier"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Emo / Post Rock",
+    "entries": 225,
+    "chartPoints": 9984,
+    "pointShare": 3.23,
+    "artists": 5,
+    "exampleArtists": [
+      "Jonas Brothers",
+      "Panic! At The Disco",
+      "Secondhand Serenade",
+      "M83.",
+      "Panic! At The Disco Featuring Lolo"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Hard Rock",
+    "entries": 181,
+    "chartPoints": 5281,
+    "pointShare": 1.71,
+    "artists": 12,
+    "exampleArtists": [
+      "Buckcherry",
+      "Breaking Benjamin",
+      "Lenny Kravitz",
+      "Metallica",
+      "Disturbed"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Blues Rock",
+    "entries": 42,
+    "chartPoints": 623,
+    "pointShare": 0.2,
+    "artists": 4,
+    "exampleArtists": [
+      "The Black Keys",
+      "Jack White & Alicia Keys",
+      "Josh Kelley",
+      "Alabama Shakes"
+    ]
+  },
+  {
+    "period": "Digital Fragmentation",
+    "startYear": 2005,
+    "endYear": 2014,
+    "subgenre": "Classic Rock",
+    "entries": 6,
+    "chartPoints": 160,
+    "pointShare": 0.05,
+    "artists": 4,
+    "exampleArtists": [
+      "Guns N' Roses",
+      "Van Halen",
+      "John Mellencamp",
+      "Tom Petty"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Emo / Post Rock",
+    "entries": 966,
+    "chartPoints": 49366,
+    "pointShare": 36.24,
+    "artists": 39,
+    "exampleArtists": [
+      "Juice WRLD",
+      "Jonas Brothers",
+      "XXXTENTACION",
+      "The Kid LAROI & Justin Bieber",
+      "Panic! At The Disco"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Punk Rock",
+    "entries": 605,
+    "chartPoints": 34763,
+    "pointShare": 25.52,
+    "artists": 10,
+    "exampleArtists": [
+      "Olivia Rodrigo",
+      "5 Seconds of Summer",
+      "Fall Out Boy",
+      "MGK & Jelly Roll",
+      "All Time Low Featuring Demi Lovato & Blackbear"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Alternative Rock",
+    "entries": 431,
+    "chartPoints": 23903,
+    "pointShare": 17.55,
+    "artists": 18,
+    "exampleArtists": [
+      "Teddy Swims",
+      "X Ambassadors",
+      "Coldplay",
+      "Maneskin",
+      "George Ezra"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Indie Rock",
+    "entries": 207,
+    "chartPoints": 13860,
+    "pointShare": 10.17,
+    "artists": 8,
+    "exampleArtists": [
+      "Hozier",
+      "Walk the Moon",
+      "Portugal. The Man",
+      "Rosa Linn",
+      "Kaleo"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Hard Rock",
+    "entries": 141,
+    "chartPoints": 6759,
+    "pointShare": 4.96,
+    "artists": 17,
+    "exampleArtists": [
+      "Machine Gun Kelly X Blackbear",
+      "Machine Gun Kelly x Camila Cabello",
+      "Disturbed",
+      "Machine Gun Kelly",
+      "Ozzy Osbourne"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Blues Rock",
+    "entries": 68,
+    "chartPoints": 3417,
+    "pointShare": 2.51,
+    "artists": 2,
+    "exampleArtists": [
+      "Elle King",
+      "Elle King & Miranda Lambert"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Metal",
+    "entries": 71,
+    "chartPoints": 2248,
+    "pointShare": 1.65,
+    "artists": 8,
+    "exampleArtists": [
+      "Linkin Park Featuring Kiiara",
+      "Sleep Token",
+      "Linkin Park",
+      "Bad Wolves",
+      "Falling in Reverse & Jelly Roll"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Classic Rock",
+    "entries": 19,
+    "chartPoints": 1226,
+    "pointShare": 0.9,
+    "artists": 5,
+    "exampleArtists": [
+      "Eagles",
+      "Fleetwood Mac",
+      "Queen",
+      "The Beatles",
+      "Queen & David Bowie"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Folk Rock",
+    "entries": 25,
+    "chartPoints": 527,
+    "pointShare": 0.39,
+    "artists": 3,
+    "exampleArtists": [
+      "Mumford & Sons",
+      "B.o.B Featuring Trey Songz",
+      "Tracy Chapman"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Soft Rock",
+    "entries": 2,
+    "chartPoints": 102,
+    "pointShare": 0.07,
+    "artists": 2,
+    "exampleArtists": [
+      "Jimmy Buffett",
+      "Billy Joel"
+    ]
+  },
+  {
+    "period": "Streaming Era",
+    "startYear": 2015,
+    "endYear": 2025,
+    "subgenre": "Grunge Rock",
+    "entries": 1,
+    "chartPoints": 55,
+    "pointShare": 0.04,
+    "artists": 1,
+    "exampleArtists": [
+      "Nirvana"
+    ]
+  }
+]

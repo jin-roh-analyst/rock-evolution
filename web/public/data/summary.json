@@ -1,0 +1,154 @@
+{
+  "dateRange": {
+    "start": "1958-08-11",
+    "end": "2025-10-11"
+  },
+  "years": {
+    "start": 1958,
+    "end": 2025,
+    "latestFullYear": 2025
+  },
+  "rows": 359924,
+  "artists": 11112,
+  "knownGenreEntries": 302762,
+  "missingGenreEntries": 57162,
+  "missingGenreRate": 15.88,
+  "rockPeak": {
+    "year": 1978,
+    "era": "Arena Peak",
+    "totalEntries": 5324,
+    "knownGenreEntries": 4127,
+    "missingGenreEntries": 1197,
+    "missingGenreRate": 22.48,
+    "uniqueArtists": 345,
+    "rockEntries": 2528,
+    "rockChartPoints": 134911,
+    "rockShare": 63.8,
+    "genreHHI": 0.4474,
+    "genreEntropy": 1.1609
+  },
+  "latest": {
+    "year": 2025,
+    "era": "Streaming Era",
+    "totalEntries": 4128,
+    "knownGenreEntries": 3893,
+    "missingGenreEntries": 235,
+    "missingGenreRate": 5.69,
+    "uniqueArtists": 340,
+    "rockEntries": 349,
+    "rockChartPoints": 19914,
+    "rockShare": 10.32,
+    "genreHHI": 0.2233,
+    "genreEntropy": 1.7204
+  },
+  "rockDeclineSincePeakPctPoints": 53.48,
+  "topRockArtist": {
+    "artist": "Elton John",
+    "first_year": 1970,
+    "last_year": 2000,
+    "active_years": 30,
+    "entries": 889,
+    "chart_points": 55477,
+    "peak_rank": 1,
+    "primary_genre": "Rock",
+    "span": 31
+  },
+  "genres": [
+    {
+      "name": "Rock",
+      "color": "#f5b84b"
+    },
+    {
+      "name": "Pop",
+      "color": "#6fc7d9"
+    },
+    {
+      "name": "HipHop",
+      "color": "#d85c4a"
+    },
+    {
+      "name": "RnB",
+      "color": "#b889ff"
+    },
+    {
+      "name": "Country",
+      "color": "#8bcf73"
+    },
+    {
+      "name": "Electronic",
+      "color": "#5f8cff"
+    },
+    {
+      "name": "Latin",
+      "color": "#f07eb3"
+    },
+    {
+      "name": "Jazz",
+      "color": "#d6a06d"
+    },
+    {
+      "name": "Folk",
+      "color": "#b7c98d"
+    },
+    {
+      "name": "Gospel",
+      "color": "#c8b46a"
+    },
+    {
+      "name": "Reggae",
+      "color": "#55b86f"
+    },
+    {
+      "name": "Blues",
+      "color": "#668bd8"
+    },
+    {
+      "name": "Classical",
+      "color": "#b8b8c8"
+    },
+    {
+      "name": "Afrobeat",
+      "color": "#ff8a4c"
+    },
+    {
+      "name": "World",
+      "color": "#9fb1a8"
+    },
+    {
+      "name": "Unknown",
+      "color": "#525252"
+    }
+  ],
+  "eras": [
+    {
+      "name": "First Wave",
+      "start": 1958,
+      "end": 1964
+    },
+    {
+      "name": "Expansion",
+      "start": 1965,
+      "end": 1974
+    },
+    {
+      "name": "Arena Peak",
+      "start": 1975,
+      "end": 1991
+    },
+    {
+      "name": "Alternative Aftershock",
+      "start": 1992,
+      "end": 2004
+    },
+    {
+      "name": "Digital Fragmentation",
+      "start": 2005,
+      "end": 2014
+    },
+    {
+      "name": "Streaming Era",
+      "start": 2015,
+      "end": 2025
+    }
+  ]
+}

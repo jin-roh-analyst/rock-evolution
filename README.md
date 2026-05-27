@@ -2,16 +2,16 @@
 
 ## 📌 Project Overview
 
-This project is a **full‑stack analytics + business intelligence case study** analyzing the long‑term evolution of **rock music popularity** using over 65 years of Billboard Hot 100 data.
+This project is a **full‑stack analytics + interactive dashboard case study** analyzing the long‑term evolution of **rock music popularity** using over 65 years of Billboard Hot 100 data.
 
 Built as a **BI portfolio project for recruiters and hiring managers**, it demonstrates:
 
 * End‑to‑end data engineering (raw → enriched → BI‑ready)
 * SQL + Python analytics workflows
-* Advanced Tableau dashboard design (parameters, actions, highlighting)
+* Static web dashboard design with local precomputed analytics files
 * Insight‑driven storytelling for non‑technical stakeholders
 
-The final deliverable is an **interactive Tableau dashboard** that allows users to explore how rock music rose, fragmented, and declined relative to other genres—while highlighting key inflection years, artists, and sub‑genres.
+The current primary deliverable is an **interactive web dashboard** that allows users to explore how rock music rose, fragmented, and declined relative to other genres—while highlighting key inflection years, artists, and sub‑genres.
 
 ---
 
@@ -55,6 +55,11 @@ rock-evolution/
 │   ├── 01_unique_artists_year.sql
 │   └── 02_clean_unique_artists_by_level.sql
 │
+├── web/            # Static Next.js dashboard and generated JSON data
+│   ├── app/
+│   ├── scripts/build-dashboard-data.py
+│   └── public/data/
+│
 ├── final/          # Final aggregated outputs
 │   └── Result_12.csv
 │
@@ -86,20 +91,55 @@ Primary raw file:
 * **SQL** (aggregation, deduplication, normalization)
 * Modular ETL pipeline with reproducible steps
 
-### Business Intelligence
+### Dashboard
 
-* **Tableau Desktop / Tableau Public**
-* Advanced features used:
-
-  * Parameters (single year slider)
-  * Parameter‑driven reference lines
-  * Highlight actions (non‑filtering)
-  * Context vs normal filters
-  * Dual‑axis synchronization
+* **Next.js / React / TypeScript**
+* **Recharts**
+* Static JSON data generated from the local Billboard master file
+* No live API keys required for the dashboard
 
 ---
 
-## 📊 Tableau Dashboard (Final Deliverable)
+## 🌐 Web Dashboard (Primary Deliverable)
+
+The web dashboard is the new portfolio version of the project. It keeps the music-magazine energy of the Tableau version, but adds a stronger analytics layer and a cleaner interaction model.
+
+### Run Locally
+
+```bash
+cd web
+npm install
+npm run data
+npm run dev
+```
+
+Then open:
+
+```text
+http://localhost:3000
+```
+
+### Build
+
+```bash
+cd web
+npm run lint
+npm run build
+```
+
+### Added Analytics
+
+* **Chart-point share:** rank-weighted genre share using `101 - rank`, so #1 hits matter more than #100 entries.
+* **Rock dominance index:** annual rock chart-point share against all known-genre chart points.
+* **Genre concentration / fragmentation:** HHI and entropy by year.
+* **Artist churn:** new vs retained artists by year.
+* **Artist longevity:** first year, last year, active years, entries, chart points, and peak rank.
+* **Rock subgenre mix:** rock-tag family breakdown from raw genre tags.
+* **Data quality visibility:** missing genre counts and missing genre rate.
+
+---
+
+## 📊 Tableau Dashboard (Earlier Version)
 
 ### 📊 Interactive Dashboard
 
@@ -109,7 +149,7 @@ Primary raw file:
 #### Rock Evolution Dashboard
 [![Rock Dashboard](assets/rock.png)](https://public.tableau.com/app/profile/jinwoo.roh/viz/Evolution_of_Music_Genre/Overview)
 
-The Tableau dashboard is the **centerpiece of this project**.
+The Tableau dashboard is the earlier BI version of this project. It remains useful as a design and workflow reference, but the web dashboard is now the primary portfolio artifact.
 
 ### Key Design Goals
 

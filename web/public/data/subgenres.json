@@ -1,0 +1,158 @@
+[
+  {
+    "subgenre": "Classic Rock",
+    "entries": 13759,
+    "chartPoints": 748750,
+    "artists": 110,
+    "exampleArtists": [
+      "Aerosmith",
+      "The Beatles",
+      "The Rolling Stones",
+      "Heart",
+      "Fleetwood Mac"
+    ]
+  },
+  {
+    "subgenre": "Soft Rock",
+    "entries": 10354,
+    "chartPoints": 587774,
+    "artists": 102,
+    "exampleArtists": [
+      "Rod Stewart",
+      "Chicago",
+      "Billy Joel",
+      "Air Supply",
+      "Barry Manilow"
+    ]
+  },
+  {
+    "subgenre": "Alternative Rock",
+    "entries": 7574,
+    "chartPoints": 399082,
+    "artists": 157,
+    "exampleArtists": [
+      "Avril Lavigne",
+      "Coldplay",
+      "Sheryl Crow",
+      "Alanis Morissette",
+      "Goo Goo Dolls"
+    ]
+  },
+  {
+    "subgenre": "Punk Rock",
+    "entries": 5074,
+    "chartPoints": 254267,
+    "artists": 149,
+    "exampleArtists": [
+      "Olivia Rodrigo",
+      "Fall Out Boy",
+      "5 Seconds of Summer",
+      "Expose",
+      "The Police"
+    ]
+  },
+  {
+    "subgenre": "Hard Rock",
+    "entries": 4170,
+    "chartPoints": 192443,
+    "artists": 102,
+    "exampleArtists": [
+      "Bryan Adams",
+      "Survivor",
+      "Lenny Kravitz",
+      "Loverboy",
+      "Starship"
+    ]
+  },
+  {
+    "subgenre": "Metal",
+    "entries": 4121,
+    "chartPoints": 183353,
+    "artists": 104,
+    "exampleArtists": [
+      "Bon Jovi",
+      "Linkin Park",
+      "Poison",
+      "Staind",
+      "Firehouse"
+    ]
+  },
+  {
+    "subgenre": "Grunge Rock",
+    "entries": 2968,
+    "chartPoints": 160287,
+    "artists": 33,
+    "exampleArtists": [
+      "3 Doors Down",
+      "Nickelback",
+      "Matchbox Twenty",
+      "Creed",
+      "Lifehouse"
+    ]
+  },
+  {
+    "subgenre": "Folk Rock",
+    "entries": 2814,
+    "chartPoints": 151389,
+    "artists": 60,
+    "exampleArtists": [
+      "Simon & Garfunkel",
+      "America",
+      "The Grass Roots",
+      "Melissa Etheridge",
+      "Donovan"
+    ]
+  },
+  {
+    "subgenre": "Progressive Rock",
+    "entries": 2068,
+    "chartPoints": 101654,
+    "artists": 74,
+    "exampleArtists": [
+      "Genesis",
+      "Tommy James And The Shondells",
+      "Yes",
+      "Blood, Sweat & Tears",
+      "Asia"
+    ]
+  },
+  {
+    "subgenre": "Emo / Post Rock",
+    "entries": 1280,
+    "chartPoints": 62901,
+    "artists": 52,
+    "exampleArtists": [
+      "Jonas Brothers",
+      "Juice WRLD",
+      "Panic! At The Disco",
+      "XXXTENTACION",
+      "The Kid LAROI & Justin Bieber"
+    ]
+  },
+  {
+    "subgenre": "Blues Rock",
+    "entries": 1328,
+    "chartPoints": 59024,
+    "artists": 53,
+    "exampleArtists": [
+      "B.B. King",
+      "The Animals",
+      "The Yardbirds",
+      "Alannah Myles",
+      "Steve Miller"
+    ]
+  },
+  {
+    "subgenre": "Indie Rock",
+    "entries": 617,
+    "chartPoints": 32908,
+    "artists": 29,
+    "exampleArtists": [
+      "Hozier",
+      "Gotye Featuring Kimbra",
+      "Walk the Moon",
+      "Portugal. The Man",
+      "Edwin McCain"
+    ]
+  }
+]

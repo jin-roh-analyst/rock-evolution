@@ -1,0 +1,17 @@
+{
+  "sources": [
+    "Billboard Hot 100 weekly chart rows from 1958-08-09 to latest local file.",
+    "Spotify and MusicBrainz genre tags already enriched in the project data."
+  ],
+  "metrics": [
+    "Chart points are calculated as 101 - rank, so a #1 song contributes 100 points and a #100 song contributes 1 point.",
+    "Point share divides a genre's annual chart points by all known-genre chart points in that year.",
+    "HHI is the sum of squared genre point shares; higher values mean the chart is more concentrated.",
+    "Artist churn compares each year's charting artists with the previous year's charting artists."
+  ],
+  "limitations": [
+    "Genre labels are rule-based and depend on Spotify/MusicBrainz tags.",
+    "Rows without genre_main are included in data-quality metrics but excluded from genre-share denominators.",
+    "2025 may be partial depending on the latest raw Billboard file date."
+  ]
+}
