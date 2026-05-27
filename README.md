@@ -13,6 +13,10 @@ Built as a **BI portfolio project for recruiters and hiring managers**, it demon
 
 The current primary deliverable is an **interactive web dashboard** that allows users to explore how rock music rose, fragmented, and declined relative to other genres—while highlighting key inflection years, artists, and sub‑genres.
 
+🔗 **Open the live dashboard:** [https://rock-evolution.vercel.app/](https://rock-evolution.vercel.app/)
+
+For the best experience, open the live dashboard above instead of only reading the repository. The project is designed to be explored interactively.
+
 ---
 
 ## 🎯 Audience & Use Case
@@ -103,6 +107,8 @@ Primary raw file:
 ## 🌐 Web Dashboard (Primary Deliverable)
 
 The web dashboard is the new portfolio version of the project. It keeps the music-magazine energy of the Tableau version, but adds a stronger analytics layer and a cleaner interaction model.
+
+👉 **View it live:** [https://rock-evolution.vercel.app/](https://rock-evolution.vercel.app/)
 
 ### Run Locally
 
